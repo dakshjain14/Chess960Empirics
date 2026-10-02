@@ -1,0 +1,338 @@
+[Event "2025 Freestyle Chess Grand Slam Las Vegas Play In 5th 8th Ko"]
+[Site "Chess.com"]
+[Date "2025.06.20"]
+[Round "1.1"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Le, Quang Liem"]
+[Result "1/2-1/2"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "1170546"]
+[BlackFideId "12401137"]
+[WhiteElo "2712"]
+[BlackElo "2695"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:00:58"]
+[BlackClock "0:01:01"]
+[Variant "Chess960"]
+[FEN "bqrbkrnn/pppppppp/8/8/8/8/PPPPPPPP/BQRBKRNN w FCfc - 0 1"]
+[Termination "insufficient"]
+[EndDate "2025.06.20"]
+[EndTime "15:50:01"]
+
+1. b4 {[%clk 0:15:02]}  Nf6 {[%clk 0:14:59]} 2. Nf3 {[%clk 0:14:34]}  b5 {[%clk 0:14:55]} 3. c4 {[%clk 0:13:57]}  bxc4 {[%clk 0:14:49]}
+4. Rxc4 {[%clk 0:13:58]}  Ng6 {[%clk 0:14:40]} 5. Ba4 {[%clk 0:13:49]}  Bd5 {[%clk 0:14:12]} 6. Rc1 {[%clk 0:12:27]}  Nf4 {[%clk 0:12:43]}
+7. Bxf6 {[%clk 0:10:46]}  Nxg2+ {[%clk 0:12:38]} 8. Kd1 {[%clk 0:10:47]}  gxf6 {[%clk 0:12:41]} 9. Rg1 {[%clk 0:10:37]}  Nf4 {[%clk 0:12:00]}
+10. Bxd7+ {[%clk 0:10:17]}  Kxd7 {[%clk 0:12:02]} 11. Qf5+ {[%clk 0:10:19]}  e6 {[%clk 0:12:01]} 12. Qxf4 {[%clk 0:10:21]}  Be7 {[%clk 0:11:44]}
+13. a3 {[%clk 0:09:40]}  a5 {[%clk 0:10:43]} 14. Rg4 {[%clk 0:09:16]}  Qb5 {[%clk 0:10:06]} 15. Ke1 {[%clk 0:08:27]}  axb4 {[%clk 0:09:09]}
+16. axb4 {[%clk 0:08:30]}  c5 {[%clk 0:09:11]} 17. bxc5 {[%clk 0:07:40]}  Rxc5 {[%clk 0:09:14]} 18. Rd1 {[%clk 0:07:33]}  Rfc8 {[%clk 0:07:48]}
+19. d3 {[%clk 0:06:38]}  Bxf3 {[%clk 0:04:30]} 20. exf3 {[%clk 0:04:50]}  h5 {[%clk 0:03:34]} 21. Rg7 {[%clk 0:04:11]}  Qb3 {[%clk 0:03:34]}
+22. Ng3 {[%clk 0:04:10]}  Re5+ {[%clk 0:03:09]} 23. Ne4 {[%clk 0:04:08]}  Bb4+ {[%clk 0:02:07]} 24. Ke2 {[%clk 0:04:06]}  Qc2+ {[%clk 0:02:09]}
+25. Rd2 {[%clk 0:02:33]}  Bxd2 {[%clk 0:01:41]} 26. Qxd2 {[%clk 0:02:31]}  Ke7 {[%clk 0:01:41]} 27. Qxc2 {[%clk 0:02:24]}  Rxc2+ {[%clk 0:01:44]}
+28. Ke3 {[%clk 0:02:26]}  f5 {[%clk 0:01:03]} 29. f4 {[%clk 0:02:02]}  Rd5 {[%clk 0:00:29]} 30. Ng5 {[%clk 0:01:59]}  Rc3 {[%clk 0:00:28]}
+31. Rxf7+ {[%clk 0:01:59]}  Ke8 {[%clk 0:00:22]} 32. Rh7 {[%clk 0:01:10]}  Rdxd3+ {[%clk 0:00:22]} 33. Ke2 {[%clk 0:01:12]}  Rd4 {[%clk 0:00:21]}
+34. Rxh5 {[%clk 0:00:50]}  Rxf4 {[%clk 0:00:22]} 35. Rh6 {[%clk 0:00:52]}  Kd7 {[%clk 0:00:20]} 36. Rxe6 {[%clk 0:00:41]}  Rc2+ {[%clk 0:00:21]}
+37. Ke3 {[%clk 0:00:38]}  Rfxf2 {[%clk 0:00:24]} 38. Rf6 {[%clk 0:00:37]}  Rce2+ {[%clk 0:00:21]} 39. Kd4 {[%clk 0:00:34]}  Rf4+ {[%clk 0:00:17]}
+40. Kd5 {[%clk 0:00:34]}  Ra4 {[%clk 0:00:08]} 41. h4 {[%clk 0:00:23]}  Ra5+ {[%clk 0:00:11]} 42. Kd4 {[%clk 0:00:23]}  Rh2 {[%clk 0:00:13]}
+43. Rh6 {[%clk 0:00:11]}  f4 {[%clk 0:00:11]} 44. Ke4 {[%clk 0:00:10]}  Ra4+ {[%clk 0:00:13]} 45. Kf3 {[%clk 0:00:10]}  Rb2 {[%clk 0:00:13]}
+46. Rf6 {[%clk 0:00:10]}  Rb3+ {[%clk 0:00:15]} 47. Kg4 {[%clk 0:00:08]}  Rg3+ {[%clk 0:00:17]} 48. Kh5 {[%clk 0:00:06]}  Ke7 {[%clk 0:00:18]}
+49. Kg6 {[%clk 0:00:07]}  Rg4 {[%clk 0:00:15]} 50. Rf7+ {[%clk 0:00:06]}  Ke8 {[%clk 0:00:17]} 51. Rf5 {[%clk 0:00:04]}  Rxh4 {[%clk 0:00:19]}
+52. Ne6 {[%clk 0:00:05]}  Ra6 {[%clk 0:00:18]} 53. Kg5 {[%clk 0:00:08]}  Rh1 {[%clk 0:00:09]} 54. Nc7+ {[%clk 0:00:10]}  Kd7 {[%clk 0:00:10]}
+55. Nxa6 {[%clk 0:00:13]}  Rg1+ {[%clk 0:00:12]} 56. Kh4 {[%clk 0:00:15]}  Kc6 {[%clk 0:00:09]} 57. Nb4+ {[%clk 0:00:16]}  Kd6 {[%clk 0:00:11]}
+58. Nd3 {[%clk 0:00:18]}  Rd1 {[%clk 0:00:13]} 59. Nf2 {[%clk 0:00:18]}  Ra1 {[%clk 0:00:15]} 60. Kg4 {[%clk 0:00:20]}  Rg1+ {[%clk 0:00:17]}
+61. Kf3 {[%clk 0:00:22]}  Ra1 {[%clk 0:00:19]} 62. Rh5 {[%clk 0:00:22]}  Ke6 {[%clk 0:00:22]} 63. Ne4 {[%clk 0:00:23]}  Rf1+ {[%clk 0:00:23]}
+64. Kg4 {[%clk 0:00:25]}  f3 {[%clk 0:00:25]} 65. Kf4 {[%clk 0:00:27]}  f2 {[%clk 0:00:26]} 66. Rh6+ {[%clk 0:00:29]}  Ke7 {[%clk 0:00:27]}
+67. Kf5 {[%clk 0:00:29]}  Kd7 {[%clk 0:00:26]} 68. Rd6+ {[%clk 0:00:31]}  Kc7 {[%clk 0:00:28]} 69. Rd2 {[%clk 0:00:33]}  Kc6 {[%clk 0:00:30]}
+70. Ke5 {[%clk 0:00:33]}  Kb5 {[%clk 0:00:32]} 71. Rc2 {[%clk 0:00:32]}  Kb4 {[%clk 0:00:31]} 72. Nxf2 {[%clk 0:00:29]}  Kb3 {[%clk 0:00:34]}
+73. Rd2 {[%clk 0:00:28]}  Kc4 {[%clk 0:00:34]} 74. Rd4+ {[%clk 0:00:27]}  Kb5 {[%clk 0:00:35]} 75. Nd3 {[%clk 0:00:25]}  Rh1 {[%clk 0:00:36]}
+76. Rc4 {[%clk 0:00:27]}  Kxc4 {[%clk 0:00:37]} 77. Nf4 {[%clk 0:00:28]}  Rh8 {[%clk 0:00:38]} 78. Ne6 {[%clk 0:00:30]}  Re8 {[%clk 0:00:40]}
+79. Kd6 {[%clk 0:00:32]}  Ra8 {[%clk 0:00:41]} 80. Ke5 {[%clk 0:00:34]}  Ra6 {[%clk 0:00:43]} 81. Nc7 {[%clk 0:00:36]}  Rc6 {[%clk 0:00:44]}
+82. Ne6 {[%clk 0:00:36]}  Rb6 {[%clk 0:00:46]} 83. Nc7 {[%clk 0:00:37]}  Rb7 {[%clk 0:00:47]} 84. Ne6 {[%clk 0:00:38]}  Rb5+ {[%clk 0:00:49]}
+85. Kd6 {[%clk 0:00:40]}  Rd5+ {[%clk 0:00:51]} 86. Kc6 {[%clk 0:00:42]}  Rd1 {[%clk 0:00:53]} 87. Nc7 {[%clk 0:00:44]}  Rh1 {[%clk 0:00:55]}
+88. Kd6 {[%clk 0:00:46]}  Rh6+ {[%clk 0:00:56]} 89. Ne6 {[%clk 0:00:49]}  Rh5 {[%clk 0:00:56]} 90. Nf4 {[%clk 0:00:50]}  Rf5 {[%clk 0:00:56]}
+91. Ne6 {[%clk 0:00:52]}  Rd5+ {[%clk 0:00:57]} 92. Kc6 {[%clk 0:00:54]}  Re5 {[%clk 0:00:59]} 93. Kd6 {[%clk 0:00:56]}  Rxe6+ {[%clk 0:01:01]}
+94. Kxe6 {[%clk 0:00:58]} 1/2-1/2
+
+[Event "2025 Freestyle Chess Grand Slam Las Vegas Play In 5th 8th Ko"]
+[Site "Chess.com"]
+[Date "2025.06.20"]
+[Round "1.1"]
+[White "Kravtsiv, Martyn"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "14113147"]
+[BlackFideId "8603677"]
+[WhiteElo "2546"]
+[BlackElo "2720"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:00:36"]
+[BlackClock "0:04:02"]
+[Variant "Chess960"]
+[FEN "bqrbkrnn/pppppppp/8/8/8/8/PPPPPPPP/BQRBKRNN w FCfc - 0 1"]
+[Termination "repetition"]
+[EndDate "2025.06.20"]
+[EndTime "15:44:00"]
+
+1. e4 {[%clk 0:15:01]}  c5 {[%clk 0:14:23]} 2. Ng3 {[%clk 0:14:59]}  Nf6 {[%clk 0:13:46]} 3. Nf3 {[%clk 0:14:57]}  Ng6 {[%clk 0:13:27]}
+4. O-O {[%clk 0:14:56]}  O-O {[%clk 0:13:27]} 5. b4 {[%clk 0:14:42]}  b6 {[%clk 0:12:03]} 6. Re1 {[%clk 0:14:41]}  Bc7 {[%clk 0:11:49]}
+7. c4 {[%clk 0:13:59]}  Bxg3 {[%clk 0:09:10]} 8. hxg3 {[%clk 0:13:53]}  d6 {[%clk 0:09:13]} 9. bxc5 {[%clk 0:10:11]}  bxc5 {[%clk 0:08:52]}
+10. Qxb8 {[%clk 0:10:14]}  Rxb8 {[%clk 0:08:54]} 11. e5 {[%clk 0:10:15]}  dxe5 {[%clk 0:07:37]} 12. Nxe5 {[%clk 0:10:14]}  e6 {[%clk 0:07:38]}
+13. Nxg6 {[%clk 0:09:16]}  hxg6 {[%clk 0:07:39]} 14. d4 {[%clk 0:09:19]}  Rfc8 {[%clk 0:07:23]} 15. Ba4 {[%clk 0:07:21]}  Bc6 {[%clk 0:07:20]}
+16. Bb3 {[%clk 0:06:43]}  cxd4 {[%clk 0:06:59]} 17. Bxd4 {[%clk 0:06:41]}  a5 {[%clk 0:07:02]} 18. c5 {[%clk 0:06:38]}  Nd7 {[%clk 0:05:25]}
+19. Bc4 {[%clk 0:06:05]}  Kf8 {[%clk 0:05:21]} 20. a3 {[%clk 0:05:51]}  Bb5 {[%clk 0:05:11]} 21. Bxb5 {[%clk 0:05:08]}  Rxb5 {[%clk 0:05:13]}
+22. c6 {[%clk 0:05:10]}  Nf6 {[%clk 0:05:04]} 23. a4 {[%clk 0:03:40]}  Rb3 {[%clk 0:05:04]} 24. Rc5 {[%clk 0:02:49]}  Rb4 {[%clk 0:05:05]}
+25. Bxf6 {[%clk 0:02:34]}  gxf6 {[%clk 0:05:06]} 26. Ra1 {[%clk 0:02:35]}  Rb6 {[%clk 0:04:53]} 27. Rac1 {[%clk 0:02:26]}  f5 {[%clk 0:04:39]}
+28. f3 {[%clk 0:01:44]}  Ra6 {[%clk 0:04:24]} 29. Rb5 {[%clk 0:01:15]}  Raxc6 {[%clk 0:04:18]} 30. Rxc6 {[%clk 0:01:16]}  Rxc6 {[%clk 0:04:21]}
+31. Rxa5 {[%clk 0:01:18]}  Rc1+ {[%clk 0:04:20]} 32. Kf2 {[%clk 0:01:20]}  Rc2+ {[%clk 0:04:23]} 33. Kf1 {[%clk 0:01:22]}  Ra2 {[%clk 0:04:25]}
+34. Ra7 {[%clk 0:01:23]}  e5 {[%clk 0:04:10]} 35. a5 {[%clk 0:01:19]}  Kg7 {[%clk 0:04:12]} 36. a6 {[%clk 0:01:12]}  Kf6 {[%clk 0:04:15]}
+37. Ra8 {[%clk 0:01:00]}  Kg5 {[%clk 0:04:08]} 38. a7 {[%clk 0:00:50]}  f4 {[%clk 0:04:00]} 39. Re8 {[%clk 0:00:24]}  Rxa7 {[%clk 0:03:55]}
+40. Rxe5+ {[%clk 0:00:25]}  f5 {[%clk 0:03:57]} 41. g4 {[%clk 0:00:07]}  Ra1+ {[%clk 0:03:59]} 42. Kf2 {[%clk 0:00:09]}  Ra2+ {[%clk 0:04:01]}
+43. Kf1 {[%clk 0:00:12]}  Kf6 {[%clk 0:03:46]} 44. Rb5 {[%clk 0:00:13]}  fxg4 {[%clk 0:03:48]} 45. fxg4 {[%clk 0:00:16]}  Ra3 {[%clk 0:03:37]}
+46. Kf2 {[%clk 0:00:18]}  Rg3 {[%clk 0:03:39]} 47. Ra5 {[%clk 0:00:20]}  Rxg4 {[%clk 0:03:41]} 48. Kf3 {[%clk 0:00:22]}  Rh4 {[%clk 0:03:43]}
+49. g3 {[%clk 0:00:20]}  fxg3 {[%clk 0:03:45]} 50. Kxg3 {[%clk 0:00:22]}  Rb4 {[%clk 0:03:47]} 51. Ra6+ {[%clk 0:00:24]}  Kg5 {[%clk 0:03:49]}
+52. Ra5+ {[%clk 0:00:26]}  Kh6 {[%clk 0:03:51]} 53. Kh3 {[%clk 0:00:28]}  g5 {[%clk 0:03:52]} 54. Ra8 {[%clk 0:00:26]}  Kg6 {[%clk 0:03:54]}
+55. Kg3 {[%clk 0:00:27]}  Rb3+ {[%clk 0:03:55]} 56. Kg4 {[%clk 0:00:29]}  Rb4+ {[%clk 0:03:57]} 57. Kg3 {[%clk 0:00:31]}  Rb3+ {[%clk 0:04:00]}
+58. Kg4 {[%clk 0:00:33]}  Rb4+ {[%clk 0:04:02]} 59. Kg3 {[%clk 0:00:36]} 1/2-1/2
+
+[Event "2025 Freestyle Chess Grand Slam Las Vegas Play In 5th 8th Ko"]
+[Site "Chess.com"]
+[Date "2025.06.20"]
+[Round "1.2"]
+[White "Ding, Liren"]
+[Black "Kravtsiv, Martyn"]
+[Result "1/2-1/2"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "8603677"]
+[BlackFideId "14113147"]
+[WhiteElo "2720"]
+[BlackElo "2546"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:07:16"]
+[BlackClock "0:04:46"]
+[Variant "Chess960"]
+[FEN "rbkqbrnn/pppppppp/8/8/8/8/PPPPPPPP/RBKQBRNN w FAfa - 0 1"]
+[Termination "repetition"]
+[EndDate "2025.06.20"]
+[EndTime "16:16:17"]
+
+1. Ng3 {[%clk 0:14:53]}  d5 {[%clk 0:14:44]} 2. d4 {[%clk 0:14:17]}  c6 {[%clk 0:14:00]} 3. c3 {[%clk 0:13:43]}  Nf6 {[%clk 0:13:32]}
+4. Nf3 {[%clk 0:13:42]}  Ng6 {[%clk 0:13:29]} 5. Bd2 {[%clk 0:13:11]}  Bd7 {[%clk 0:13:16]} 6. Qb3 {[%clk 0:12:19]}  Qb6 {[%clk 0:13:07]}
+7. O-O {[%clk 0:12:16]}  O-O {[%clk 0:12:58]} 8. Re1 {[%clk 0:11:38]}  Re8 {[%clk 0:12:47]} 9. e4 {[%clk 0:10:11]}  Bxg3 {[%clk 0:12:41]}
+10. hxg3 {[%clk 0:10:14]}  Nxe4 {[%clk 0:12:40]} 11. Bxe4 {[%clk 0:10:17]}  dxe4 {[%clk 0:12:42]} 12. Rxe4 {[%clk 0:10:20]}  Be6 {[%clk 0:12:33]}
+13. Qa3 {[%clk 0:09:52]}  a5 {[%clk 0:09:47]} 14. Ne5 {[%clk 0:09:45]}  Bd5 {[%clk 0:08:22]} 15. Re3 {[%clk 0:09:41]}  Nxe5 {[%clk 0:08:19]}
+16. Rxe5 {[%clk 0:09:43]}  a4 {[%clk 0:07:58]} 17. Qb4 {[%clk 0:09:17]}  Qxb4 {[%clk 0:07:57]} 18. cxb4 {[%clk 0:09:19]}  a3 {[%clk 0:07:19]}
+19. b3 {[%clk 0:09:19]}  e6 {[%clk 0:07:21]} 20. g4 {[%clk 0:09:13]}  f6 {[%clk 0:06:53]} 21. Re3 {[%clk 0:09:14]}  Kf7 {[%clk 0:06:53]}
+22. f3 {[%clk 0:09:14]}  Rh8 {[%clk 0:06:52]} 23. Kf2 {[%clk 0:09:01]}  h5 {[%clk 0:06:53]} 24. gxh5 {[%clk 0:09:03]}  Rxh5 {[%clk 0:06:55]}
+25. Ree1 {[%clk 0:08:53]}  Rh4 {[%clk 0:06:43]} 26. Be3 {[%clk 0:08:48]}  g5 {[%clk 0:05:50]} 27. Rh1 {[%clk 0:08:50]}  Rah8 {[%clk 0:05:20]}
+28. Rxh4 {[%clk 0:08:51]}  Rxh4 {[%clk 0:05:17]} 29. Rd1 {[%clk 0:08:38]}  Kg6 {[%clk 0:05:13]} 30. Bc1 {[%clk 0:08:40]}  Rh8 {[%clk 0:05:14]}
+31. Re1 {[%clk 0:07:29]}  Kf5 {[%clk 0:04:59]} 32. Kg3 {[%clk 0:07:26]}  b5 {[%clk 0:04:53]} 33. Bd2 {[%clk 0:07:24]}  Kg6 {[%clk 0:04:48]}
+34. Kf2 {[%clk 0:07:10]}  Kf5 {[%clk 0:04:48]} 35. Kg3 {[%clk 0:07:12]}  Kg6 {[%clk 0:04:50]} 36. Kf2 {[%clk 0:07:14]}  Kf5 {[%clk 0:04:46]}
+37. Kg3 {[%clk 0:07:16]} 1/2-1/2
+
+[Event "2025 Freestyle Chess Grand Slam Las Vegas Play In 5th 8th Ko"]
+[Site "Chess.com"]
+[Date "2025.06.20"]
+[Round "1.2"]
+[White "Le, Quang Liem"]
+[Black "Duda, Jan-Krzysztof"]
+[Result "1-0"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "12401137"]
+[BlackFideId "1170546"]
+[WhiteElo "2695"]
+[BlackElo "2712"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:00:15"]
+[BlackClock "0:00:02"]
+[Variant "Chess960"]
+[FEN "rbkqbrnn/pppppppp/8/8/8/8/PPPPPPPP/RBKQBRNN w FAfa - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.06.20"]
+[EndTime "16:28:18"]
+
+1. e4 {[%clk 0:15:03]}  c6 {[%clk 0:14:25]} 2. Ng3 {[%clk 0:14:19]}  e6 {[%clk 0:13:24]} 3. d4 {[%clk 0:14:13]}  d5 {[%clk 0:12:38]}
+4. N1e2 {[%clk 0:12:36]}  f5 {[%clk 0:12:21]} 5. Bb4 {[%clk 0:12:08]}  Ne7 {[%clk 0:11:51]} 6. exf5 {[%clk 0:11:19]}  exf5 {[%clk 0:11:54]}
+7. c3 {[%clk 0:11:21]}  Bd7 {[%clk 0:10:27]} 8. f4 {[%clk 0:09:07]}  a5 {[%clk 0:10:23]} 9. Ba3 {[%clk 0:09:09]}  g6 {[%clk 0:09:28]}
+10. Ng1 {[%clk 0:08:58]}  Nf7 {[%clk 0:09:24]} 11. Bd3 {[%clk 0:09:00]}  Re8 {[%clk 0:09:14]} 12. Qd2 {[%clk 0:08:48]}  Nd6 {[%clk 0:08:47]}
+13. Bxd6 {[%clk 0:08:16]}  Bxd6 {[%clk 0:08:50]} 14. Nf3 {[%clk 0:08:18]}  Ng8 {[%clk 0:08:30]} 15. Ne5 {[%clk 0:08:20]}  Be6 {[%clk 0:08:26]}
+16. O-O {[%clk 0:08:08]}  Nf6 {[%clk 0:08:21]} 17. Qc2 {[%clk 0:08:04]}  Qb6 {[%clk 0:07:39]} 18. Kh1 {[%clk 0:07:56]}  Ne4 {[%clk 0:05:58]}
+19. Rad1 {[%clk 0:05:35]}  O-O-O {[%clk 0:03:02]} 20. a3 {[%clk 0:05:35]}  c5 {[%clk 0:02:48]} 21. c4 {[%clk 0:05:34]}  Kb8 {[%clk 0:02:41]}
+22. b4 {[%clk 0:03:15]}  cxb4 {[%clk 0:02:00]} 23. c5 {[%clk 0:03:10]}  b3 {[%clk 0:02:02]} 24. Qb1 {[%clk 0:02:10]}  Bxc5 {[%clk 0:01:39]}
+25. dxc5 {[%clk 0:02:13]}  Nxc5 {[%clk 0:01:41]} 26. Ne2 {[%clk 0:01:56]}  d4 {[%clk 0:01:34]} 27. Rd2 {[%clk 0:01:20]}  Bd5 {[%clk 0:01:08]}
+28. Qa1 {[%clk 0:00:53]}  g5 {[%clk 0:00:41]} 29. Bxf5 {[%clk 0:00:41]}  gxf4 {[%clk 0:00:38]} 30. Nd3 {[%clk 0:00:43]}  f3 {[%clk 0:00:21]}
+31. gxf3 {[%clk 0:00:45]}  Nxd3 {[%clk 0:00:09]} 32. Bxd3 {[%clk 0:00:48]}  Re3 {[%clk 0:00:11]} 33. Nxd4 {[%clk 0:00:45]}  Rf8 {[%clk 0:00:06]}
+34. Kg2 {[%clk 0:00:18]}  a4 {[%clk 0:00:07]} 35. Qc3 {[%clk 0:00:18]}  Rf4 {[%clk 0:00:07]} 36. Nb5 {[%clk 0:00:11]}  Rg4+ {[%clk 0:00:05]}
+37. Kh1 {[%clk 0:00:11]}  Rxf3 {[%clk 0:00:06]} 38. Qe5+ {[%clk 0:00:12]}  Kc8 {[%clk 0:00:06]} 39. Qe8+ {[%clk 0:00:10]}  Qd8 {[%clk 0:00:08]}
+40. Rc1+ {[%clk 0:00:12]}  Rc4 {[%clk 0:00:08]} 41. Rxc4+ {[%clk 0:00:13]}  Bxc4 {[%clk 0:00:02]} 42. Bf5+ {[%clk 0:00:15]} 1-0
+
+[Event "2025 Freestyle Chess Grand Slam Las Vegas Play In 5th 8th Ko"]
+[Site "Chess.com"]
+[Date "2025.06.20"]
+[Round "2.1"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Ding, Liren"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "1170546"]
+[BlackFideId "8603677"]
+[WhiteElo "2712"]
+[BlackElo "2720"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:00:14"]
+[BlackClock "0:00:03"]
+[Variant "Chess960"]
+[FEN "qnnrkbbr/pppppppp/8/8/8/8/PPPPPPPP/QNNRKBBR w HDhd - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.06.20"]
+[EndTime "17:58:34"]
+
+1. b4 {[%clk 0:15:00]}  b5 {[%clk 0:15:01]} 2. Nc3 {[%clk 0:14:39]}  Nc6 {[%clk 0:14:20]} 3. Nd5 {[%clk 0:13:40]}  Qb7 {[%clk 0:14:00]}
+4. a4 {[%clk 0:13:41]}  f6 {[%clk 0:13:15]} 5. axb5 {[%clk 0:13:14]}  Bxd5 {[%clk 0:13:16]} 6. bxc6 {[%clk 0:13:15]}  Qxc6 {[%clk 0:12:19]}
+7. f3 {[%clk 0:13:15]}  Qxc2 {[%clk 0:12:21]} 8. e4 {[%clk 0:13:15]}  Bf7 {[%clk 0:11:31]} 9. Bc5 {[%clk 0:12:37]}  Bb3 {[%clk 0:10:15]}
+10. Be2 {[%clk 0:11:43]}  e5 {[%clk 0:09:58]} 11. Qa3 {[%clk 0:09:35]}  Bc4 {[%clk 0:08:28]} 12. d3 {[%clk 0:07:57]}  Bxc5 {[%clk 0:08:29]}
+13. bxc5 {[%clk 0:08:00]}  Be6 {[%clk 0:08:28]} 14. Rd2 {[%clk 0:07:55]}  Qb1 {[%clk 0:08:28]} 15. O-O {[%clk 0:07:53]}  Qb7 {[%clk 0:07:29]}
+16. Rb2 {[%clk 0:07:52]}  Qa8 {[%clk 0:06:49]} 17. d4 {[%clk 0:07:42]}  exd4 {[%clk 0:06:51]} 18. Ba6 {[%clk 0:07:09]}  Ne7 {[%clk 0:06:49]}
+19. Bb7 {[%clk 0:06:21]}  Qb8 {[%clk 0:06:51]} 20. c6 {[%clk 0:06:14]}  d6 {[%clk 0:06:15]} 21. Nd3 {[%clk 0:04:36]}  O-O {[%clk 0:06:07]}
+22. Ba6 {[%clk 0:04:37]}  Qa8 {[%clk 0:06:09]} 23. Bb7 {[%clk 0:04:39]}  Qb8 {[%clk 0:06:11]} 24. Ba6 {[%clk 0:04:41]}  Qa8 {[%clk 0:06:13]}
+25. Rb7 {[%clk 0:04:44]}  Nxc6 {[%clk 0:04:57]} 26. Rc1 {[%clk 0:03:27]}  Ne5 {[%clk 0:04:42]} 27. Rcxc7 {[%clk 0:02:09]}  Rf7 {[%clk 0:04:42]}
+28. Qa5 {[%clk 0:01:57]}  Rdd7 {[%clk 0:03:59]} 29. Qb4 {[%clk 0:01:08]}  Qf8 {[%clk 0:03:30]} 30. Rxd7 {[%clk 0:00:30]}  Rxd7 {[%clk 0:03:31]}
+31. Rb8 {[%clk 0:00:18]}  Rd8 {[%clk 0:03:33]} 32. Rb7 {[%clk 0:00:21]}  Bc8 {[%clk 0:03:06]} 33. Qb3+ {[%clk 0:00:16]}  Kh8 {[%clk 0:02:52]}
+34. Rxa7 {[%clk 0:00:14]}  Bxa6 {[%clk 0:02:54]} 35. Rxa6 {[%clk 0:00:17]}  Rb8 {[%clk 0:02:50]} 36. Qa3 {[%clk 0:00:16]}  h6 {[%clk 0:02:28]}
+37. h3 {[%clk 0:00:17]}  Qc8 {[%clk 0:02:16]} 38. Nf4 {[%clk 0:00:05]}  Qc3 {[%clk 0:02:00]} 39. Kh2 {[%clk 0:00:04]}  Qd2 {[%clk 0:01:50]}
+40. Ne6 {[%clk 0:00:04]}  d3 {[%clk 0:01:34]} 41. Ra8 {[%clk 0:00:05]}  Rg8 {[%clk 0:00:13]} 42. Qa7 {[%clk 0:00:06]}  Nxf3+ {[%clk 0:00:09]}
+43. Kg3 {[%clk 0:00:08]}  Qe1+ {[%clk 0:00:08]} 44. Kxf3 {[%clk 0:00:10]}  Qe2+ {[%clk 0:00:06]} 45. Kg3 {[%clk 0:00:12]}  Qe1+ {[%clk 0:00:03]}
+46. Kh2 {[%clk 0:00:14]} 1-0
+
+[Event "2025 Freestyle Chess Grand Slam Las Vegas Play In 5th 8th Ko"]
+[Site "Chess.com"]
+[Date "2025.06.20"]
+[Round "2.1"]
+[White "Kravtsiv, Martyn"]
+[Black "Le, Quang Liem"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "14113147"]
+[BlackFideId "12401137"]
+[WhiteElo "2546"]
+[BlackElo "2695"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:00:13"]
+[BlackClock "0:00:15"]
+[Variant "Chess960"]
+[FEN "qnnrkbbr/pppppppp/8/8/8/8/PPPPPPPP/QNNRKBBR w HDhd - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.06.20"]
+[EndTime "17:58:45"]
+
+1. d4 {[%clk 0:15:02]}  d5 {[%clk 0:15:01]} 2. g3 {[%clk 0:14:59]}  h6 {[%clk 0:14:52]} 3. Bg2 {[%clk 0:14:58]}  Bh7 {[%clk 0:14:54]}
+4. Nd3 {[%clk 0:14:59]}  e6 {[%clk 0:14:50]} 5. Nd2 {[%clk 0:14:54]}  Nd7 {[%clk 0:14:46]} 6. f4 {[%clk 0:14:53]}  Nd6 {[%clk 0:14:29]}
+7. Bf2 {[%clk 0:14:23]}  Be7 {[%clk 0:14:24]} 8. O-O {[%clk 0:14:23]}  O-O {[%clk 0:14:25]} 9. b3 {[%clk 0:13:45]}  Nf6 {[%clk 0:14:11]}
+10. Ne5 {[%clk 0:13:05]}  Nfe4 {[%clk 0:13:48]} 11. Be3 {[%clk 0:12:09]}  Nf5 {[%clk 0:13:33]} 12. Bf2 {[%clk 0:11:48]}  Nxf2 {[%clk 0:13:30]}
+13. Kxf2 {[%clk 0:11:51]}  c5 {[%clk 0:13:30]} 14. c3 {[%clk 0:10:54]}  b5 {[%clk 0:13:30]} 15. e4 {[%clk 0:10:24]}  dxe4 {[%clk 0:13:08]}
+16. Bxe4 {[%clk 0:10:25]}  Qc8 {[%clk 0:13:10]} 17. Ndf3 {[%clk 0:10:01]}  cxd4 {[%clk 0:12:45]} 18. cxd4 {[%clk 0:10:02]}  Nd6 {[%clk 0:12:05]}
+19. Bxh7+ {[%clk 0:09:37]}  Kxh7 {[%clk 0:12:08]} 20. Qb1+ {[%clk 0:09:27]}  Kg8 {[%clk 0:12:02]} 21. g4 {[%clk 0:07:58]}  Qb7 {[%clk 0:11:45]}
+22. Rfe1 {[%clk 0:07:01]}  b4 {[%clk 0:11:45]} 23. Qd3 {[%clk 0:06:08]}  Nb5 {[%clk 0:11:40]} 24. Rd2 {[%clk 0:06:00]}  Rd5 {[%clk 0:11:23]}
+25. g5 {[%clk 0:05:31]}  hxg5 {[%clk 0:11:23]} 26. fxg5 {[%clk 0:05:32]}  Bd6 {[%clk 0:10:50]} 27. Re4 {[%clk 0:05:08]}  f5 {[%clk 0:09:48]}
+28. Rh4 {[%clk 0:04:14]}  Nc3 {[%clk 0:08:46]} 29. Kg1 {[%clk 0:03:07]}  Ne4 {[%clk 0:08:13]} 30. g6 {[%clk 0:02:30]}  Rf6 {[%clk 0:06:26]}
+31. Rc2 {[%clk 0:01:54]}  Bc5 {[%clk 0:03:02]} 32. Qf1 {[%clk 0:01:14]}  Bxd4+ {[%clk 0:00:37]} 33. Nxd4 {[%clk 0:01:12]}  Rxg6+ {[%clk 0:00:15]}
+34. Nxg6 {[%clk 0:01:12]}  Rxd4 {[%clk 0:00:17]} 35. Ne5 {[%clk 0:00:41]}  Rd5 {[%clk 0:00:15]} 36. Nc4 {[%clk 0:00:09]}  Qd7 {[%clk 0:00:09]}
+37. Rc1 {[%clk 0:00:09]}  Rd3 {[%clk 0:00:09]} 38. Rf4 {[%clk 0:00:09]}  Qd4+ {[%clk 0:00:11]} 39. Kh1 {[%clk 0:00:10]}  Rc3 {[%clk 0:00:07]}
+40. Rd1 {[%clk 0:00:10]}  Qc5 {[%clk 0:00:08]} 41. Nd2 {[%clk 0:00:07]}  Nf6 {[%clk 0:00:07]} 42. Rc4 {[%clk 0:00:09]}  Qd5+ {[%clk 0:00:09]}
+43. Qg2 {[%clk 0:00:10]}  Qd7 {[%clk 0:00:10]} 44. Rg1 {[%clk 0:00:11]}  Ng4 {[%clk 0:00:09]} 45. Rxc3 {[%clk 0:00:09]}  bxc3 {[%clk 0:00:12]}
+46. Nf3 {[%clk 0:00:11]}  Ne3 {[%clk 0:00:10]} 47. Qe2 {[%clk 0:00:10]}  Nd5 {[%clk 0:00:12]} 48. Qe5 {[%clk 0:00:11]}  c2 {[%clk 0:00:11]}
+49. Rc1 {[%clk 0:00:11]}  Qc6 {[%clk 0:00:12]} 50. Nd4 {[%clk 0:00:12]}  Qa8 {[%clk 0:00:13]} 51. Qxe6+ {[%clk 0:00:14]}  Kh8 {[%clk 0:00:16]}
+52. Qc6 {[%clk 0:00:16]}  Qd8 {[%clk 0:00:17]} 53. Qxc2 {[%clk 0:00:17]}  Ne3 {[%clk 0:00:15]} 54. Qc8 {[%clk 0:00:13]} 1-0
+
+[Event "2025 Freestyle Chess Grand Slam Las Vegas Play In 5th 8th Ko"]
+[Site "Chess.com"]
+[Date "2025.06.20"]
+[Round "2.2"]
+[White "Ding, Liren"]
+[Black "Duda, Jan-Krzysztof"]
+[Result "1/2-1/2"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "8603677"]
+[BlackFideId "1170546"]
+[WhiteElo "2720"]
+[BlackElo "2712"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:06:08"]
+[BlackClock "0:06:33"]
+[Variant "Chess960"]
+[FEN "rbnkbrnq/pppppppp/8/8/8/8/PPPPPPPP/RBNKBRNQ w FAfa - 0 1"]
+[Termination "repetition"]
+[EndDate "2025.06.20"]
+[EndTime "18:25:55"]
+
+1. c3 {[%clk 0:15:02]}  d5 {[%clk 0:14:40]} 2. d4 {[%clk 0:14:32]}  Nd6 {[%clk 0:14:21]} 3. Nd3 {[%clk 0:14:18]}  c6 {[%clk 0:14:01]}
+4. Bc2 {[%clk 0:14:12]}  Bc7 {[%clk 0:14:02]} 5. O-O-O {[%clk 0:14:14]}  Kc8 {[%clk 0:14:02]} 6. g4 {[%clk 0:13:45]}  a5 {[%clk 0:13:49]}
+7. f3 {[%clk 0:13:40]}  Nf6 {[%clk 0:13:36]} 8. Nh3 {[%clk 0:13:17]}  Bd7 {[%clk 0:13:01]} 9. Nhf2 {[%clk 0:13:13]}  Nc4 {[%clk 0:12:57]}
+10. Bd2 {[%clk 0:13:06]}  Nxd2 {[%clk 0:12:57]} 11. Rxd2 {[%clk 0:13:08]}  g5 {[%clk 0:12:49]} 12. h4 {[%clk 0:13:08]}  h6 {[%clk 0:12:46]}
+13. e3 {[%clk 0:13:02]}  Qg7 {[%clk 0:12:22]} 14. Ne5 {[%clk 0:12:35]}  Kb8 {[%clk 0:11:42]} 15. Nfd3 {[%clk 0:12:28]}  Ka7 {[%clk 0:11:17]}
+16. Rh2 {[%clk 0:11:51]}  Rad8 {[%clk 0:11:05]} 17. Nxd7 {[%clk 0:10:17]}  Nxd7 {[%clk 0:10:42]} 18. Rh3 {[%clk 0:10:17]}  Rh8 {[%clk 0:10:20]}
+19. Qg2 {[%clk 0:10:01]}  e5 {[%clk 0:09:15]} 20. Rfh1 {[%clk 0:09:51]}  Kb8 {[%clk 0:09:01]} 21. a4 {[%clk 0:09:00]}  Qf6 {[%clk 0:08:52]}
+22. Kb1 {[%clk 0:08:36]}  Rde8 {[%clk 0:08:42]} 23. Qd2 {[%clk 0:07:32]}  exd4 {[%clk 0:08:28]} 24. exd4 {[%clk 0:07:34]}  Rhg8 {[%clk 0:08:23]}
+25. hxg5 {[%clk 0:07:03]}  hxg5 {[%clk 0:08:26]} 26. Bd1 {[%clk 0:06:20]}  Qe7 {[%clk 0:07:52]} 27. Re1 {[%clk 0:06:20]}  Qf6 {[%clk 0:07:48]}
+28. Reh1 {[%clk 0:06:06]}  Qe7 {[%clk 0:07:47]} 29. Re1 {[%clk 0:06:03]}  Qf6 {[%clk 0:07:48]} 30. Rxe8+ {[%clk 0:06:04]}  Rxe8 {[%clk 0:07:51]}
+31. Rh5 {[%clk 0:06:06]}  Rg8 {[%clk 0:07:44]} 32. f4 {[%clk 0:05:59]}  Bxf4 {[%clk 0:07:24]} 33. Nxf4 {[%clk 0:06:00]}  Qxf4 {[%clk 0:07:20]}
+34. Qxf4+ {[%clk 0:06:02]}  gxf4 {[%clk 0:07:23]} 35. Rf5 {[%clk 0:06:03]}  Rg7 {[%clk 0:07:08]} 36. Rxf4 {[%clk 0:05:58]}  Nf8 {[%clk 0:07:08]}
+37. Bc2 {[%clk 0:05:52]}  Ne6 {[%clk 0:07:07]} 38. Rf2 {[%clk 0:05:52]}  Rxg4 {[%clk 0:07:06]} 39. Rxf7 {[%clk 0:05:54]}  Rg7 {[%clk 0:07:03]}
+40. Rxg7 {[%clk 0:05:46]}  Nxg7 {[%clk 0:07:06]} 41. Kc1 {[%clk 0:05:49]}  Kc7 {[%clk 0:07:07]} 42. Kd2 {[%clk 0:05:52]}  Kd6 {[%clk 0:06:58]}
+43. b4 {[%clk 0:05:50]}  b6 {[%clk 0:06:58]} 44. Ke3 {[%clk 0:05:50]}  Ne6 {[%clk 0:06:41]} 45. Bf5 {[%clk 0:05:52]}  Nc7 {[%clk 0:06:43]}
+46. Bd3 {[%clk 0:05:53]}  axb4 {[%clk 0:06:38]} 47. cxb4 {[%clk 0:05:56]}  b5 {[%clk 0:06:40]} 48. axb5 {[%clk 0:05:58]}  cxb5 {[%clk 0:06:42]}
+49. Kd2 {[%clk 0:06:00]}  Kc6 {[%clk 0:06:44]} 50. Kc3 {[%clk 0:06:02]}  Ne6 {[%clk 0:06:31]} 51. Bf5 {[%clk 0:06:04]}  Kd6 {[%clk 0:06:28]}
+52. Bd3 {[%clk 0:06:04]}  Kc6 {[%clk 0:06:29]} 53. Bf5 {[%clk 0:06:06]}  Kd6 {[%clk 0:06:31]} 54. Bd3 {[%clk 0:06:08]}  Kc6 {[%clk 0:06:33]} 1/2-1/2
+
+[Event "2025 Freestyle Chess Grand Slam Las Vegas Play In 5th 8th Ko"]
+[Site "Chess.com"]
+[Date "2025.06.20"]
+[Round "2.2"]
+[White "Le, Quang Liem"]
+[Black "Kravtsiv, Martyn"]
+[Result "1-0"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "12401137"]
+[BlackFideId "14113147"]
+[WhiteElo "2695"]
+[BlackElo "2546"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:06:17"]
+[BlackClock "0:00:00"]
+[Variant "Chess960"]
+[FEN "rbnkbrnq/pppppppp/8/8/8/8/PPPPPPPP/RBNKBRNQ w FAfa - 0 1"]
+[Termination "timeout"]
+[EndDate "2025.06.20"]
+[EndTime "18:30:57"]
+
+1. g4 {[%clk 0:15:03]}  c6 {[%clk 0:15:02]} 2. c3 {[%clk 0:15:04]}  d5 {[%clk 0:14:58]} 3. f4 {[%clk 0:14:52]}  g6 {[%clk 0:13:46]}
+4. Nb3 {[%clk 0:14:45]}  Nd6 {[%clk 0:13:28]} 5. d3 {[%clk 0:14:44]}  Bd7 {[%clk 0:13:21]} 6. Qg2 {[%clk 0:14:44]}  f5 {[%clk 0:12:33]}
+7. g5 {[%clk 0:14:44]}  Bc7 {[%clk 0:12:09]} 8. Bf2 {[%clk 0:14:31]}  h5 {[%clk 0:12:03]} 9. Bd4 {[%clk 0:14:17]}  Qh7 {[%clk 0:12:04]}
+10. Nf3 {[%clk 0:14:20]}  Nf7 {[%clk 0:11:54]} 11. Qg3 {[%clk 0:13:29]}  e6 {[%clk 0:11:45]} 12. Bc2 {[%clk 0:12:47]}  Ne7 {[%clk 0:11:43]}
+13. Bf6 {[%clk 0:12:43]}  Nd6 {[%clk 0:11:43]} 14. O-O-O {[%clk 0:12:39]}  b6 {[%clk 0:11:31]} 15. e4 {[%clk 0:12:25]}  Ne8 {[%clk 0:09:53]}
+16. Be5 {[%clk 0:11:55]}  O-O-O {[%clk 0:09:51]} 17. exd5 {[%clk 0:11:43]}  exd5 {[%clk 0:09:31]} 18. Rfe1 {[%clk 0:11:40]}  Nd6 {[%clk 0:09:26]}
+19. Qf2 {[%clk 0:11:12]}  Rde8 {[%clk 0:09:21]} 20. a4 {[%clk 0:11:14]}  Kb7 {[%clk 0:08:50]} 21. a5 {[%clk 0:11:13]}  Nec8 {[%clk 0:06:49]}
+22. Kb1 {[%clk 0:10:41]}  Qg8 {[%clk 0:06:31]} 23. Qd4 {[%clk 0:09:51]}  Nb5 {[%clk 0:05:30]} 24. Qb4 {[%clk 0:09:51]}  c5 {[%clk 0:04:37]}
+25. a6+ {[%clk 0:08:44]}  Kxa6 {[%clk 0:03:44]} 26. Qa4+ {[%clk 0:08:46]}  Kb7 {[%clk 0:03:47]} 27. Kc1 {[%clk 0:08:49]}  Bc6 {[%clk 0:03:41]}
+28. Bxc7 {[%clk 0:08:19]}  Nxc3 {[%clk 0:03:04]} 29. Na5+ {[%clk 0:07:59]}  bxa5 {[%clk 0:02:57]} 30. Qb3+ {[%clk 0:07:58]}  Kxc7 {[%clk 0:01:24]}
+31. Qxc3 {[%clk 0:07:58]}  Kb6 {[%clk 0:01:26]} 32. Ne5 {[%clk 0:08:00]}  Nd6 {[%clk 0:01:06]} 33. d4 {[%clk 0:06:36]}  c4 {[%clk 0:00:58]}
+34. Qa3 {[%clk 0:06:36]}  Nb7 {[%clk 0:00:45]} 35. Nxc6 {[%clk 0:06:38]}  Kxc6 {[%clk 0:00:31]} 36. Ba4+ {[%clk 0:06:39]}  Kc7 {[%clk 0:00:31]}
+37. Bxe8 {[%clk 0:06:34]}  Rxe8 {[%clk 0:00:34]} 38. Re7+ {[%clk 0:06:34]}  Kb6 {[%clk 0:00:06]} 39. Rde1 {[%clk 0:06:35]}  Rxe7 {[%clk 0:00:06]}
+40. Qxe7 {[%clk 0:06:38]}  Qb8 {[%clk 0:00:07]} 41. Re6+ {[%clk 0:06:31]}  Kb5 {[%clk 0:00:10]} 42. Kc2 {[%clk 0:06:24]}  Nd8 {[%clk 0:00:05]}
+43. Qd7+ {[%clk 0:06:15]}  Kb4 {[%clk 0:00:00]} 44. Rd6 {[%clk 0:06:17]} 1-0
+

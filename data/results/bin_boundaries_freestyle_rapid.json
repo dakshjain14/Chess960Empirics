@@ -1,0 +1,1557 @@
+{
+  "corpus": "freestyle",
+  "format": "rapid",
+  "source_type": null,
+  "min_cell_count": 20,
+  "band_starting_width": 100,
+  "gap_starting_width": 50,
+  "n_rows": 4320,
+  "band_edges": [
+    2000.0,
+    2100.0,
+    2200.0,
+    2300.0,
+    2400.0,
+    2500.0,
+    2600.0,
+    2700.0,
+    2800.0,
+    2900.0
+  ],
+  "band_edges_shared": true,
+  "band_merges": [],
+  "gap_edges_by_band": {
+    "2000 to 2099": [
+      -700.0,
+      -500.0,
+      -450.0,
+      -350.0,
+      -250.0,
+      -200.0,
+      -150.0,
+      -50.0,
+      100.0
+    ],
+    "2100 to 2199": [
+      -650.0,
+      -450.0,
+      -400.0,
+      -350.0,
+      -300.0,
+      -250.0,
+      -200.0,
+      -150.0,
+      -100.0,
+      -50.0,
+      0.0,
+      100.0,
+      200.0
+    ],
+    "2200 to 2299": [
+      -500.0,
+      -400.0,
+      -350.0,
+      -300.0,
+      -250.0,
+      -200.0,
+      -150.0,
+      -100.0,
+      -50.0,
+      0.0,
+      50.0,
+      100.0,
+      150.0,
+      200.0,
+      300.0
+    ],
+    "2300 to 2399": [
+      -400.0,
+      -300.0,
+      -250.0,
+      -200.0,
+      -150.0,
+      -100.0,
+      -50.0,
+      0.0,
+      50.0,
+      100.0,
+      150.0,
+      200.0,
+      250.0,
+      400.0
+    ],
+    "2400 to 2499": [
+      -400.0,
+      -200.0,
+      -150.0,
+      -100.0,
+      -50.0,
+      0.0,
+      50.0,
+      100.0,
+      150.0,
+      200.0,
+      250.0,
+      300.0,
+      350.0,
+      500.0
+    ],
+    "2500 to 2599": [
+      -250.0,
+      -150.0,
+      -100.0,
+      -50.0,
+      0.0,
+      50.0,
+      100.0,
+      150.0,
+      200.0,
+      250.0,
+      300.0,
+      350.0,
+      400.0,
+      450.0,
+      500.0,
+      600.0
+    ],
+    "2600 to 2699": [
+      -250.0,
+      -100.0,
+      -50.0,
+      0.0,
+      50.0,
+      100.0,
+      150.0,
+      200.0,
+      250.0,
+      300.0,
+      350.0,
+      400.0,
+      450.0,
+      700.0
+    ],
+    "2700 to 2799": [
+      -150.0,
+      -100.0,
+      -50.0,
+      0.0,
+      50.0,
+      100.0,
+      150.0,
+      250.0,
+      700.0
+    ],
+    "2800+": [
+      50.0,
+      100.0,
+      400.0
+    ]
+  },
+  "gap_merges_by_band": {
+    "2000 to 2099": [
+      {
+        "merged_bin": [
+          -700.0,
+          -650.0
+        ],
+        "merged_bin_count": 2,
+        "direction": "right",
+        "reason": "count 2 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          -700.0,
+          -600.0
+        ],
+        "merged_bin_count": 4,
+        "direction": "right",
+        "reason": "count 4 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          50.0,
+          100.0
+        ],
+        "merged_bin_count": 5,
+        "direction": "left",
+        "reason": "count 5 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          -450.0,
+          -400.0
+        ],
+        "merged_bin_count": 14,
+        "direction": "right",
+        "reason": "count 14 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          -350.0,
+          -300.0
+        ],
+        "merged_bin_count": 14,
+        "direction": "right",
+        "reason": "count 14 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          -100.0,
+          -50.0
+        ],
+        "merged_bin_count": 16,
+        "direction": "left",
+        "reason": "count 16 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          -700.0,
+          -550.0
+        ],
+        "merged_bin_count": 17,
+        "direction": "right",
+        "reason": "count 17 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          0.0,
+          100.0
+        ],
+        "merged_bin_count": 17,
+        "direction": "left",
+        "reason": "count 17 < min_cell_count 20"
+      }
+    ],
+    "2100 to 2199": [
+      {
+        "merged_bin": [
+          -650.0,
+          -600.0
+        ],
+        "merged_bin_count": 1,
+        "direction": "right",
+        "reason": "count 1 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          -650.0,
+          -550.0
+        ],
+        "merged_bin_count": 4,
+        "direction": "right",
+        "reason": "count 4 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          100.0,
+          150.0
+        ],
+        "merged_bin_count": 11,
+        "direction": "right",
+        "reason": "count 11 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          -500.0,
+          -450.0
+        ],
+        "merged_bin_count": 14,
+        "direction": "left",
+        "reason": "count 14 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          0.0,
+          50.0
+        ],
+        "merged_bin_count": 17,
+        "direction": "right",
+        "reason": "count 17 < min_cell_count 20"
+      }
+    ],
+    "2200 to 2299": [
+      {
+        "merged_bin": [
+          -500.0,
+          -450.0
+        ],
+        "merged_bin_count": 4,
+        "direction": "right",
+        "reason": "count 4 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          250.0,
+          300.0
+        ],
+        "merged_bin_count": 4,
+        "direction": "left",
+        "reason": "count 4 < min_cell_count 20"
+      }
+    ],
+    "2300 to 2399": [
+      {
+        "merged_bin": [
+          350.0,
+          400.0
+        ],
+        "merged_bin_count": 2,
+        "direction": "left",
+        "reason": "count 2 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          -400.0,
+          -350.0
+        ],
+        "merged_bin_count": 11,
+        "direction": "right",
+        "reason": "count 11 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          300.0,
+          400.0
+        ],
+        "merged_bin_count": 11,
+        "direction": "left",
+        "reason": "count 11 < min_cell_count 20"
+      }
+    ],
+    "2400 to 2499": [
+      {
+        "merged_bin": [
+          -400.0,
+          -350.0
+        ],
+        "merged_bin_count": 1,
+        "direction": "right",
+        "reason": "count 1 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          -400.0,
+          -300.0
+        ],
+        "merged_bin_count": 3,
+        "direction": "right",
+        "reason": "count 3 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          400.0,
+          450.0
+        ],
+        "merged_bin_count": 8,
+        "direction": "right",
+        "reason": "count 8 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          400.0,
+          500.0
+        ],
+        "merged_bin_count": 16,
+        "direction": "left",
+        "reason": "count 16 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          -400.0,
+          -250.0
+        ],
+        "merged_bin_count": 18,
+        "direction": "right",
+        "reason": "count 18 < min_cell_count 20"
+      }
+    ],
+    "2500 to 2599": [
+      {
+        "merged_bin": [
+          550.0,
+          600.0
+        ],
+        "merged_bin_count": 4,
+        "direction": "left",
+        "reason": "count 4 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          -250.0,
+          -200.0
+        ],
+        "merged_bin_count": 7,
+        "direction": "right",
+        "reason": "count 7 < min_cell_count 20"
+      }
+    ],
+    "2600 to 2699": [
+      {
+        "merged_bin": [
+          650.0,
+          700.0
+        ],
+        "merged_bin_count": 1,
+        "direction": "left",
+        "reason": "count 1 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          -250.0,
+          -200.0
+        ],
+        "merged_bin_count": 2,
+        "direction": "right",
+        "reason": "count 2 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          600.0,
+          700.0
+        ],
+        "merged_bin_count": 3,
+        "direction": "left",
+        "reason": "count 3 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          450.0,
+          500.0
+        ],
+        "merged_bin_count": 11,
+        "direction": "right",
+        "reason": "count 11 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          -250.0,
+          -150.0
+        ],
+        "merged_bin_count": 16,
+        "direction": "right",
+        "reason": "count 16 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          550.0,
+          700.0
+        ],
+        "merged_bin_count": 16,
+        "direction": "left",
+        "reason": "count 16 < min_cell_count 20"
+      }
+    ],
+    "2700 to 2799": [
+      {
+        "merged_bin": [
+          550.0,
+          600.0
+        ],
+        "merged_bin_count": 0,
+        "direction": "left",
+        "reason": "count 0 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          400.0,
+          450.0
+        ],
+        "merged_bin_count": 1,
+        "direction": "right",
+        "reason": "count 1 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          500.0,
+          600.0
+        ],
+        "merged_bin_count": 1,
+        "direction": "right",
+        "reason": "count 1 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          650.0,
+          700.0
+        ],
+        "merged_bin_count": 1,
+        "direction": "left",
+        "reason": "count 1 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          300.0,
+          350.0
+        ],
+        "merged_bin_count": 2,
+        "direction": "right",
+        "reason": "count 2 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          500.0,
+          700.0
+        ],
+        "merged_bin_count": 3,
+        "direction": "left",
+        "reason": "count 3 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          300.0,
+          400.0
+        ],
+        "merged_bin_count": 6,
+        "direction": "left",
+        "reason": "count 6 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          400.0,
+          700.0
+        ],
+        "merged_bin_count": 7,
+        "direction": "left",
+        "reason": "count 7 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          200.0,
+          250.0
+        ],
+        "merged_bin_count": 10,
+        "direction": "left",
+        "reason": "count 10 < min_cell_count 20"
+      }
+    ],
+    "2800+": [
+      {
+        "merged_bin": [
+          250.0,
+          300.0
+        ],
+        "merged_bin_count": 0,
+        "direction": "right",
+        "reason": "count 0 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          250.0,
+          350.0
+        ],
+        "merged_bin_count": 0,
+        "direction": "right",
+        "reason": "count 0 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          250.0,
+          400.0
+        ],
+        "merged_bin_count": 1,
+        "direction": "left",
+        "reason": "count 1 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          200.0,
+          400.0
+        ],
+        "merged_bin_count": 3,
+        "direction": "left",
+        "reason": "count 3 < min_cell_count 20"
+      },
+      {
+        "merged_bin": [
+          150.0,
+          400.0
+        ],
+        "merged_bin_count": 15,
+        "direction": "left",
+        "reason": "count 15 < min_cell_count 20"
+      }
+    ]
+  },
+  "cell_counts": [
+    {
+      "band": "2000 to 2099",
+      "gap_bin": "-150 to -51",
+      "n_total": 34,
+      "n_opening_acpl": 34,
+      "n_otr": 34,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2000 to 2099",
+      "gap_bin": "-200 to -151",
+      "n_total": 35,
+      "n_opening_acpl": 35,
+      "n_otr": 35,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2000 to 2099",
+      "gap_bin": "-250 to -201",
+      "n_total": 27,
+      "n_opening_acpl": 27,
+      "n_otr": 27,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2000 to 2099",
+      "gap_bin": "-350 to -251",
+      "n_total": 40,
+      "n_opening_acpl": 40,
+      "n_otr": 40,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2000 to 2099",
+      "gap_bin": "-450 to -351",
+      "n_total": 29,
+      "n_opening_acpl": 29,
+      "n_otr": 29,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2000 to 2099",
+      "gap_bin": "-50+",
+      "n_total": 35,
+      "n_opening_acpl": 35,
+      "n_otr": 35,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2000 to 2099",
+      "gap_bin": "-500 to -451",
+      "n_total": 29,
+      "n_opening_acpl": 29,
+      "n_otr": 29,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2000 to 2099",
+      "gap_bin": "-700 to -501",
+      "n_total": 39,
+      "n_opening_acpl": 39,
+      "n_otr": 39,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2100 to 2199",
+      "gap_bin": "-100 to -51",
+      "n_total": 22,
+      "n_opening_acpl": 22,
+      "n_otr": 22,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2100 to 2199",
+      "gap_bin": "-150 to -101",
+      "n_total": 29,
+      "n_opening_acpl": 29,
+      "n_otr": 29,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2100 to 2199",
+      "gap_bin": "-200 to -151",
+      "n_total": 28,
+      "n_opening_acpl": 27,
+      "n_otr": 28,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2100 to 2199",
+      "gap_bin": "-250 to -201",
+      "n_total": 28,
+      "n_opening_acpl": 28,
+      "n_otr": 28,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2100 to 2199",
+      "gap_bin": "-300 to -251",
+      "n_total": 30,
+      "n_opening_acpl": 30,
+      "n_otr": 30,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2100 to 2199",
+      "gap_bin": "-350 to -301",
+      "n_total": 34,
+      "n_opening_acpl": 34,
+      "n_otr": 34,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2100 to 2199",
+      "gap_bin": "-400 to -351",
+      "n_total": 31,
+      "n_opening_acpl": 31,
+      "n_otr": 31,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2100 to 2199",
+      "gap_bin": "-450 to -401",
+      "n_total": 24,
+      "n_opening_acpl": 24,
+      "n_otr": 24,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2100 to 2199",
+      "gap_bin": "-50 to -1",
+      "n_total": 22,
+      "n_opening_acpl": 22,
+      "n_otr": 22,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2100 to 2199",
+      "gap_bin": "-650 to -451",
+      "n_total": 29,
+      "n_opening_acpl": 29,
+      "n_otr": 29,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2100 to 2199",
+      "gap_bin": "0 to 99",
+      "n_total": 35,
+      "n_opening_acpl": 35,
+      "n_otr": 35,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2100 to 2199",
+      "gap_bin": "100+",
+      "n_total": 22,
+      "n_opening_acpl": 22,
+      "n_otr": 22,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2200 to 2299",
+      "gap_bin": "-100 to -51",
+      "n_total": 41,
+      "n_opening_acpl": 41,
+      "n_otr": 41,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2200 to 2299",
+      "gap_bin": "-150 to -101",
+      "n_total": 33,
+      "n_opening_acpl": 33,
+      "n_otr": 33,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2200 to 2299",
+      "gap_bin": "-200 to -151",
+      "n_total": 22,
+      "n_opening_acpl": 22,
+      "n_otr": 22,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2200 to 2299",
+      "gap_bin": "-250 to -201",
+      "n_total": 48,
+      "n_opening_acpl": 48,
+      "n_otr": 48,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2200 to 2299",
+      "gap_bin": "-300 to -251",
+      "n_total": 50,
+      "n_opening_acpl": 50,
+      "n_otr": 50,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2200 to 2299",
+      "gap_bin": "-350 to -301",
+      "n_total": 46,
+      "n_opening_acpl": 46,
+      "n_otr": 45,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2200 to 2299",
+      "gap_bin": "-400 to -351",
+      "n_total": 27,
+      "n_opening_acpl": 27,
+      "n_otr": 27,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2200 to 2299",
+      "gap_bin": "-50 to -1",
+      "n_total": 32,
+      "n_opening_acpl": 32,
+      "n_otr": 32,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2200 to 2299",
+      "gap_bin": "-500 to -401",
+      "n_total": 22,
+      "n_opening_acpl": 22,
+      "n_otr": 22,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2200 to 2299",
+      "gap_bin": "0 to 49",
+      "n_total": 35,
+      "n_opening_acpl": 35,
+      "n_otr": 35,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2200 to 2299",
+      "gap_bin": "100 to 149",
+      "n_total": 23,
+      "n_opening_acpl": 23,
+      "n_otr": 23,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2200 to 2299",
+      "gap_bin": "150 to 199",
+      "n_total": 34,
+      "n_opening_acpl": 34,
+      "n_otr": 34,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2200 to 2299",
+      "gap_bin": "200+",
+      "n_total": 27,
+      "n_opening_acpl": 27,
+      "n_otr": 27,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2200 to 2299",
+      "gap_bin": "50 to 99",
+      "n_total": 24,
+      "n_opening_acpl": 24,
+      "n_otr": 24,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2300 to 2399",
+      "gap_bin": "-100 to -51",
+      "n_total": 25,
+      "n_opening_acpl": 25,
+      "n_otr": 25,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2300 to 2399",
+      "gap_bin": "-150 to -101",
+      "n_total": 52,
+      "n_opening_acpl": 52,
+      "n_otr": 52,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2300 to 2399",
+      "gap_bin": "-200 to -151",
+      "n_total": 47,
+      "n_opening_acpl": 47,
+      "n_otr": 47,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2300 to 2399",
+      "gap_bin": "-250 to -201",
+      "n_total": 43,
+      "n_opening_acpl": 43,
+      "n_otr": 43,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2300 to 2399",
+      "gap_bin": "-300 to -251",
+      "n_total": 34,
+      "n_opening_acpl": 34,
+      "n_otr": 34,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2300 to 2399",
+      "gap_bin": "-400 to -301",
+      "n_total": 31,
+      "n_opening_acpl": 31,
+      "n_otr": 31,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2300 to 2399",
+      "gap_bin": "-50 to -1",
+      "n_total": 29,
+      "n_opening_acpl": 29,
+      "n_otr": 29,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2300 to 2399",
+      "gap_bin": "0 to 49",
+      "n_total": 31,
+      "n_opening_acpl": 31,
+      "n_otr": 31,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2300 to 2399",
+      "gap_bin": "100 to 149",
+      "n_total": 34,
+      "n_opening_acpl": 34,
+      "n_otr": 34,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2300 to 2399",
+      "gap_bin": "150 to 199",
+      "n_total": 25,
+      "n_opening_acpl": 25,
+      "n_otr": 25,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2300 to 2399",
+      "gap_bin": "200 to 249",
+      "n_total": 27,
+      "n_opening_acpl": 27,
+      "n_otr": 27,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2300 to 2399",
+      "gap_bin": "250+",
+      "n_total": 38,
+      "n_opening_acpl": 38,
+      "n_otr": 37,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2300 to 2399",
+      "gap_bin": "50 to 99",
+      "n_total": 38,
+      "n_opening_acpl": 38,
+      "n_otr": 38,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2400 to 2499",
+      "gap_bin": "-100 to -51",
+      "n_total": 56,
+      "n_opening_acpl": 56,
+      "n_otr": 56,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2400 to 2499",
+      "gap_bin": "-150 to -101",
+      "n_total": 59,
+      "n_opening_acpl": 59,
+      "n_otr": 59,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2400 to 2499",
+      "gap_bin": "-200 to -151",
+      "n_total": 40,
+      "n_opening_acpl": 40,
+      "n_otr": 38,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2400 to 2499",
+      "gap_bin": "-400 to -201",
+      "n_total": 38,
+      "n_opening_acpl": 38,
+      "n_otr": 38,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2400 to 2499",
+      "gap_bin": "-50 to -1",
+      "n_total": 54,
+      "n_opening_acpl": 54,
+      "n_otr": 54,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2400 to 2499",
+      "gap_bin": "0 to 49",
+      "n_total": 35,
+      "n_opening_acpl": 35,
+      "n_otr": 35,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2400 to 2499",
+      "gap_bin": "100 to 149",
+      "n_total": 52,
+      "n_opening_acpl": 52,
+      "n_otr": 52,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2400 to 2499",
+      "gap_bin": "150 to 199",
+      "n_total": 22,
+      "n_opening_acpl": 22,
+      "n_otr": 22,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2400 to 2499",
+      "gap_bin": "200 to 249",
+      "n_total": 38,
+      "n_opening_acpl": 38,
+      "n_otr": 37,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2400 to 2499",
+      "gap_bin": "250 to 299",
+      "n_total": 31,
+      "n_opening_acpl": 30,
+      "n_otr": 31,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2400 to 2499",
+      "gap_bin": "300 to 349",
+      "n_total": 22,
+      "n_opening_acpl": 22,
+      "n_otr": 22,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2400 to 2499",
+      "gap_bin": "350+",
+      "n_total": 38,
+      "n_opening_acpl": 38,
+      "n_otr": 38,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2400 to 2499",
+      "gap_bin": "50 to 99",
+      "n_total": 26,
+      "n_opening_acpl": 26,
+      "n_otr": 26,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2500 to 2599",
+      "gap_bin": "-100 to -51",
+      "n_total": 97,
+      "n_opening_acpl": 97,
+      "n_otr": 93,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2500 to 2599",
+      "gap_bin": "-150 to -101",
+      "n_total": 63,
+      "n_opening_acpl": 63,
+      "n_otr": 63,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2500 to 2599",
+      "gap_bin": "-250 to -151",
+      "n_total": 40,
+      "n_opening_acpl": 40,
+      "n_otr": 40,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2500 to 2599",
+      "gap_bin": "-50 to -1",
+      "n_total": 112,
+      "n_opening_acpl": 112,
+      "n_otr": 111,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2500 to 2599",
+      "gap_bin": "0 to 49",
+      "n_total": 106,
+      "n_opening_acpl": 106,
+      "n_otr": 105,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2500 to 2599",
+      "gap_bin": "100 to 149",
+      "n_total": 61,
+      "n_opening_acpl": 60,
+      "n_otr": 61,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2500 to 2599",
+      "gap_bin": "150 to 199",
+      "n_total": 48,
+      "n_opening_acpl": 48,
+      "n_otr": 48,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2500 to 2599",
+      "gap_bin": "200 to 249",
+      "n_total": 51,
+      "n_opening_acpl": 51,
+      "n_otr": 51,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2500 to 2599",
+      "gap_bin": "250 to 299",
+      "n_total": 51,
+      "n_opening_acpl": 51,
+      "n_otr": 51,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2500 to 2599",
+      "gap_bin": "300 to 349",
+      "n_total": 51,
+      "n_opening_acpl": 51,
+      "n_otr": 51,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2500 to 2599",
+      "gap_bin": "350 to 399",
+      "n_total": 31,
+      "n_opening_acpl": 31,
+      "n_otr": 31,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2500 to 2599",
+      "gap_bin": "400 to 449",
+      "n_total": 26,
+      "n_opening_acpl": 26,
+      "n_otr": 26,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2500 to 2599",
+      "gap_bin": "450 to 499",
+      "n_total": 24,
+      "n_opening_acpl": 24,
+      "n_otr": 24,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2500 to 2599",
+      "gap_bin": "50 to 99",
+      "n_total": 72,
+      "n_opening_acpl": 72,
+      "n_otr": 72,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2500 to 2599",
+      "gap_bin": "500+",
+      "n_total": 22,
+      "n_opening_acpl": 22,
+      "n_otr": 22,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2600 to 2699",
+      "gap_bin": "-100 to -51",
+      "n_total": 153,
+      "n_opening_acpl": 153,
+      "n_otr": 143,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2600 to 2699",
+      "gap_bin": "-250 to -101",
+      "n_total": 70,
+      "n_opening_acpl": 70,
+      "n_otr": 65,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2600 to 2699",
+      "gap_bin": "-50 to -1",
+      "n_total": 100,
+      "n_opening_acpl": 100,
+      "n_otr": 99,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2600 to 2699",
+      "gap_bin": "0 to 49",
+      "n_total": 115,
+      "n_opening_acpl": 115,
+      "n_otr": 112,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2600 to 2699",
+      "gap_bin": "100 to 149",
+      "n_total": 54,
+      "n_opening_acpl": 54,
+      "n_otr": 54,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2600 to 2699",
+      "gap_bin": "150 to 199",
+      "n_total": 45,
+      "n_opening_acpl": 45,
+      "n_otr": 44,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2600 to 2699",
+      "gap_bin": "200 to 249",
+      "n_total": 30,
+      "n_opening_acpl": 30,
+      "n_otr": 30,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2600 to 2699",
+      "gap_bin": "250 to 299",
+      "n_total": 36,
+      "n_opening_acpl": 36,
+      "n_otr": 36,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2600 to 2699",
+      "gap_bin": "300 to 349",
+      "n_total": 30,
+      "n_opening_acpl": 30,
+      "n_otr": 30,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2600 to 2699",
+      "gap_bin": "350 to 399",
+      "n_total": 27,
+      "n_opening_acpl": 27,
+      "n_otr": 27,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2600 to 2699",
+      "gap_bin": "400 to 449",
+      "n_total": 21,
+      "n_opening_acpl": 21,
+      "n_otr": 21,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2600 to 2699",
+      "gap_bin": "450+",
+      "n_total": 42,
+      "n_opening_acpl": 42,
+      "n_otr": 42,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2600 to 2699",
+      "gap_bin": "50 to 99",
+      "n_total": 95,
+      "n_opening_acpl": 95,
+      "n_otr": 91,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2700 to 2799",
+      "gap_bin": "-100 to -51",
+      "n_total": 34,
+      "n_opening_acpl": 34,
+      "n_otr": 34,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2700 to 2799",
+      "gap_bin": "-150 to -101",
+      "n_total": 21,
+      "n_opening_acpl": 21,
+      "n_otr": 21,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2700 to 2799",
+      "gap_bin": "-50 to -1",
+      "n_total": 106,
+      "n_opening_acpl": 106,
+      "n_otr": 99,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2700 to 2799",
+      "gap_bin": "0 to 49",
+      "n_total": 124,
+      "n_opening_acpl": 124,
+      "n_otr": 115,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2700 to 2799",
+      "gap_bin": "100 to 149",
+      "n_total": 73,
+      "n_opening_acpl": 73,
+      "n_otr": 72,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2700 to 2799",
+      "gap_bin": "150 to 249",
+      "n_total": 29,
+      "n_opening_acpl": 29,
+      "n_otr": 28,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2700 to 2799",
+      "gap_bin": "250+",
+      "n_total": 20,
+      "n_opening_acpl": 20,
+      "n_otr": 19,
+      "below_min_opening_acpl": false,
+      "below_min_otr": true,
+      "any_mismatch": true
+    },
+    {
+      "band": "2700 to 2799",
+      "gap_bin": "50 to 99",
+      "n_total": 142,
+      "n_opening_acpl": 142,
+      "n_otr": 132,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2800+",
+      "gap_bin": "100+",
+      "n_total": 43,
+      "n_opening_acpl": 43,
+      "n_otr": 42,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    },
+    {
+      "band": "2800+",
+      "gap_bin": "50 to 99",
+      "n_total": 24,
+      "n_opening_acpl": 24,
+      "n_otr": 24,
+      "below_min_opening_acpl": false,
+      "below_min_otr": false,
+      "any_mismatch": false
+    }
+  ]
+}

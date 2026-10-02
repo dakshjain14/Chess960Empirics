@@ -1,0 +1,5 @@
+cell,baseline,min,min_excluding,max,max_excluding,n_exclusions
+gradient classical interaction coefficient,0.014406096089971697,0.014072799104422103,lichess_Grenke-chess-festival-2025-freestyle-chess_2025.pgn,0.015267777393037313,36th Cracovia Open A,30
+gradient classical interaction p-value,9.883842461212729e-23,4.982216480252463e-24,36th Cracovia Open A,5.343681731415317e-14,lichess_Grenke-chess-festival-2025-freestyle-chess_2025.pgn,30
+gradient rapid interaction coefficient,0.020446502678610458,0.018651213329291486,WeissenhausPlayinSwiss_10+2.pgn,0.02183930293413268,LasVegasPlayinSwiss_10+2.pgn,80
+gradient rapid interaction p-value,1.979906735785296e-23,8.516711839914318e-25,lichess_broadcast_6-internationales-schach960-festival_meLZLdUf_2025.03.30.pgn,1.8601625972507513e-15,WeissenhausPlayinSwiss_10+2.pgn,80

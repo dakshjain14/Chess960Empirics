@@ -1,0 +1,44 @@
+event,corpus,format,source_type,total_games_in_file,excluded_zero_ply,excluded_unplayed_forfeit,excluded_missing_fen,excluded_duplicate_game_id,excluded_elo_unparseable,excluded_elo_below_floor,final_games_analyzed
+11th Gashimov Mem Rapid,standard,rapid,otb,30,0,0,0,0,0,0,30
+Asrian Mem Rapid 2025,standard,rapid,otb,45,0,0,0,0,0,0,45
+Saint Louis Rapid 2025,standard,rapid,otb,45,0,0,0,0,0,0,45
+SuperUnited CRO Rapid 2025,standard,rapid,otb,45,0,0,0,0,0,0,45
+Superbet POL Rapid 2025,standard,rapid,otb,45,0,0,0,0,0,0,45
+Tata Steel India Rapid,standard,rapid,otb,45,0,0,0,0,0,0,45
+2025 Clutch Chess Champions Showdown,standard,rapid,otb,36,0,0,0,0,0,0,36
+FIDE World Cup 2025 - Rapid (Tiebreak 1),standard,rapid,otb,158,0,0,0,0,0,0,158
+FIDE World Cup 2025 - Rapid (Tiebreak 2),standard,rapid,otb,54,0,0,0,0,0,0,54
+Jerusalem Masters 2025,standard,rapid,otb,66,0,0,0,0,0,0,66
+Shenzhen Nanshan 2025,standard,rapid,otb,53,0,0,0,0,0,0,53
+TechM GCL 2025,standard,rapid,otb,180,0,0,0,0,0,0,180
+Rapid GP RUS TOP28,standard,rapid,otb,91,0,0,0,0,0,0,91
+TechM GCL 3rd-4th 2025,standard,rapid,otb,24,0,0,0,0,0,0,24
+15th Nat PRC RR Men,standard,rapid,otb,66,0,0,0,0,0,21,45
+Grand Prix PlusCity Rapid,standard,rapid,otb,180,2,2,0,0,0,18,158
+Tata Steel India Rapid w,standard,rapid,otb,45,0,0,0,0,0,0,45
+Coop Saaremaa Rapid 2025,standard,rapid,otb,535,452,0,0,0,0,8,75
+French Open Rapid 2025,standard,rapid,otb,72,2,0,0,0,0,5,65
+Ugra Cup Rapid 2025,standard,rapid,otb,132,1,0,0,0,0,20,111
+Vaganian Cup Rapid 2025,standard,rapid,otb,45,0,0,0,0,0,9,36
+European Rapid 2025,standard,rapid,otb,550,12,4,0,0,0,48,486
+Jerusalem Open Rapid 2025,standard,rapid,otb,180,0,0,0,0,0,35,145
+Berlin U25 Open - Rapid,standard,rapid,otb,176,0,0,0,0,0,34,142
+ch-HUN Rapid 2025,standard,rapid,otb,216,0,0,0,0,0,27,189
+24th OGD Rapid 2025,standard,rapid,otb,177,121,0,0,0,0,0,56
+Freedom24 Ladies Rapid,standard,rapid,otb,30,0,0,0,0,0,0,30
+TCh-AUT Rapid 2025,standard,rapid,otb,216,1,0,0,0,0,152,63
+Euro Uni Rapid Open 2025,standard,rapid,otb,50,0,0,0,0,0,13,37
+23rd Nancy Rapid 2025,standard,rapid,otb,72,0,0,0,0,0,17,55
+15th LCC Super Rapid 2025,standard,rapid,otb,680,3,1,0,0,0,383,293
+ch-IND Rapid 2025,standard,rapid,otb,88,0,0,0,0,0,17,71
+36th Czech Rapid G1 2025,standard,rapid,otb,252,0,0,0,0,0,36,216
+World Rapid Women 2025,standard,rapid,otb,770,0,0,0,0,0,173,597
+Szansa Open Rapid 2025,standard,rapid,otb,185,0,1,0,0,0,36,148
+European Women Rapid 2026,standard,rapid,otb,176,0,0,0,0,0,21,155
+Balaton Grand Rapid 2025,standard,rapid,otb,36,0,0,0,0,0,0,36
+8th Salamanca Masters,standard,rapid,otb,30,0,0,0,0,0,0,30
+FIDE World Rapid Team - Matches 1-10,standard,rapid,otb,720,0,0,0,0,0,149,571
+FIDE World Rapid Team - Matches 11,standard,rapid,otb,1008,81,0,0,0,0,403,524
+World Rapid 2025 - Open 1-30,standard,rapid,otb,390,1,0,0,0,0,0,389
+World Rapid 2025 - Open 31,standard,rapid,otb,1196,0,1,0,0,0,76,1119
+__TOTAL__ standard/rapid,standard,rapid,,9190,676,9,0,0,0,1701,6804

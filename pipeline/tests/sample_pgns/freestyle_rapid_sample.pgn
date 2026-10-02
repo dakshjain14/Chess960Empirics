@@ -1,0 +1,76 @@
+[Event "Sample Freestyle Rapid"]
+[Site "https://example.org/g/fr001"]
+[Date "2025.04.01"]
+[Round "1"]
+[White "Xena"]
+[Black "Yuri"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2680"]
+[TimeControl "600+10"]
+[Variant "Chess960"]
+[FEN "nrbqkbrn/pppppppp/8/8/8/8/PPPPPPPP/NRBQKBRN w KQkq - 0 1"]
+[SetUp "1"]
+
+1. Nb3 { [%clk 0:09:55] } Nb6 { [%clk 0:09:52] } 2. d4 { [%clk 0:09:40] } d5 { [%clk 0:09:30] } 3. Ng3 { [%clk 0:09:20] } Ng6 { [%clk 0:09:10] } 4. e3 { [%clk 0:09:00] } e6 { [%clk 0:08:40] } 5. Bd3 { [%clk 0:08:20] } Bd6 { [%clk 0:08:00] } 6. Bd2 { [%clk 0:07:50] } Bd7 { [%clk 0:07:30] } 7. Qe2 { [%clk 0:07:10] } Qe7 { [%clk 0:06:50] } 8. O-O-O { [%clk 0:06:30] } O-O-O { [%clk 0:06:00] } 9. Kb1 { [%clk 0:05:40] } Kb8 { [%clk 0:05:10] } 10. h4 { [%clk 0:05:00] } h5 { [%clk 0:04:30] } 11. f3 { [%clk 0:04:20] } f6 { [%clk 0:03:50] } 12. e4 { [%clk 0:04:00] } dxe4 { [%clk 0:03:20] } 1-0
+
+[Event "Sample Freestyle Rapid"]
+[Site "https://example.org/g/fr002"]
+[Date "2025.04.01"]
+[Round "2"]
+[White "Zoe"]
+[Black "Adam"]
+[Result "0-1"]
+[WhiteElo "2500"]
+[BlackElo "2620"]
+[TimeControl "600+10"]
+[Variant "Chess960"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[SetUp "1"]
+
+1. e4 { [%clk 0:09:55] } e5 { [%clk 0:09:52] } 2. Nf3 { [%clk 0:09:44] } Nc6 { [%clk 0:09:40] } 3. Bb5 { [%clk 0:09:30] } a6 { [%clk 0:09:20] } 4. Ba4 { [%clk 0:09:10] } Nf6 { [%clk 0:09:05] } 5. O-O { [%clk 0:08:50] } Be7 { [%clk 0:08:40] } 6. Re1 { [%clk 0:08:20] } b5 { [%clk 0:08:10] } 7. Bb3 { [%clk 0:08:00] } d6 { [%clk 0:07:50] } 8. c3 { [%clk 0:07:40] } O-O { [%clk 0:07:20] } 9. h3 { [%clk 0:07:00] } Na5 { [%clk 0:06:40] } 10. Bc2 { [%clk 0:06:20] } c5 { [%clk 0:06:00] } 11. d4 { [%clk 0:05:40] } Qc7 { [%clk 0:05:20] } 12. Nbd2 { [%clk 0:05:00] } cxd4 { [%clk 0:04:40] } 13. cxd4 { [%clk 0:04:20] } Nc6 { [%clk 0:04:00] } 14. Nb3 { [%clk 0:03:50] } a5 { [%clk 0:03:30] } 15. Be3 { [%clk 0:03:10] } a4 { [%clk 0:02:50] } 16. Nbd2 { [%clk 0:02:40] } Bd7 { [%clk 0:02:20] } 0-1
+
+[Event "Sample Freestyle Rapid"]
+[Site "https://example.org/g/fr003"]
+[Date "2025.04.02"]
+[Round "3"]
+[White "Bella"]
+[Black "Cody"]
+[Result "1/2-1/2"]
+[WhiteElo "2560"]
+[BlackElo "2570"]
+[TimeControl "600+10"]
+[Variant "Chess960"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[SetUp "1"]
+
+1. d4 { [%clk 0:09:55] } d5 { [%clk 0:09:52] } 2. Nf3 { [%clk 0:09:44] } Nf6 { [%clk not-a-clock] } 3. c4 { [%clk 0:09:30] } e6 { } 4. Nc3 { [%clk 0:09:10] } Be7 { [%clk 0:09:00] } 5. Bf4 { [%clk 0:08:50] } O-O { [%clk 0:08:35] } 6. e3 { [%clk 0:08:30] } c5 { [%clk 0:08:10] } 7. dxc5 { [%clk 0:08:20] } Bxc5 { [%clk 0:07:50] } 8. cxd5 { [%clk 0:08:10] } Nxd5 { [%clk 0:07:30] } 9. Nxd5 { [%clk 0:08:00] } exd5 { [%clk 0:07:10] } 10. Bd3 { [%clk 0:07:50] } Nc6 { [%clk 0:06:50] } 11. O-O { [%clk 0:07:30] } Bb6 { [%clk 0:06:30] } 12. h3 { [%clk 0:07:10] } Re8 { [%clk 0:06:10] } 13. Qd2 { [%clk 0:06:50] } d4 { [%clk 0:05:50] } 14. exd4 { [%clk 0:06:30] } Nxd4 { [%clk 0:05:30] } 1/2-1/2
+
+[Event "Sample Freestyle Rapid"]
+[Site "https://example.org/g/fr004"]
+[Date "2025.04.02"]
+[Round "4"]
+[White "Dana"]
+[Black "Enzo"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2690"]
+[TimeControl "600+10"]
+
+1. e4 { [%clk 0:09:55] } e5 { [%clk 0:09:52] } 2. Nf3 { [%clk 0:09:44] } Nc6 *
+
+[Event "Sample Freestyle Rapid"]
+[Site "https://example.org/g/fr005"]
+[Date "2025.04.03"]
+[Round "5"]
+[White "Faye"]
+[Black "Gus"]
+[Result "1-0"]
+[WhiteElo "2650"]
+[BlackElo "2640"]
+[TimeControl "600+10"]
+[Variant "Chess960"]
+[FEN "nrbqkbrn/pppppppp/8/8/8/8/PPPPPPPP/NRBQKBRN w KQkq - 0 1"]
+[SetUp "1"]
+
+1. Nb3 Nb6 2. d4 d5 3. Ng3 Ng6 4. e3 e6 5. Bd3 Bd6 1-0

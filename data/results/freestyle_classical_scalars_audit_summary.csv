@@ -1,0 +1,7 @@
+event,corpus,format,source_type,total_games_in_file,excluded_zero_ply,excluded_unplayed_forfeit,excluded_missing_fen,excluded_duplicate_game_id,excluded_elo_unparseable,excluded_elo_below_floor,final_games_analyzed
+lichess_Grenke-chess-festival-2025-freestyle-chess_2025.pgn,freestyle,classical,otb,623,2,0,0,0,1,10,610
+lichess_Grenke-chess-festival-2026-freestyle-open_2026.04.06.pgn,freestyle,classical,otb,621,6,0,1,0,0,8,606
+weissenhausKO.pgn,freestyle,classical,otb,26,0,0,0,0,0,0,26
+ParisKO_90+30.pgn,freestyle,classical,otb,30,0,0,0,0,0,0,30
+Biel960Swiss.pgn,freestyle,classical,otb,62,1,1,0,0,0,47,13
+__TOTAL__ freestyle/classical,freestyle,classical,,1362,9,1,1,0,1,65,1285

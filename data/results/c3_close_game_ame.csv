@@ -1,0 +1,5 @@
+format,model,formula,ame_pp,ci_lower_pp,ci_upper_pp,n
+classical,1,draw ~ corpus + avg_rating,-13.07456906085962,-21.869126558002534,-4.280011563716704,2237
+classical,2,draw ~ corpus + avg_rating + avg_rating^2,-12.099263206028557,-20.66920236922419,-3.529324042832924,2237
+rapid,1,draw ~ corpus + avg_rating,-17.655839033859834,-22.022052775332796,-13.28962529238687,2805
+rapid,2,draw ~ corpus + avg_rating + avg_rating^2,-17.81327448466767,-22.246870991434694,-13.379677977900647,2805

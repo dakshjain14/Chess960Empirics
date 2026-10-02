@@ -1,0 +1,5 @@
+format,metric,n_pairs,median_diff,mean_diff,wilcoxon_statistic,p_value,n_positive,n_negative,direction
+classical,mean_opening_acpl,76,8.953095238095237,10.041656284533222,0.0,3.6060528034893936e-14,76,0,chess960 > standard
+classical,mean_otr,76,0.23690383754474542,0.2471331069910275,0.0,3.6060528034893936e-14,76,0,chess960 > standard
+rapid,mean_opening_acpl,130,15.671984906984909,17.422330802523472,0.0,4.459681641376563e-23,130,0,chess960 > standard
+rapid,mean_otr,130,0.16745428747847124,0.1718583356389848,143.0,1.1682813873815802e-21,123,7,chess960 > standard

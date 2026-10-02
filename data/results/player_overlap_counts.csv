@@ -1,0 +1,9 @@
+format,threshold,n_freestyle_qualifying,n_standard_qualifying,n_overlap
+classical,1,421,733,84
+classical,3,323,556,79
+classical,5,256,493,76
+classical,10,52,220,27
+rapid,1,563,2125,193
+rapid,3,456,1520,160
+rapid,5,352,1267,135
+rapid,10,139,811,81

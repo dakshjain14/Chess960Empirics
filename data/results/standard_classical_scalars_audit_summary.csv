@@ -1,0 +1,27 @@
+event,corpus,format,source_type,total_games_in_file,excluded_zero_ply,excluded_unplayed_forfeit,excluded_missing_fen,excluded_duplicate_game_id,excluded_elo_unparseable,excluded_elo_below_floor,final_games_analyzed
+12th Sinquefield Cup,standard,classical,otb,45,0,0,0,0,0,0,45
+13th Norway Chess 2025,standard,classical,otb,30,0,0,0,0,0,0,30
+15th London Classic Elite,standard,classical,otb,45,0,0,0,0,0,0,45
+22nd Karpov Int.,standard,classical,otb,45,0,0,0,0,0,0,45
+2nd UzChess Cup Masters,standard,classical,otb,45,0,0,0,0,0,0,45
+4th UZB President Masters,standard,classical,otb,45,0,0,0,0,0,0,45
+61st Rubinstein ALREH,standard,classical,otb,45,0,0,0,0,0,0,45
+7th Prague Masters 2025,standard,classical,otb,45,0,0,0,0,0,0,45
+87th Tata Steel Masters,standard,classical,otb,91,0,0,0,0,0,0,91
+88th Tata Steel Masters,standard,classical,otb,91,0,0,0,0,0,0,91
+Djerba Masters 2025,standard,classical,otb,45,0,0,0,0,0,0,45
+KazChess Masters 2025,standard,classical,otb,45,1,0,0,0,0,0,44
+Quantbox Chennai GM 2025,standard,classical,otb,45,0,0,0,0,0,0,45
+Stepan Avagyan Mem 2025,standard,classical,otb,45,0,0,0,0,0,0,45
+Superbet ROM Classic 2025,standard,classical,otb,45,0,0,0,0,0,0,45
+ch-USA 2025,standard,classical,otb,72,6,0,0,0,0,0,66
+Fujairah Global Superstars,standard,classical,otb,186,0,0,0,0,0,0,186
+FIDE Grand Swiss 2025,standard,classical,otb,638,0,1,0,0,0,0,637
+2nd Al-Beruniy Masters,standard,classical,otb,45,0,0,0,0,0,0,45
+FIDE World Cup 2025 - Classical,standard,classical,otb,412,3,4,0,0,0,4,401
+96th ch-GER Masters 2025,standard,classical,otb,45,0,0,0,0,0,0,45
+25th ch-EUR Indiv 2025,standard,classical,otb,935,0,0,0,0,0,3,932
+Serbia Open 2025 Masters,standard,classical,otb,216,0,0,0,0,0,4,212
+36th Cracovia Open A,standard,classical,otb,631,3,5,0,0,0,0,623
+7th Prague Challengers,standard,classical,otb,45,0,1,0,0,0,0,44
+__TOTAL__ standard/classical,standard,classical,,3977,13,11,0,0,0,11,3942

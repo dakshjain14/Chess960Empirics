@@ -1,0 +1,50 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# Unit test / coverage reports
+.pytest_cache/
+
+# Environments
+.env
+.envrc
+.venv
+.venv*
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# macOS
+.DS_Store
+
+# Documents and research
+*.doc
+
+# Large regeneratable intermediate pipeline stages (data/processed/) —
+# see README.md's "Data included in this repository" section: only the
+# final, analysis-ready Parquet files in data/processed/ are tracked;
+# these three PGN-tree stages are excluded and regeneratable from
+# data/games/ (given the external dependencies documented in README.md).
+data/processed/Updated_Ratings/
+data/processed/Updated_Time/
+data/processed/Updated_engine_eval/
+
+# Large external third-party dataset (official FIDE monthly rating lists
+# only) — not ours to redistribute at this size/licensing; see
+# data/Rating_lists/README.md for how to obtain it. The rest of
+# data/Rating_lists/ (the project's own manually-compiled roster CSVs,
+# .xlsx, and this README) is NOT excluded — it's our own compiled work
+# product, not FIDE's redistributable data, and isn't reproducible by any
+# script in this repo, so it needs to ship with the repo to be usable at
+# all. See data/Rating_lists/README.md's provenance note.
+data/Rating_lists/FIDE_Rating_by_id_month/
+
+
+# Text files (except requirements)
+*.txt
+!requirements.txt
+data/results/*_otb_*
+data/processed/*_otb*

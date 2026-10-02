@@ -1,0 +1,1137 @@
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "1.1"]
+[White "Bortnyk, Olexandr"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "14120828"]
+[BlackFideId "4168119"]
+[WhiteElo "2851"]
+[BlackElo "2935"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:02:08"]
+[BlackClock "0:07:54"]
+[Variant "Chess960"]
+[FEN "bqrnkrnb/pppppppp/8/8/8/8/PPPPPPPP/BQRNKRNB w FCfc - 0 1"]
+[Termination "agreed"]
+[EndDate "2025.01.07"]
+[EndTime "16:48:30"]
+
+1. b4 {[%clk 0:14:41]}  b5 {[%clk 0:14:47]} 2. Nf3 {[%clk 0:14:35]}  Nf6 {[%clk 0:14:44]} 3. g3 {[%clk 0:14:24]}  g6 {[%clk 0:14:40]}
+4. O-O {[%clk 0:14:11]}  O-O {[%clk 0:14:33]} 5. Ne3 {[%clk 0:13:43]}  Ne6 {[%clk 0:14:10]} 6. c4 {[%clk 0:12:23]}  bxc4 {[%clk 0:13:41]}
+7. Rxc4 {[%clk 0:11:49]}  c5 {[%clk 0:13:33]} 8. bxc5 {[%clk 0:10:28]}  Qxb1 {[%clk 0:13:18]} 9. Rxb1 {[%clk 0:10:28]}  Rxc5 {[%clk 0:13:20]}
+10. Ra4 {[%clk 0:08:28]}  Rfc8 {[%clk 0:12:36]} 11. Bxf6 {[%clk 0:06:32]}  Bxf6 {[%clk 0:12:37]} 12. Rxa7 {[%clk 0:06:34]}  Rc1+ {[%clk 0:12:37]}
+13. Rxc1 {[%clk 0:06:36]}  Rxc1+ {[%clk 0:12:40]} 14. Nf1 {[%clk 0:06:38]}  Bc6 {[%clk 0:12:41]} 15. Bg2 {[%clk 0:06:40]}  Ra1 {[%clk 0:12:14]}
+16. d3 {[%clk 0:06:16]}  Bd4 {[%clk 0:10:07]} 17. Nxd4 {[%clk 0:05:35]}  Nxd4 {[%clk 0:10:09]} 18. Bxc6 {[%clk 0:05:34]}  Nxe2+ {[%clk 0:10:10]}
+19. Kg2 {[%clk 0:05:36]}  dxc6 {[%clk 0:10:13]} 20. Ne3 {[%clk 0:04:38]}  Nc1 {[%clk 0:08:49]} 21. Rxe7 {[%clk 0:02:54]}  Rxa2 {[%clk 0:08:24]}
+22. Rd7 {[%clk 0:02:36]}  Rd2 {[%clk 0:08:23]} 23. Nc4 {[%clk 0:02:09]}  Rxd3 {[%clk 0:08:15]} 24. Rc7 {[%clk 0:02:08]}  Rd5 {[%clk 0:07:54]} 1/2-1/2
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "1.1"]
+[White "Fedoseev, Vladimir"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "24130737"]
+[BlackFideId "3503240"]
+[WhiteElo "2892"]
+[BlackElo "2718"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:00:26"]
+[BlackClock "0:00:07"]
+[Variant "Chess960"]
+[FEN "bqrnkrnb/pppppppp/8/8/8/8/PPPPPPPP/BQRNKRNB w FCfc - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.01.07"]
+[EndTime "17:01:55"]
+
+1. g3 {[%clk 0:14:23]}  g6 {[%clk 0:14:43]} 2. c4 {[%clk 0:14:13]}  c5 {[%clk 0:14:31]} 3. Nf3 {[%clk 0:14:09]}  b6 {[%clk 0:14:01]}
+4. O-O {[%clk 0:13:48]}  Nf6 {[%clk 0:13:23]} 5. b4 {[%clk 0:13:33]}  O-O {[%clk 0:13:02]} 6. d3 {[%clk 0:13:20]}  d6 {[%clk 0:12:02]}
+7. Ne3 {[%clk 0:12:52]}  Ne6 {[%clk 0:10:55]} 8. Bc3 {[%clk 0:12:40]}  Bg7 {[%clk 0:09:54]} 9. a4 {[%clk 0:11:54]}  Rfd8 {[%clk 0:09:32]}
+10. Bg2 {[%clk 0:11:47]}  Bb7 {[%clk 0:08:35]} 11. a5 {[%clk 0:11:35]}  h5 {[%clk 0:07:42]} 12. axb6 {[%clk 0:11:25]}  axb6 {[%clk 0:07:44]}
+13. Qb2 {[%clk 0:11:27]}  Bc6 {[%clk 0:07:26]} 14. Bh3 {[%clk 0:10:09]}  Rc7 {[%clk 0:06:15]} 15. Bxe6 {[%clk 0:08:05]}  fxe6 {[%clk 0:06:18]}
+16. Ng5 {[%clk 0:08:07]}  Qc8 {[%clk 0:05:50]} 17. f4 {[%clk 0:08:06]}  Rf8 {[%clk 0:04:38]} 18. Ng2 {[%clk 0:07:52]}  Bxg2 {[%clk 0:04:40]}
+19. Kxg2 {[%clk 0:07:53]}  Bh6 {[%clk 0:04:37]} 20. Nf3 {[%clk 0:07:11]}  Ng4 {[%clk 0:03:52]} 21. Bd2 {[%clk 0:07:05]}  Bg7 {[%clk 0:03:49]}
+22. Qb1 {[%clk 0:06:23]}  Bd4 {[%clk 0:03:33]} 23. Nxd4 {[%clk 0:05:49]}  cxd4 {[%clk 0:03:36]} 24. Qb2 {[%clk 0:04:52]}  e5 {[%clk 0:03:31]}
+25. h3 {[%clk 0:04:43]}  Qb7+ {[%clk 0:02:53]} 26. Kg1 {[%clk 0:04:42]}  Nf6 {[%clk 0:02:55]} 27. fxe5 {[%clk 0:03:59]}  dxe5 {[%clk 0:02:57]}
+28. Bh6 {[%clk 0:03:47]}  Rf7 {[%clk 0:02:35]} 29. e4 {[%clk 0:03:21]}  Kh7 {[%clk 0:01:48]} 30. Bg5 {[%clk 0:03:15]}  Rc8 {[%clk 0:01:50]}
+31. Rf2 {[%clk 0:03:11]}  Rcf8 {[%clk 0:01:44]} 32. Rcf1 {[%clk 0:03:12]}  Qc8 {[%clk 0:01:44]} 33. Kg2 {[%clk 0:03:12]}  Qe6 {[%clk 0:01:46]}
+34. Qa2 {[%clk 0:02:59]}  Kg7 {[%clk 0:01:25]} 35. Qa6 {[%clk 0:02:52]}  Nh7 {[%clk 0:01:04]} 36. Rxf7+ {[%clk 0:02:45]}  Rxf7 {[%clk 0:01:07]}
+37. Rxf7+ {[%clk 0:02:47]}  Kxf7 {[%clk 0:01:09]} 38. Bd2 {[%clk 0:02:45]}  g5 {[%clk 0:01:04]} 39. Qa1 {[%clk 0:01:42]}  g4 {[%clk 0:01:01]}
+40. h4 {[%clk 0:01:23]}  Qf6 {[%clk 0:01:00]} 41. Qf1 {[%clk 0:01:06]}  Ke6 {[%clk 0:00:50]} 42. Qxf6+ {[%clk 0:00:33]}  exf6 {[%clk 0:00:26]}
+43. Bh6 {[%clk 0:00:34]}  f5 {[%clk 0:00:29]} 44. exf5+ {[%clk 0:00:32]}  Kxf5 {[%clk 0:00:31]} 45. Bg7 {[%clk 0:00:32]}  Nf6 {[%clk 0:00:13]}
+46. Kf2 {[%clk 0:00:27]}  Nd7 {[%clk 0:00:10]} 47. Bh6 {[%clk 0:00:29]}  e4 {[%clk 0:00:09]} 48. Bg7 {[%clk 0:00:14]}  Ne5 {[%clk 0:00:11]}
+49. dxe4+ {[%clk 0:00:13]}  Kxe4 {[%clk 0:00:14]} 50. Bxe5 {[%clk 0:00:15]}  Kxe5 {[%clk 0:00:16]} 51. Ke2 {[%clk 0:00:17]}  Ke4 {[%clk 0:00:18]}
+52. Kd2 {[%clk 0:00:20]}  Kf3 {[%clk 0:00:04]} 53. c5 {[%clk 0:00:21]}  bxc5 {[%clk 0:00:06]} 54. bxc5 {[%clk 0:00:23]}  Kxg3 {[%clk 0:00:09]}
+55. c6 {[%clk 0:00:25]}  Kh2 {[%clk 0:00:10]} 56. c7 {[%clk 0:00:27]}  g3 {[%clk 0:00:13]} 57. c8=Q {[%clk 0:00:29]}  g2 {[%clk 0:00:15]}
+58. Qc7+ {[%clk 0:00:32]}  Kh3 {[%clk 0:00:16]} 59. Qd7+ {[%clk 0:00:32]}  Kh2 {[%clk 0:00:15]} 60. Qd6+ {[%clk 0:00:34]}  Kh3 {[%clk 0:00:16]}
+61. Qxd4 {[%clk 0:00:29]}  Kh2 {[%clk 0:00:13]} 62. Qe5+ {[%clk 0:00:30]}  Kh1 {[%clk 0:00:12]} 63. Qxh5 {[%clk 0:00:24]}  g1=Q {[%clk 0:00:07]}
+64. Qd1 {[%clk 0:00:26]} 1-0
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "1.1"]
+[White "Lazavik, Denis"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "13515110"]
+[BlackFideId "5202213"]
+[WhiteElo "2866"]
+[BlackElo "2875"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:00:18"]
+[BlackClock "0:00:31"]
+[Variant "Chess960"]
+[FEN "bqrnkrnb/pppppppp/8/8/8/8/PPPPPPPP/BQRNKRNB w FCfc - 0 1"]
+[Termination "insufficient"]
+[EndDate "2025.01.07"]
+[EndTime "16:53:38"]
+
+1. Nf3 {[%clk 0:14:51]}  b6 {[%clk 0:14:25]} 2. g3 {[%clk 0:14:24]}  g6 {[%clk 0:14:19]} 3. O-O {[%clk 0:14:20]}  c5 {[%clk 0:14:08]}
+4. c4 {[%clk 0:13:51]}  Ne6 {[%clk 0:13:51]} 5. Nc3 {[%clk 0:13:20]}  Nd4 {[%clk 0:13:34]} 6. Qd3 {[%clk 0:12:47]}  Nxf3+ {[%clk 0:12:29]}
+7. Bxf3 {[%clk 0:12:47]}  Bxf3 {[%clk 0:12:30]} 8. Qxf3 {[%clk 0:12:46]}  Qa8 {[%clk 0:12:25]} 9. Nd5 {[%clk 0:12:32]}  Qc6 {[%clk 0:11:23]}
+10. b3 {[%clk 0:11:28]}  Bxa1 {[%clk 0:11:26]} 11. Rxa1 {[%clk 0:11:30]}  f5 {[%clk 0:10:54]} 12. Qe3 {[%clk 0:10:49]}  e6 {[%clk 0:10:31]}
+13. Rad1 {[%clk 0:10:40]}  b5 {[%clk 0:07:29]} 14. d4 {[%clk 0:10:19]}  bxc4 {[%clk 0:07:29]} 15. bxc4 {[%clk 0:10:20]}  Kf7 {[%clk 0:07:19]}
+16. Nc3 {[%clk 0:10:20]}  cxd4 {[%clk 0:07:20]} 17. Rxd4 {[%clk 0:10:23]}  a6 {[%clk 0:07:16]} 18. Qf4 {[%clk 0:08:58]}  Qc7 {[%clk 0:06:39]}
+19. Qd2 {[%clk 0:07:24]}  Nf6 {[%clk 0:05:27]} 20. e4 {[%clk 0:06:21]}  fxe4 {[%clk 0:04:42]} 21. Nxe4 {[%clk 0:06:17]}  Nxe4 {[%clk 0:04:44]}
+22. Rxe4 {[%clk 0:05:38]}  Kg8 {[%clk 0:04:42]} 23. h4 {[%clk 0:05:35]}  Rf3 {[%clk 0:04:14]} 24. h5 {[%clk 0:04:10]}  gxh5 {[%clk 0:01:56]}
+25. Qg5+ {[%clk 0:04:08]}  Kh8 {[%clk 0:01:58]} 26. Qxh5 {[%clk 0:04:07]}  Rf5 {[%clk 0:01:53]} 27. Qe2 {[%clk 0:03:37]}  Rcf8 {[%clk 0:01:28]}
+28. Qe3 {[%clk 0:03:14]}  Qc5 {[%clk 0:01:27]} 29. Qxc5 {[%clk 0:02:45]}  Rxc5 {[%clk 0:01:29]} 30. Rd1 {[%clk 0:02:47]}  Rf7 {[%clk 0:01:31]}
+31. Red4 {[%clk 0:02:47]}  Rc7 {[%clk 0:01:33]} 32. Rb1 {[%clk 0:02:36]}  Rf5 {[%clk 0:01:11]} 33. Rb8+ {[%clk 0:02:23]}  Kg7 {[%clk 0:01:13]}
+34. Rd8 {[%clk 0:02:25]}  Rf7 {[%clk 0:01:12]} 35. Ra8 {[%clk 0:02:11]}  Rf5 {[%clk 0:00:49]} 36. Rxa6 {[%clk 0:02:05]}  Kf6 {[%clk 0:00:44]}
+37. Ra8 {[%clk 0:01:43]}  Rfc5 {[%clk 0:00:41]} 38. Rf4+ {[%clk 0:01:39]}  Ke5 {[%clk 0:00:31]} 39. Rd8 {[%clk 0:01:19]}  h5 {[%clk 0:00:28]}
+40. Kg2 {[%clk 0:00:49]}  Kd6 {[%clk 0:00:29]} 41. Rd4+ {[%clk 0:00:50]}  Ke7 {[%clk 0:00:31]} 42. Rh8 {[%clk 0:00:50]}  Rxc4 {[%clk 0:00:31]}
+43. Rh7+ {[%clk 0:00:53]}  Kf6 {[%clk 0:00:31]} 44. Rhxd7 {[%clk 0:00:42]}  Rxd4 {[%clk 0:00:20]} 45. Rxd4 {[%clk 0:00:44]}  Rc2 {[%clk 0:00:19]}
+46. Ra4 {[%clk 0:00:45]}  e5 {[%clk 0:00:21]} 47. Ra6+ {[%clk 0:00:32]}  Kf5 {[%clk 0:00:23]} 48. Ra5 {[%clk 0:00:34]}  Rb2 {[%clk 0:00:17]}
+49. a4 {[%clk 0:00:23]}  Ra2 {[%clk 0:00:19]} 50. Ra8 {[%clk 0:00:15]}  e4 {[%clk 0:00:22]} 51. Kf1 {[%clk 0:00:11]}  Kg4 {[%clk 0:00:19]}
+52. a5 {[%clk 0:00:05]}  e3 {[%clk 0:00:17]} 53. fxe3 {[%clk 0:00:07]}  Kf3 {[%clk 0:00:18]} 54. Ke1 {[%clk 0:00:07]}  Kxe3 {[%clk 0:00:20]}
+55. Kd1 {[%clk 0:00:09]}  Kf3 {[%clk 0:00:21]} 56. a6 {[%clk 0:00:05]}  Kxg3 {[%clk 0:00:23]} 57. a7 {[%clk 0:00:08]}  Kh4 {[%clk 0:00:18]}
+58. Ke1 {[%clk 0:00:09]}  Kh3 {[%clk 0:00:18]} 59. Rh8 {[%clk 0:00:09]}  Rxa7 {[%clk 0:00:19]} 60. Rxh5+ {[%clk 0:00:11]}  Kg4 {[%clk 0:00:22]}
+61. Rh8 {[%clk 0:00:11]}  Ra5 {[%clk 0:00:23]} 62. Rh7 {[%clk 0:00:13]}  Rg5 {[%clk 0:00:26]} 63. Rh8 {[%clk 0:00:15]}  Rh5 {[%clk 0:00:28]}
+64. Rxh5 {[%clk 0:00:18]}  Kxh5 {[%clk 0:00:31]} 1/2-1/2
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "1.1"]
+[White "Maghsoodloo, Parham"]
+[Black "Duda, Jan-Krzysztof"]
+[Result "0-1"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "12539929"]
+[BlackFideId "1170546"]
+[WhiteElo "2771"]
+[BlackElo "2936"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:00:09"]
+[BlackClock "0:00:12"]
+[Variant "Chess960"]
+[FEN "bqrnkrnb/pppppppp/8/8/8/8/PPPPPPPP/BQRNKRNB w FCfc - 0 1"]
+[Termination "checkmated"]
+[EndDate "2025.01.07"]
+[EndTime "17:01:13"]
+
+1. b4 {[%clk 0:15:01]}  Nf6 {[%clk 0:14:50]} 2. c4 {[%clk 0:14:51]}  O-O {[%clk 0:14:35]} 3. g3 {[%clk 0:13:54]}  g6 {[%clk 0:14:22]}
+4. e4 {[%clk 0:13:15]}  b5 {[%clk 0:13:54]} 5. c5 {[%clk 0:13:03]}  d6 {[%clk 0:13:23]} 6. d4 {[%clk 0:10:35]}  a5 {[%clk 0:13:23]}
+7. bxa5 {[%clk 0:09:02]}  Qa7 {[%clk 0:12:59]} 8. Ne2 {[%clk 0:09:01]}  Qxa5+ {[%clk 0:12:16]} 9. Bc3 {[%clk 0:09:02]}  Qa6 {[%clk 0:12:18]}
+10. Bd2 {[%clk 0:07:37]}  b4 {[%clk 0:10:57]} 11. Ne3 {[%clk 0:06:02]}  Ne6 {[%clk 0:08:40]} 12. c6 {[%clk 0:06:04]}  Rb8 {[%clk 0:06:43]}
+13. f4 {[%clk 0:02:57]}  Bxc6 {[%clk 0:04:00]} 14. Rxc6 {[%clk 0:02:59]}  Qxc6 {[%clk 0:04:03]} 15. d5 {[%clk 0:03:01]}  Qd7 {[%clk 0:04:05]}
+16. dxe6 {[%clk 0:03:03]}  Qxe6 {[%clk 0:04:08]} 17. Nd4 {[%clk 0:01:49]}  Qd7 {[%clk 0:04:01]} 18. e5 {[%clk 0:00:58]}  dxe5 {[%clk 0:04:04]}
+19. Nc6 {[%clk 0:01:00]}  exf4 {[%clk 0:03:22]} 20. Nxb8 {[%clk 0:01:02]}  Rxb8 {[%clk 0:03:25]} 21. Rxf4 {[%clk 0:01:04]}  c5 {[%clk 0:03:26]}
+22. Bf3 {[%clk 0:00:49]}  Rd8 {[%clk 0:02:53]} 23. Qc2 {[%clk 0:00:50]}  Ne8 {[%clk 0:01:41]} 24. Bd5 {[%clk 0:00:27]}  e6 {[%clk 0:01:13]}
+25. Bb3 {[%clk 0:00:28]}  Nd6 {[%clk 0:01:06]} 26. Bc1 {[%clk 0:00:05]}  Bc3+ {[%clk 0:00:18]} 27. Kf1 {[%clk 0:00:06]}  Nf5 {[%clk 0:00:07]}
+28. Nxf5 {[%clk 0:00:06]}  exf5 {[%clk 0:00:10]} 29. Kg2 {[%clk 0:00:08]}  Qc6+ {[%clk 0:00:10]} 30. Kh3 {[%clk 0:00:11]}  h5 {[%clk 0:00:05]}
+31. Qg2 {[%clk 0:00:08]}  Qc7 {[%clk 0:00:04]} 32. Qe2 {[%clk 0:00:09]}  Kg7 {[%clk 0:00:06]} 33. Rc4 {[%clk 0:00:05]}  Qd6 {[%clk 0:00:05]}
+34. Bf4 {[%clk 0:00:07]}  Qc6 {[%clk 0:00:05]} 35. Be5+ {[%clk 0:00:06]}  Kg8 {[%clk 0:00:04]} 36. Bxc3 {[%clk 0:00:08]}  bxc3 {[%clk 0:00:07]}
+37. Rxc3 {[%clk 0:00:11]}  Rd4 {[%clk 0:00:08]} 38. Qe7 {[%clk 0:00:07]}  c4 {[%clk 0:00:10]} 39. Qe5 {[%clk 0:00:04]}  Re4 {[%clk 0:00:09]}
+40. Qb8+ {[%clk 0:00:05]}  Kg7 {[%clk 0:00:11]} 41. Bd1 {[%clk 0:00:04]}  Qd7 {[%clk 0:00:09]} 42. Bf3 {[%clk 0:00:05]}  f4+ {[%clk 0:00:11]}
+43. g4 {[%clk 0:00:08]}  hxg4+ {[%clk 0:00:09]} 44. Bxg4 {[%clk 0:00:11]}  Qd2 {[%clk 0:00:11]} 45. Rf3 {[%clk 0:00:09]}  c3 {[%clk 0:00:11]}
+46. Qc7 {[%clk 0:00:03]}  c2 {[%clk 0:00:11]} 47. Rf1 {[%clk 0:00:04]}  Re3+ {[%clk 0:00:09]} 48. Kh4 {[%clk 0:00:06]}  Qxh2+ {[%clk 0:00:10]}
+49. Kg5 {[%clk 0:00:09]}  Qh6# {[%clk 0:00:12]} 0-1
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "1.1"]
+[White "Sindarov, Javokhir"]
+[Black "Wei, Yi"]
+[Result "1/2-1/2"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "14205483"]
+[BlackFideId "8603405"]
+[WhiteElo "1845"]
+[BlackElo "2482"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:00:08"]
+[BlackClock "0:00:12"]
+[Variant "Chess960"]
+[FEN "bqrnkrnb/pppppppp/8/8/8/8/PPPPPPPP/BQRNKRNB w FCfc - 0 1"]
+[Termination "repetition"]
+[EndDate "2025.01.07"]
+[EndTime "16:53:55"]
+
+1. c4 {[%clk 0:12:21]}  g6 {[%clk 0:14:08]} 2. g3 {[%clk 0:12:04]}  b6 {[%clk 0:13:37]} 3. Bxa8 {[%clk 0:11:38]}  Qxa8 {[%clk 0:13:36]}
+4. Nf3 {[%clk 0:11:14]}  c5 {[%clk 0:13:04]} 5. O-O {[%clk 0:11:13]}  Nf6 {[%clk 0:12:40]} 6. b3 {[%clk 0:11:08]}  O-O {[%clk 0:12:40]}
+7. Ne3 {[%clk 0:11:03]}  Ne6 {[%clk 0:10:57]} 8. d4 {[%clk 0:10:52]}  cxd4 {[%clk 0:09:59]} 9. Nxd4 {[%clk 0:10:53]}  Ng5 {[%clk 0:08:32]}
+10. h4 {[%clk 0:09:53]}  Nge4 {[%clk 0:08:26]} 11. Rfd1 {[%clk 0:08:29]}  h5 {[%clk 0:07:23]} 12. Nf3 {[%clk 0:08:00]}  d6 {[%clk 0:06:59]}
+13. Nd5 {[%clk 0:07:16]}  Rfe8 {[%clk 0:06:36]} 14. Bxf6 {[%clk 0:05:04]}  Nxf6 {[%clk 0:06:36]} 15. Nxf6+ {[%clk 0:05:06]}  Bxf6 {[%clk 0:06:37]}
+16. Rd5 {[%clk 0:05:08]}  a6 {[%clk 0:05:29]} 17. e4 {[%clk 0:04:46]}  b5 {[%clk 0:05:08]} 18. c5 {[%clk 0:04:20]}  dxc5 {[%clk 0:04:56]}
+19. Rdxc5 {[%clk 0:04:20]}  e6 {[%clk 0:03:38]} 20. Kg2 {[%clk 0:04:15]}  Kg7 {[%clk 0:03:11]} 21. Qd3 {[%clk 0:04:09]}  Rxc5 {[%clk 0:02:58]}
+22. Rxc5 {[%clk 0:04:12]}  Rc8 {[%clk 0:03:00]} 23. Rxc8 {[%clk 0:04:10]}  Qxc8 {[%clk 0:03:02]} 24. Qd6 {[%clk 0:04:10]}  Qb7 {[%clk 0:03:00]}
+25. Qd3 {[%clk 0:03:52]}  Qc7 {[%clk 0:02:50]} 26. Qe3 {[%clk 0:03:43]}  Qc2 {[%clk 0:02:37]} 27. e5 {[%clk 0:03:03]}  Be7 {[%clk 0:02:27]}
+28. Qd2 {[%clk 0:03:06]}  Qe4 {[%clk 0:02:07]} 29. Qd4 {[%clk 0:03:01]}  Qc6 {[%clk 0:01:44]} 30. Qf4 {[%clk 0:03:02]}  a5 {[%clk 0:01:34]}
+31. Kg1 {[%clk 0:02:57]}  Qc2 {[%clk 0:01:19]} 32. Qd2 {[%clk 0:02:33]}  Qb1+ {[%clk 0:01:04]} 33. Kg2 {[%clk 0:02:23]}  Bb4 {[%clk 0:00:33]}
+34. Qf4 {[%clk 0:02:16]}  Be7 {[%clk 0:00:21]} 35. Qd2 {[%clk 0:02:13]}  Qe4 {[%clk 0:00:14]} 36. Qxa5 {[%clk 0:02:04]}  b4 {[%clk 0:00:15]}
+37. Qc7 {[%clk 0:01:56]}  Kf8 {[%clk 0:00:17]} 38. Qc4 {[%clk 0:01:49]}  Qa8 {[%clk 0:00:18]} 39. Qe2 {[%clk 0:01:45]}  Kg7 {[%clk 0:00:15]}
+40. Kg1 {[%clk 0:01:12]}  Qd5 {[%clk 0:00:17]} 41. Qe3 {[%clk 0:00:58]}  Qd1+ {[%clk 0:00:13]} 42. Kg2 {[%clk 0:00:52]}  Qd5 {[%clk 0:00:14]}
+43. Qf4 {[%clk 0:00:27]}  Qa8 {[%clk 0:00:15]} 44. Qd2 {[%clk 0:00:28]}  Qe4 {[%clk 0:00:13]} 45. Qe3 {[%clk 0:00:20]}  Qc2 {[%clk 0:00:14]}
+46. Qd2 {[%clk 0:00:17]}  Qe4 {[%clk 0:00:16]} 47. Qf4 {[%clk 0:00:17]}  Qa8 {[%clk 0:00:14]} 48. Qd2 {[%clk 0:00:11]}  Qc6 {[%clk 0:00:11]}
+49. Qd3 {[%clk 0:00:08]}  Qa8 {[%clk 0:00:12]} 50. Qd7 {[%clk 0:00:09]}  Kf8 {[%clk 0:00:13]} 51. Qd2 {[%clk 0:00:09]}  Qe4 {[%clk 0:00:09]}
+52. Qf4 {[%clk 0:00:08]}  Qa8 {[%clk 0:00:09]} 53. Qd2 {[%clk 0:00:06]}  Qe4 {[%clk 0:00:10]} 54. Qf4 {[%clk 0:00:05]}  Qa8 {[%clk 0:00:12]}
+55. Qd2 {[%clk 0:00:08]} 1/2-1/2
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "1.1"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Niemann, Hans Moke"]
+[Result "1/2-1/2"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "623539"]
+[BlackFideId "2093596"]
+[WhiteElo "2836"]
+[BlackElo "2917"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:06:12"]
+[BlackClock "0:01:42"]
+[Variant "Chess960"]
+[FEN "bqrnkrnb/pppppppp/8/8/8/8/PPPPPPPP/BQRNKRNB w FCfc - 0 1"]
+[Termination "insufficient"]
+[EndDate "2025.01.07"]
+[EndTime "16:53:10"]
+
+1. e4 {[%clk 0:15:03]}  c5 {[%clk 0:14:40]} 2. g3 {[%clk 0:14:57]}  f5 {[%clk 0:14:17]} 3. exf5 {[%clk 0:14:51]}  b6 {[%clk 0:13:30]}
+4. Bxa8 {[%clk 0:14:51]}  Qxa8 {[%clk 0:13:33]} 5. Ne3 {[%clk 0:14:47]}  Nh6 {[%clk 0:13:28]} 6. c4 {[%clk 0:14:37]}  Nc6 {[%clk 0:12:51]}
+7. b3 {[%clk 0:14:18]}  Nd4 {[%clk 0:11:53]} 8. O-O-O {[%clk 0:14:11]}  Nhxf5 {[%clk 0:10:31]} 9. Nxf5 {[%clk 0:14:10]}  Nxf5 {[%clk 0:10:34]}
+10. g4 {[%clk 0:12:53]}  Nd4 {[%clk 0:08:52]} 11. Qxh7 {[%clk 0:12:53]}  O-O-O {[%clk 0:08:52]} 12. Bxd4 {[%clk 0:12:36]}  cxd4 {[%clk 0:08:54]}
+13. Rde1 {[%clk 0:12:38]}  Qc6 {[%clk 0:07:54]} 14. Qe4 {[%clk 0:12:09]}  d5 {[%clk 0:07:51]} 15. Qe6+ {[%clk 0:12:07]}  Qxe6 {[%clk 0:07:53]}
+16. Rxe6 {[%clk 0:12:10]}  dxc4 {[%clk 0:07:56]} 17. bxc4 {[%clk 0:12:12]}  d3 {[%clk 0:07:18]} 18. Re4 {[%clk 0:11:26]}  g5 {[%clk 0:07:16]}
+19. f4 {[%clk 0:11:26]}  Rd4 {[%clk 0:05:16]} 20. Rxd4 {[%clk 0:11:21]}  Bxd4 {[%clk 0:05:19]} 21. Nh3 {[%clk 0:11:07]}  gxf4 {[%clk 0:04:53]}
+22. Rxf4 {[%clk 0:11:05]}  Rd8 {[%clk 0:04:54]} 23. Rf3 {[%clk 0:10:53]}  Be5 {[%clk 0:04:44]} 24. Nf2 {[%clk 0:10:33]}  Bxh2 {[%clk 0:04:44]}
+25. Rxd3 {[%clk 0:09:56]}  Rf8 {[%clk 0:04:46]} 26. Nh3 {[%clk 0:09:58]}  Bd6 {[%clk 0:04:33]} 27. Kc2 {[%clk 0:09:53]}  Kd7 {[%clk 0:04:32]}
+28. Re3 {[%clk 0:09:42]}  Rf1 {[%clk 0:04:23]} 29. Ng5 {[%clk 0:09:15]}  Rf4 {[%clk 0:03:16]} 30. Re4 {[%clk 0:09:16]}  Rf2 {[%clk 0:03:15]}
+31. Kd3 {[%clk 0:08:12]}  Bb4 {[%clk 0:02:40]} 32. Rd4+ {[%clk 0:08:01]}  Ke8 {[%clk 0:02:37]} 33. Ke3 {[%clk 0:07:43]}  Rf1 {[%clk 0:02:35]}
+34. Ne4 {[%clk 0:07:03]}  Ra1 {[%clk 0:02:27]} 35. g5 {[%clk 0:07:02]}  Kf7 {[%clk 0:02:28]} 36. Rd7 {[%clk 0:06:52]}  Rxa2 {[%clk 0:02:27]}
+37. Rb7 {[%clk 0:06:50]}  Ra3+ {[%clk 0:02:22]} 38. Kf4 {[%clk 0:06:45]}  Rd3 {[%clk 0:02:17]} 39. Kf5 {[%clk 0:06:18]}  Rf3+ {[%clk 0:02:03]}
+40. Ke5 {[%clk 0:06:13]}  Rd3 {[%clk 0:02:00]} 41. Rxa7 {[%clk 0:06:10]}  Bxd2 {[%clk 0:01:49]} 42. g6+ {[%clk 0:05:59]}  Kxg6 {[%clk 0:01:48]}
+43. Nxd2 {[%clk 0:06:00]}  Rxd2 {[%clk 0:01:49]} 44. Rxe7 {[%clk 0:06:01]}  Re2+ {[%clk 0:01:38]} 45. Kd6 {[%clk 0:06:03]}  Rxe7 {[%clk 0:01:41]}
+46. Kxe7 {[%clk 0:06:06]}  Kf5 {[%clk 0:01:43]} 47. Kd6 {[%clk 0:06:08]}  Ke4 {[%clk 0:01:46]} 48. c5 {[%clk 0:06:09]}  bxc5 {[%clk 0:01:42]}
+49. Kxc5 {[%clk 0:06:12]} 1/2-1/2
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "1.1"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Praggnanandhaa R"]
+[Result "0-1"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "5029465"]
+[BlackFideId "25059530"]
+[WhiteElo "2865"]
+[BlackElo "2090"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:00:13"]
+[BlackClock "0:00:14"]
+[Variant "Chess960"]
+[FEN "bqrnkrnb/pppppppp/8/8/8/8/PPPPPPPP/BQRNKRNB w FCfc - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.01.07"]
+[EndTime "16:53:41"]
+
+1. c4 {[%clk 0:14:49]}  g6 {[%clk 0:14:56]} 2. b3 {[%clk 0:14:30]}  Bxa1 {[%clk 0:14:19]} 3. Qxa1 {[%clk 0:14:33]}  b5 {[%clk 0:14:03]}
+4. c5 {[%clk 0:13:54]}  Nf6 {[%clk 0:13:28]} 5. d3 {[%clk 0:13:17]}  d6 {[%clk 0:12:19]} 6. cxd6 {[%clk 0:10:47]}  cxd6 {[%clk 0:12:17]}
+7. e3 {[%clk 0:10:13]}  Nc6 {[%clk 0:09:07]} 8. Ne2 {[%clk 0:08:09]}  Nb4 {[%clk 0:08:21]} 9. Qb1 {[%clk 0:08:02]}  Rxc1 {[%clk 0:07:09]}
+10. Nxc1 {[%clk 0:08:05]}  Qc7 {[%clk 0:07:11]} 11. O-O {[%clk 0:07:57]}  O-O {[%clk 0:07:10]} 12. Ne2 {[%clk 0:07:44]}  Rc8 {[%clk 0:06:06]}
+13. Ndc3 {[%clk 0:07:37]}  Qa5 {[%clk 0:05:45]} 14. Rc1 {[%clk 0:07:30]}  a6 {[%clk 0:04:44]} 15. h3 {[%clk 0:06:57]}  Nbd5 {[%clk 0:03:23]}
+16. Nxd5 {[%clk 0:05:49]}  Rxc1+ {[%clk 0:03:23]} 17. Qxc1 {[%clk 0:05:52]}  Bxd5 {[%clk 0:03:25]} 18. Nc3 {[%clk 0:05:50]}  b4 {[%clk 0:03:25]}
+19. Na4 {[%clk 0:05:50]}  Qb5 {[%clk 0:03:15]} 20. e4 {[%clk 0:04:33]}  Be6 {[%clk 0:03:01]} 21. Qe3 {[%clk 0:04:11]}  Qc6 {[%clk 0:02:12]}
+22. Qd2 {[%clk 0:03:55]}  h5 {[%clk 0:01:41]} 23. h4 {[%clk 0:03:00]}  Bd7 {[%clk 0:01:12]} 24. g3 {[%clk 0:02:51]}  Qc7 {[%clk 0:01:13]}
+25. Bf3 {[%clk 0:01:39]}  Bxa4 {[%clk 0:01:13]} 26. bxa4 {[%clk 0:01:42]}  Qc3 {[%clk 0:01:04]} 27. Qd1 {[%clk 0:01:04]}  e5 {[%clk 0:00:46]}
+28. Be2 {[%clk 0:00:12]}  a5 {[%clk 0:00:41]} 29. Qb3 {[%clk 0:00:06]}  Kg7 {[%clk 0:00:07]} 30. Kg2 {[%clk 0:00:06]}  Qd4 {[%clk 0:00:04]}
+31. Qc2 {[%clk 0:00:08]}  Qc3 {[%clk 0:00:04]} 32. Bd1 {[%clk 0:00:09]}  Nd7 {[%clk 0:00:04]} 33. Kf1 {[%clk 0:00:11]}  Nc5 {[%clk 0:00:06]}
+34. Ke2 {[%clk 0:00:06]}  Ne6 {[%clk 0:00:09]} 35. Qxc3 {[%clk 0:00:05]}  bxc3 {[%clk 0:00:11]} 36. d4 {[%clk 0:00:05]}  exd4 {[%clk 0:00:10]}
+37. f4 {[%clk 0:00:05]}  Nc5 {[%clk 0:00:09]} 38. Bc2 {[%clk 0:00:08]}  Kf6 {[%clk 0:00:10]} 39. Bb1 {[%clk 0:00:09]}  Ke6 {[%clk 0:00:09]}
+40. Bc2 {[%clk 0:00:11]}  Kd7 {[%clk 0:00:07]} 41. Bb1 {[%clk 0:00:12]}  Kc7 {[%clk 0:00:08]} 42. Bc2 {[%clk 0:00:14]}  Kc6 {[%clk 0:00:10]}
+43. Bb1 {[%clk 0:00:15]}  Nxa4 {[%clk 0:00:12]} 44. Kd3 {[%clk 0:00:13]}  Kc5 {[%clk 0:00:14]} 0-1
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "1.1"]
+[White "Yu, Yangyi"]
+[Black "Le, Quang Liem"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "8603820"]
+[BlackFideId "12401137"]
+[WhiteElo "1500"]
+[BlackElo "2831"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:00:46"]
+[BlackClock "0:00:30"]
+[Variant "Chess960"]
+[FEN "bqrnkrnb/pppppppp/8/8/8/8/PPPPPPPP/BQRNKRNB w FCfc - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.01.07"]
+[EndTime "16:51:39"]
+
+1. c4 {[%clk 0:14:37]}  g6 {[%clk 0:14:45]} 2. b4 {[%clk 0:14:34]}  Nf6 {[%clk 0:14:40]} 3. Nf3 {[%clk 0:14:31]}  b6 {[%clk 0:14:35]}
+4. O-O {[%clk 0:14:28]}  c5 {[%clk 0:14:02]} 5. g3 {[%clk 0:14:18]}  O-O {[%clk 0:13:56]} 6. Ne3 {[%clk 0:14:05]}  Ne6 {[%clk 0:13:31]}
+7. d3 {[%clk 0:13:33]}  Rfd8 {[%clk 0:13:09]} 8. Rc2 {[%clk 0:13:06]}  Bg7 {[%clk 0:12:48]} 9. Bc3 {[%clk 0:12:47]}  Bc6 {[%clk 0:12:27]}
+10. b5 {[%clk 0:11:48]}  Bb7 {[%clk 0:12:28]} 11. a4 {[%clk 0:11:50]}  d5 {[%clk 0:11:38]} 12. Be5 {[%clk 0:11:27]}  Qa8 {[%clk 0:11:17]}
+13. Bxf6 {[%clk 0:11:26]}  Bxf6 {[%clk 0:11:20]} 14. Nxd5 {[%clk 0:11:25]}  Bxd5 {[%clk 0:11:21]} 15. cxd5 {[%clk 0:11:28]}  Qxd5 {[%clk 0:11:22]}
+16. Rc4 {[%clk 0:11:28]}  Qd6 {[%clk 0:10:15]} 17. Rfc1 {[%clk 0:11:11]}  Rc7 {[%clk 0:09:38]} 18. Bg2 {[%clk 0:10:33]}  h5 {[%clk 0:09:26]}
+19. Qc2 {[%clk 0:08:57]}  Bg7 {[%clk 0:08:35]} 20. Qd1 {[%clk 0:08:55]}  Bh6 {[%clk 0:08:31]} 21. R1c2 {[%clk 0:08:55]}  Rcd7 {[%clk 0:07:51]}
+22. Bh3 {[%clk 0:08:51]}  Rb7 {[%clk 0:07:41]} 23. Bg2 {[%clk 0:07:01]}  Rbd7 {[%clk 0:07:13]} 24. Ra2 {[%clk 0:06:59]}  Qc7 {[%clk 0:05:20]}
+25. Bh3 {[%clk 0:05:29]}  Rd6 {[%clk 0:05:21]} 26. Ne5 {[%clk 0:05:26]}  Rd4 {[%clk 0:04:24]} 27. Rxd4 {[%clk 0:04:32]}  Nxd4 {[%clk 0:04:27]}
+28. Nc4 {[%clk 0:04:33]}  Qb7 {[%clk 0:03:48]} 29. Bg2 {[%clk 0:04:05]}  Qc7 {[%clk 0:03:39]} 30. e3 {[%clk 0:03:37]}  Nf5 {[%clk 0:03:40]}
+31. Qb3 {[%clk 0:03:39]}  Bg7 {[%clk 0:03:31]} 32. a5 {[%clk 0:03:32]}  Nd6 {[%clk 0:03:31]} 33. axb6 {[%clk 0:03:34]}  axb6 {[%clk 0:03:33]}
+34. Ra6 {[%clk 0:03:30]}  Nxc4 {[%clk 0:03:34]} 35. Qxc4 {[%clk 0:03:33]}  Qd6 {[%clk 0:03:16]} 36. Be4 {[%clk 0:03:09]}  e6 {[%clk 0:03:13]}
+37. h4 {[%clk 0:02:59]}  Bf6 {[%clk 0:02:59]} 38. Kg2 {[%clk 0:02:58]}  Kg7 {[%clk 0:03:01]} 39. Ra7 {[%clk 0:02:37]}  Rd7 {[%clk 0:03:03]}
+40. Ra8 {[%clk 0:02:38]}  Rd8 {[%clk 0:03:05]} 41. Ra6 {[%clk 0:02:40]}  Be5 {[%clk 0:02:53]} 42. Qa2 {[%clk 0:02:25]}  Bf6 {[%clk 0:02:32]}
+43. Ra3 {[%clk 0:02:17]}  Be7 {[%clk 0:02:23]} 44. Qc4 {[%clk 0:02:09]}  Bf6 {[%clk 0:02:23]} 45. Bc6 {[%clk 0:02:10]}  Kf8 {[%clk 0:02:15]}
+46. Ra7 {[%clk 0:01:34]}  Be5 {[%clk 0:01:45]} 47. Qe4 {[%clk 0:01:28]}  Kg7 {[%clk 0:01:40]} 48. Rb7 {[%clk 0:01:28]}  Bf6 {[%clk 0:01:38]}
+49. Qc4 {[%clk 0:00:51]}  Be7 {[%clk 0:01:07]} 50. Qa4 {[%clk 0:00:50]}  Rf8 {[%clk 0:00:30]} 51. Rd7 {[%clk 0:00:46]} 1-0
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "1.2"]
+[White "Dominguez Perez, Leinier"]
+[Black "Fedoseev, Vladimir"]
+[Result "0-1"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "3503240"]
+[BlackFideId "24130737"]
+[WhiteElo "2718"]
+[BlackElo "2892"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:12:33"]
+[BlackClock "0:10:47"]
+[Variant "Chess960"]
+[FEN "nbbrkqnr/pppppppp/8/8/8/8/PPPPPPPP/NBBRKQNR w HDhd - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.01.07"]
+[EndTime "17:21:01"]
+
+1. c4 {[%clk 0:15:02]}  c6 {[%clk 0:14:48]} 2. d4 {[%clk 0:14:53]}  e5 {[%clk 0:14:01]} 3. Nf3 {[%clk 0:13:37]}  Qb4+ {[%clk 0:12:49]}
+4. Nd2 {[%clk 0:13:38]}  Nf6 {[%clk 0:12:28]} 5. Nc2 {[%clk 0:13:35]}  Qe7 {[%clk 0:12:30]} 6. e4 {[%clk 0:13:08]}  d5 {[%clk 0:12:18]}
+7. cxd5 {[%clk 0:13:09]}  exd4 {[%clk 0:11:58]} 8. Nxd4 {[%clk 0:12:43]}  Nxd5 {[%clk 0:10:46]} 9. Nf5 {[%clk 0:12:33]}  Bxf5 {[%clk 0:10:47]} 0-1
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "1.2"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Maghsoodloo, Parham"]
+[Result "0-1"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "1170546"]
+[BlackFideId "12539929"]
+[WhiteElo "2936"]
+[BlackElo "2771"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:00:02"]
+[BlackClock "0:01:01"]
+[Variant "Chess960"]
+[FEN "nbbrkqnr/pppppppp/8/8/8/8/PPPPPPPP/NBBRKQNR w HDhd - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.01.07"]
+[EndTime "17:46:28"]
+
+1. e4 {[%clk 0:14:51]}  c6 {[%clk 0:15:02]} 2. d4 {[%clk 0:14:28]}  d5 {[%clk 0:14:57]} 3. e5 {[%clk 0:14:15]}  Bf5 {[%clk 0:14:39]}
+4. Nb3 {[%clk 0:13:56]}  e6 {[%clk 0:14:25]} 5. Bd2 {[%clk 0:13:26]}  Nb6 {[%clk 0:13:12]} 6. Na5 {[%clk 0:13:02]}  O-O-O {[%clk 0:12:49]}
+7. O-O-O {[%clk 0:12:52]}  f6 {[%clk 0:12:34]} 8. f4 {[%clk 0:12:43]}  g5 {[%clk 0:12:15]} 9. Nf3 {[%clk 0:11:03]}  gxf4 {[%clk 0:11:09]}
+10. Bxf4 {[%clk 0:11:04]}  Ne7 {[%clk 0:10:31]} 11. Bg3 {[%clk 0:09:21]}  Qh6+ {[%clk 0:08:34]} 12. Rd2 {[%clk 0:09:21]}  Rhf8 {[%clk 0:08:34]}
+13. Qe2 {[%clk 0:07:40]}  Be4 {[%clk 0:06:20]} 14. c3 {[%clk 0:05:42]}  Nf5 {[%clk 0:06:04]} 15. Re1 {[%clk 0:05:37]}  Nxg3 {[%clk 0:04:40]}
+16. hxg3 {[%clk 0:05:40]}  f5 {[%clk 0:04:27]} 17. Qe3 {[%clk 0:04:43]}  Qg6 {[%clk 0:04:19]} 18. Qg5 {[%clk 0:03:35]}  Rg8 {[%clk 0:04:16]}
+19. Qxg6 {[%clk 0:03:36]}  Rxg6 {[%clk 0:04:19]} 20. Rh1 {[%clk 0:03:38]}  Rd7 {[%clk 0:04:21]} 21. Bc2 {[%clk 0:01:41]}  Rdg7 {[%clk 0:03:47]}
+22. Bd1 {[%clk 0:01:12]}  Bc7 {[%clk 0:03:37]} 23. Ne1 {[%clk 0:01:10]}  Rxg3 {[%clk 0:03:31]} 24. Bf3 {[%clk 0:01:11]}  Bd8 {[%clk 0:03:25]}
+25. Kd1 {[%clk 0:01:09]}  c5 {[%clk 0:02:00]} 26. Re2 {[%clk 0:00:22]}  Na4 {[%clk 0:01:22]} 27. Nb3 {[%clk 0:00:20]}  c4 {[%clk 0:01:24]}
+28. Nc1 {[%clk 0:00:07]}  b5 {[%clk 0:01:17]} 29. Rh6 {[%clk 0:00:05]}  Kd7 {[%clk 0:01:19]} 30. Rh2 {[%clk 0:00:05]}  a5 {[%clk 0:01:20]}
+31. Rf2 {[%clk 0:00:04]}  Bg5 {[%clk 0:01:03]} 32. a3 {[%clk 0:00:06]}  b4 {[%clk 0:00:54]} 33. axb4 {[%clk 0:00:07]}  axb4 {[%clk 0:00:56]}
+34. cxb4 {[%clk 0:00:08]}  Be3 {[%clk 0:00:59]} 35. Rf1 {[%clk 0:00:04]}  Nxb2+ {[%clk 0:00:59]} 36. Ke2 {[%clk 0:00:02]}  Bxc1 {[%clk 0:01:01]} 0-1
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "1.2"]
+[White "Le, Quang Liem"]
+[Black "Yu, Yangyi"]
+[Result "1/2-1/2"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "12401137"]
+[BlackFideId "8603820"]
+[WhiteElo "2831"]
+[BlackElo "1500"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:00:06"]
+[BlackClock "0:00:16"]
+[Variant "Chess960"]
+[FEN "nbbrkqnr/pppppppp/8/8/8/8/PPPPPPPP/NBBRKQNR w HDhd - 0 1"]
+[Termination "agreed"]
+[EndDate "2025.01.07"]
+[EndTime "17:54:57"]
+
+1. e4 {[%clk 0:15:01]}  e5 {[%clk 0:14:50]} 2. Nf3 {[%clk 0:14:58]}  c5 {[%clk 0:14:06]} 3. c3 {[%clk 0:14:44]}  Nf6 {[%clk 0:13:42]}
+4. d4 {[%clk 0:14:38]}  cxd4 {[%clk 0:13:33]} 5. cxd4 {[%clk 0:14:38]}  Qb4+ {[%clk 0:13:04]} 6. Bd2 {[%clk 0:13:39]}  Qxb2 {[%clk 0:13:04]}
+7. Qd3 {[%clk 0:13:29]}  d5 {[%clk 0:12:38]} 8. dxe5 {[%clk 0:12:07]}  Nxe4 {[%clk 0:12:10]} 9. Nb3 {[%clk 0:12:06]}  O-O {[%clk 0:11:43]}
+10. O-O {[%clk 0:12:02]}  Bxe5 {[%clk 0:10:54]} 11. Nxe5 {[%clk 0:07:29]}  Qxe5 {[%clk 0:10:57]} 12. f3 {[%clk 0:07:31]}  Nf6 {[%clk 0:10:58]}
+13. Bc3 {[%clk 0:07:33]}  d4 {[%clk 0:10:54]} 14. Bxd4 {[%clk 0:07:22]}  Qh5 {[%clk 0:10:36]} 15. Rfe1 {[%clk 0:06:51]}  Nc7 {[%clk 0:09:14]}
+16. Qc2 {[%clk 0:06:30]}  Ne6 {[%clk 0:08:55]} 17. Bxa7 {[%clk 0:06:23]}  Rxd1 {[%clk 0:07:47]} 18. Rxd1 {[%clk 0:06:11]}  Nf4 {[%clk 0:07:40]}
+19. Be3 {[%clk 0:01:35]}  N6d5 {[%clk 0:06:03]} 20. Bc1 {[%clk 0:01:29]}  Be6 {[%clk 0:05:56]} 21. Nd4 {[%clk 0:00:45]}  Bd7 {[%clk 0:03:37]}
+22. Re1 {[%clk 0:00:41]}  Qg6 {[%clk 0:02:27]} 23. Qb2 {[%clk 0:00:25]}  Qf6 {[%clk 0:01:30]} 24. Nf5 {[%clk 0:00:23]}  Qxb2 {[%clk 0:00:41]}
+25. Bxb2 {[%clk 0:00:26]}  Bxf5 {[%clk 0:00:31]} 26. Bxf5 {[%clk 0:00:29]}  g6 {[%clk 0:00:17]} 27. Bb1 {[%clk 0:00:29]}  Rc8 {[%clk 0:00:19]}
+28. Kf1 {[%clk 0:00:20]}  b5 {[%clk 0:00:12]} 29. Rc1 {[%clk 0:00:18]}  Re8 {[%clk 0:00:07]} 30. g3 {[%clk 0:00:15]}  Ne3+ {[%clk 0:00:07]}
+31. Kf2 {[%clk 0:00:11]}  Nh3+ {[%clk 0:00:09]} 32. Ke2 {[%clk 0:00:06]}  Nc4+ {[%clk 0:00:12]} 33. Kf1 {[%clk 0:00:04]}  Nxb2 {[%clk 0:00:14]}
+34. f4 {[%clk 0:00:07]}  g5 {[%clk 0:00:09]} 35. Bf5 {[%clk 0:00:08]}  Nxf4 {[%clk 0:00:11]} 36. gxf4 {[%clk 0:00:11]}  gxf4 {[%clk 0:00:14]}
+37. Bd7 {[%clk 0:00:12]}  Re5 {[%clk 0:00:13]} 38. Rb1 {[%clk 0:00:13]}  Rd5 {[%clk 0:00:10]} 39. Rxb2 {[%clk 0:00:05]}  Rxd7 {[%clk 0:00:12]}
+40. Rxb5 {[%clk 0:00:07]}  Rd2 {[%clk 0:00:13]} 41. a4 {[%clk 0:00:07]}  Rxh2 {[%clk 0:00:15]} 42. Rf5 {[%clk 0:00:08]}  Ra2 {[%clk 0:00:14]}
+43. Rxf4 {[%clk 0:00:06]}  Kg7 {[%clk 0:00:16]} 1/2-1/2
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "1.2"]
+[White "Nepomniachtchi, Ian"]
+[Black "Bortnyk, Olexandr"]
+[Result "1-0"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "4168119"]
+[BlackFideId "14120828"]
+[WhiteElo "2935"]
+[BlackElo "2851"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:01:15"]
+[BlackClock "0:00:04"]
+[Variant "Chess960"]
+[FEN "nbbrkqnr/pppppppp/8/8/8/8/PPPPPPPP/NBBRKQNR w HDhd - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.01.07"]
+[EndTime "17:46:22"]
+
+1. d4 {[%clk 0:14:38]}  d5 {[%clk 0:14:33]} 2. Bf4 {[%clk 0:14:34]}  e5 {[%clk 0:14:08]} 3. Bxe5 {[%clk 0:13:03]}  Qb4+ {[%clk 0:14:04]}
+4. c3 {[%clk 0:13:05]}  Qxb2 {[%clk 0:14:03]} 5. Nb3 {[%clk 0:12:43]}  Qxc3+ {[%clk 0:13:59]} 6. Nd2 {[%clk 0:12:29]}  f6 {[%clk 0:13:06]}
+7. Bg3 {[%clk 0:12:31]}  Nb6 {[%clk 0:11:56]} 8. e3 {[%clk 0:12:28]}  Nc4 {[%clk 0:11:54]} 9. Qe2 {[%clk 0:10:42]}  Ne7 {[%clk 0:10:48]}
+10. Kf1 {[%clk 0:07:32]}  Nxd2+ {[%clk 0:10:09]} 11. Rxd2 {[%clk 0:07:25]}  Bf5 {[%clk 0:09:30]} 12. Nf3 {[%clk 0:06:40]}  c6 {[%clk 0:08:45]}
+13. Rd1 {[%clk 0:06:24]}  O-O {[%clk 0:08:21]} 14. Nd2 {[%clk 0:05:35]}  b6 {[%clk 0:07:40]} 15. Bxb8 {[%clk 0:05:05]}  Rxb8 {[%clk 0:07:41]}
+16. Bxf5 {[%clk 0:05:07]}  Nxf5 {[%clk 0:07:41]} 17. g3 {[%clk 0:05:09]}  Rfe8 {[%clk 0:07:20]} 18. Nb3 {[%clk 0:05:00]}  a5 {[%clk 0:06:30]}
+19. Rc1 {[%clk 0:04:43]}  Qb4 {[%clk 0:06:32]} 20. Qc2 {[%clk 0:04:24]}  Ne7 {[%clk 0:04:55]} 21. Kg2 {[%clk 0:04:25]}  a4 {[%clk 0:04:41]}
+22. Nd2 {[%clk 0:04:26]}  b5 {[%clk 0:04:43]} 23. Nf3 {[%clk 0:04:16]}  Qd6 {[%clk 0:04:35]} 24. Ne1 {[%clk 0:04:16]}  Qe6 {[%clk 0:03:54]}
+25. Nd3 {[%clk 0:04:13]}  Qe4+ {[%clk 0:03:56]} 26. Kg1 {[%clk 0:04:15]}  Nf5 {[%clk 0:02:55]} 27. Nb4 {[%clk 0:04:13]}  Qf3 {[%clk 0:02:27]}
+28. Qd1 {[%clk 0:04:13]}  Qe4 {[%clk 0:02:01]} 29. Qc2 {[%clk 0:04:13]}  Qg4 {[%clk 0:01:59]} 30. Qd1 {[%clk 0:04:10]}  Qg5 {[%clk 0:01:44]}
+31. h4 {[%clk 0:03:49]}  Qg6 {[%clk 0:01:43]} 32. Qf3 {[%clk 0:03:03]}  Re4 {[%clk 0:01:44]} 33. Rxc6 {[%clk 0:03:00]}  Nxh4 {[%clk 0:01:31]}
+34. Rxh4 {[%clk 0:02:13]}  Rxh4 {[%clk 0:01:34]} 35. Qxd5+ {[%clk 0:02:15]}  Kh8 {[%clk 0:01:35]} 36. Nd3 {[%clk 0:02:17]}  Rh5 {[%clk 0:01:09]}
+37. Qf3 {[%clk 0:02:08]}  b4 {[%clk 0:00:58]} 38. Rb6 {[%clk 0:01:47]}  Rc8 {[%clk 0:00:39]} 39. Rxb4 {[%clk 0:01:48]}  h6 {[%clk 0:00:20]}
+40. Nf4 {[%clk 0:01:26]}  Qe8 {[%clk 0:00:03]} 41. Nxh5 {[%clk 0:01:15]}  a3 {[%clk 0:00:04]} 1-0
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "1.2"]
+[White "Niemann, Hans Moke"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "2093596"]
+[BlackFideId "623539"]
+[WhiteElo "2917"]
+[BlackElo "2836"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:01:09"]
+[BlackClock "0:03:09"]
+[Variant "Chess960"]
+[FEN "nbbrkqnr/pppppppp/8/8/8/8/PPPPPPPP/NBBRKQNR w HDhd - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.01.07"]
+[EndTime "17:43:58"]
+
+1. e4 {[%clk 0:15:03]}  e5 {[%clk 0:15:02]} 2. Nf3 {[%clk 0:14:52]}  Qe7 {[%clk 0:14:49]} 3. Qe2 {[%clk 0:14:48]}  c5 {[%clk 0:13:54]}
+4. O-O {[%clk 0:14:08]}  Nf6 {[%clk 0:13:54]} 5. c3 {[%clk 0:13:52]}  O-O {[%clk 0:13:55]} 6. Rfe1 {[%clk 0:12:53]}  Nc7 {[%clk 0:13:46]}
+7. d4 {[%clk 0:12:34]}  d6 {[%clk 0:13:13]} 8. d5 {[%clk 0:12:33]}  Nh5 {[%clk 0:13:02]} 9. Nc2 {[%clk 0:10:51]}  Nf4 {[%clk 0:13:02]}
+10. Bxf4 {[%clk 0:10:20]}  exf4 {[%clk 0:13:05]} 11. h3 {[%clk 0:10:12]}  Rfe8 {[%clk 0:12:29]} 12. Na3 {[%clk 0:10:08]}  b6 {[%clk 0:10:36]}
+13. Nc4 {[%clk 0:09:43]}  Qf6 {[%clk 0:10:12]} 14. a4 {[%clk 0:09:05]}  g6 {[%clk 0:09:59]} 15. Qd2 {[%clk 0:08:48]}  Kg7 {[%clk 0:09:30]}
+16. b4 {[%clk 0:08:35]}  Bd7 {[%clk 0:08:18]} 17. b5 {[%clk 0:08:17]}  a6 {[%clk 0:08:20]} 18. Nxb6 {[%clk 0:07:53]}  axb5 {[%clk 0:08:22]}
+19. Bc2 {[%clk 0:07:54]}  Re7 {[%clk 0:06:38]} 20. Nxd7 {[%clk 0:07:47]}  Rdxd7 {[%clk 0:06:37]} 21. Rb1 {[%clk 0:07:35]}  b4 {[%clk 0:06:21]}
+22. cxb4 {[%clk 0:07:31]}  cxb4 {[%clk 0:06:24]} 23. Rxb4 {[%clk 0:07:23]}  Ba7 {[%clk 0:06:26]} 24. Rc4 {[%clk 0:07:07]}  Re8 {[%clk 0:06:13]}
+25. Rc6 {[%clk 0:06:44]}  Qb2 {[%clk 0:06:15]} 26. Rb1 {[%clk 0:06:38]}  Qa3 {[%clk 0:06:07]} 27. Rc3 {[%clk 0:06:06]}  Qa2 {[%clk 0:06:07]}
+28. Qc1 {[%clk 0:06:02]}  Nxd5 {[%clk 0:05:45]} 29. exd5 {[%clk 0:04:30]}  Qxd5 {[%clk 0:05:44]} 30. Qd1 {[%clk 0:04:00]}  Qa5 {[%clk 0:05:38]}
+31. Qd2 {[%clk 0:03:58]}  Rde7 {[%clk 0:05:32]} 32. Bd1 {[%clk 0:03:37]}  Re3 {[%clk 0:04:57]} 33. Rbc1 {[%clk 0:02:25]}  R3e4 {[%clk 0:04:40]}
+34. Kh2 {[%clk 0:02:21]}  Qb6 {[%clk 0:04:19]} 35. R3c2 {[%clk 0:01:55]}  h6 {[%clk 0:04:12]} 36. a5 {[%clk 0:01:57]}  Qd8 {[%clk 0:04:01]}
+37. Rc7 {[%clk 0:01:47]}  Bc5 {[%clk 0:04:00]} 38. Rb7 {[%clk 0:01:48]}  Qa8 {[%clk 0:03:50]} 39. Rcb1 {[%clk 0:01:39]}  R4e7 {[%clk 0:03:41]}
+40. Rxe7 {[%clk 0:01:37]}  Rxe7 {[%clk 0:03:44]} 41. Qb2+ {[%clk 0:01:12]}  f6 {[%clk 0:03:39]} 42. Qd2 {[%clk 0:01:12]}  Qa7 {[%clk 0:03:33]}
+43. Kg1 {[%clk 0:01:06]}  g5 {[%clk 0:03:35]} 44. Bc2 {[%clk 0:01:03]}  h5 {[%clk 0:03:22]} 45. Qd3 {[%clk 0:01:05]}  Bxf2+ {[%clk 0:03:23]}
+46. Kh1 {[%clk 0:01:07]}  Kf8 {[%clk 0:03:09]} 47. Qg6 {[%clk 0:01:09]} 1-0
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "1.2"]
+[White "Praggnanandhaa R"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "0-1"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "25059530"]
+[BlackFideId "5029465"]
+[WhiteElo "2090"]
+[BlackElo "2865"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:00:00"]
+[BlackClock "0:00:28"]
+[Variant "Chess960"]
+[FEN "nbbrkqnr/pppppppp/8/8/8/8/PPPPPPPP/NBBRKQNR w HDhd - 0 1"]
+[Termination "timeout"]
+[EndDate "2025.01.07"]
+[EndTime "17:54:44"]
+
+1. d4 {[%clk 0:15:02]}  Nf6 {[%clk 0:13:34]} 2. c3 {[%clk 0:15:01]}  d5 {[%clk 0:13:23]} 3. Nf3 {[%clk 0:14:21]}  c6 {[%clk 0:13:11]}
+4. Nb3 {[%clk 0:14:20]}  Nb6 {[%clk 0:12:49]} 5. Nc5 {[%clk 0:13:51]}  Nc4 {[%clk 0:12:32]} 6. e4 {[%clk 0:11:58]}  b6 {[%clk 0:12:21]}
+7. exd5 {[%clk 0:11:59]}  cxd5 {[%clk 0:12:20]} 8. Nd3 {[%clk 0:11:47]}  Bf5 {[%clk 0:11:36]} 9. Qe2 {[%clk 0:11:24]}  e6 {[%clk 0:11:36]}
+10. Bc2 {[%clk 0:11:12]}  Qe7 {[%clk 0:10:10]} 11. Ba4+ {[%clk 0:11:06]}  Kf8 {[%clk 0:10:06]} 12. Nde5 {[%clk 0:09:19]}  Rc8 {[%clk 0:09:58]}
+13. Bg5 {[%clk 0:08:25]}  h6 {[%clk 0:09:52]} 14. Nd7+ {[%clk 0:07:57]}  Kg8 {[%clk 0:09:51]} 15. Bxf6 {[%clk 0:07:56]}  gxf6 {[%clk 0:09:54]}
+16. Nxb8 {[%clk 0:07:58]}  Rxb8 {[%clk 0:09:55]} 17. Bb3 {[%clk 0:06:31]}  b5 {[%clk 0:09:47]} 18. Nh4 {[%clk 0:05:55]}  Be4 {[%clk 0:09:36]}
+19. f3 {[%clk 0:05:06]}  Bh7 {[%clk 0:09:31]} 20. Qf2 {[%clk 0:04:45]}  Qc7 {[%clk 0:09:12]} 21. O-O {[%clk 0:04:41]}  a5 {[%clk 0:09:05]}
+22. Rde1 {[%clk 0:04:16]}  Bd3 {[%clk 0:08:58]} 23. f4 {[%clk 0:04:00]}  Bxf1 {[%clk 0:08:50]} 24. Rxf1 {[%clk 0:03:11]}  Kf8 {[%clk 0:06:51]}
+25. f5 {[%clk 0:03:08]}  e5 {[%clk 0:06:52]} 26. dxe5 {[%clk 0:02:31]}  Nxe5 {[%clk 0:05:30]} 27. Nf3 {[%clk 0:01:57]}  Nxf3+ {[%clk 0:02:14]}
+28. Qxf3 {[%clk 0:01:57]}  Rd8 {[%clk 0:02:06]} 29. Rd1 {[%clk 0:01:55]}  d4 {[%clk 0:01:50]} 30. cxd4 {[%clk 0:01:15]}  a4 {[%clk 0:01:51]}
+31. Bd5 {[%clk 0:00:56]}  Qb6 {[%clk 0:01:52]} 32. Kh1 {[%clk 0:00:43]}  Rg8 {[%clk 0:01:51]} 33. h3 {[%clk 0:00:30]}  Rg5 {[%clk 0:01:38]}
+34. h4 {[%clk 0:00:31]}  Rg7 {[%clk 0:01:35]} 35. Rd3 {[%clk 0:00:07]}  Kg8 {[%clk 0:01:25]} 36. Be4 {[%clk 0:00:04]}  Kh7 {[%clk 0:00:58]}
+37. Qf2 {[%clk 0:00:04]}  Rg4 {[%clk 0:00:52]} 38. Bf3 {[%clk 0:00:03]}  Rgxd4 {[%clk 0:00:52]} 39. Re3 {[%clk 0:00:00]}  Rd3 {[%clk 0:00:28]} 0-1
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "1.2"]
+[White "So, Wesley"]
+[Black "Lazavik, Denis"]
+[Result "1/2-1/2"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "5202213"]
+[BlackFideId "13515110"]
+[WhiteElo "2875"]
+[BlackElo "2866"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:10:20"]
+[BlackClock "0:11:11"]
+[Variant "Chess960"]
+[FEN "nbbrkqnr/pppppppp/8/8/8/8/PPPPPPPP/NBBRKQNR w HDhd - 0 1"]
+[Termination "repetition"]
+[EndDate "2025.01.07"]
+[EndTime "17:31:02"]
+
+1. e4 {[%clk 0:14:47]}  e5 {[%clk 0:14:33]} 2. Nf3 {[%clk 0:14:35]}  Qe7 {[%clk 0:14:28]} 3. Qe2 {[%clk 0:14:31]}  Nf6 {[%clk 0:14:25]}
+4. d4 {[%clk 0:14:24]}  d6 {[%clk 0:12:59]} 5. O-O {[%clk 0:12:54]}  O-O {[%clk 0:12:59]} 6. c3 {[%clk 0:12:52]}  Rfe8 {[%clk 0:12:35]}
+7. Rfe1 {[%clk 0:12:49]}  Nb6 {[%clk 0:11:57]} 8. Bg5 {[%clk 0:12:14]}  h6 {[%clk 0:11:51]} 9. Bh4 {[%clk 0:12:07]}  Nbd7 {[%clk 0:11:29]}
+10. Nc2 {[%clk 0:11:45]}  Nf8 {[%clk 0:11:28]} 11. Ne3 {[%clk 0:11:44]}  c6 {[%clk 0:11:29]} 12. Bg3 {[%clk 0:11:05]}  Nh5 {[%clk 0:11:11]}
+13. Bh4 {[%clk 0:10:55]}  Nf6 {[%clk 0:11:11]} 14. Bg3 {[%clk 0:10:18]}  Nh5 {[%clk 0:11:11]} 15. Bh4 {[%clk 0:10:20]}  Nf6 {[%clk 0:11:11]} 1/2-1/2
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "1.2"]
+[White "Wei, Yi"]
+[Black "Sindarov, Javokhir"]
+[Result "0-1"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "8603405"]
+[BlackFideId "14205483"]
+[WhiteElo "2482"]
+[BlackElo "1845"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:00:54"]
+[BlackClock "0:06:36"]
+[Variant "Chess960"]
+[FEN "nbbrkqnr/pppppppp/8/8/8/8/PPPPPPPP/NBBRKQNR w HDhd - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.01.07"]
+[EndTime "17:45:53"]
+
+1. c4 {[%clk 0:15:02]}  c6 {[%clk 0:15:00]} 2. d4 {[%clk 0:14:48]}  d5 {[%clk 0:15:02]} 3. Nf3 {[%clk 0:13:48]}  dxc4 {[%clk 0:14:34]}
+4. b3 {[%clk 0:13:15]}  e5 {[%clk 0:14:17]} 5. bxc4 {[%clk 0:10:55]}  exd4 {[%clk 0:14:18]} 6. Nb3 {[%clk 0:10:36]}  Nf6 {[%clk 0:13:24]}
+7. e3 {[%clk 0:09:41]}  dxe3 {[%clk 0:12:57]} 8. Rxd8+ {[%clk 0:09:36]}  Kxd8 {[%clk 0:13:00]} 9. Qd3+ {[%clk 0:08:14]}  Qd6 {[%clk 0:12:48]}
+10. Qxd6+ {[%clk 0:08:16]}  Bxd6 {[%clk 0:12:51]} 11. Bxe3 {[%clk 0:08:18]}  Bb4+ {[%clk 0:12:44]} 12. Ke2 {[%clk 0:08:19]}  Be6 {[%clk 0:11:33]}
+13. Rd1+ {[%clk 0:07:03]}  Kc8 {[%clk 0:11:34]} 14. Ne5 {[%clk 0:06:12]}  Nb6 {[%clk 0:10:50]} 15. Bxb6 {[%clk 0:06:05]}  axb6 {[%clk 0:10:49]}
+16. Nd4 {[%clk 0:06:08]}  Bd7 {[%clk 0:08:34]} 17. Nxd7 {[%clk 0:04:29]}  Nxd7 {[%clk 0:08:35]} 18. Bf5 {[%clk 0:04:10]}  Rd8 {[%clk 0:08:15]}
+19. f4 {[%clk 0:02:09]}  g6 {[%clk 0:08:10]} 20. Bc2 {[%clk 0:02:11]}  Bc5 {[%clk 0:07:45]} 21. Nf3 {[%clk 0:02:12]}  Kc7 {[%clk 0:07:14]}
+22. Ng5 {[%clk 0:02:03]}  Re8+ {[%clk 0:06:32]} 23. Kf1 {[%clk 0:02:03]}  Nf6 {[%clk 0:06:34]} 24. Re1 {[%clk 0:00:54]}  Ra8 {[%clk 0:06:36]} 0-1
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "2.1"]
+[White "Fedoseev, Vladimir"]
+[Black "Duda, Jan-Krzysztof"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "24130737"]
+[BlackFideId "1170546"]
+[WhiteElo "2892"]
+[BlackElo "2936"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:02:18"]
+[BlackClock "0:00:08"]
+[Variant "Chess960"]
+[FEN "nbrkqnbr/pppppppp/8/8/8/8/PPPPPPPP/NBRKQNBR w HChc - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.01.07"]
+[EndTime "19:43:25"]
+
+1. d4 {[%clk 0:14:57]}  d5 {[%clk 0:14:34]} 2. e4 {[%clk 0:14:33]}  dxe4 {[%clk 0:14:14]} 3. Qxe4 {[%clk 0:14:24]}  c6 {[%clk 0:14:15]}
+4. O-O-O {[%clk 0:14:06]}  Nb6 {[%clk 0:13:59]} 5. h4 {[%clk 0:13:34]}  h5 {[%clk 0:13:22]} 6. Bh2 {[%clk 0:13:18]}  Bd6 {[%clk 0:13:03]}
+7. Qf5 {[%clk 0:12:00]}  Qd7 {[%clk 0:10:54]} 8. Qa5 {[%clk 0:11:53]}  Qc7 {[%clk 0:10:55]} 9. Nb3 {[%clk 0:11:18]}  a6 {[%clk 0:09:53]}
+10. c3 {[%clk 0:09:43]}  O-O-O {[%clk 0:09:49]} 11. Bd3 {[%clk 0:09:20]}  Nd5 {[%clk 0:08:15]} 12. Qxc7+ {[%clk 0:09:20]}  Kxc7 {[%clk 0:08:05]}
+13. Nfd2 {[%clk 0:09:03]}  Bh7 {[%clk 0:07:52]} 14. Nc4 {[%clk 0:08:47]}  Bxh2 {[%clk 0:07:32]} 15. Rxh2 {[%clk 0:08:47]}  Nd7 {[%clk 0:07:32]}
+16. g3 {[%clk 0:08:36]}  Bxd3 {[%clk 0:07:24]} 17. Rxd3 {[%clk 0:08:36]}  Rde8 {[%clk 0:07:11]} 18. f4 {[%clk 0:08:33]}  e6 {[%clk 0:06:49]}
+19. Ne5 {[%clk 0:08:19]}  Nxe5 {[%clk 0:05:06]} 20. dxe5 {[%clk 0:08:14]}  Rd8 {[%clk 0:05:06]} 21. Rhd2 {[%clk 0:08:03]}  Ne7 {[%clk 0:05:05]}
+22. Nc5 {[%clk 0:08:03]}  Rd5 {[%clk 0:05:01]} 23. c4 {[%clk 0:07:40]}  Rxc5 {[%clk 0:04:46]} 24. Rd7+ {[%clk 0:07:42]}  Kb6 {[%clk 0:04:21]}
+25. Rxe7 {[%clk 0:07:44]}  Rxc4+ {[%clk 0:04:23]} 26. Kd1 {[%clk 0:07:46]}  Rh6 {[%clk 0:02:48]} 27. Rdd7 {[%clk 0:06:49]}  Rg6 {[%clk 0:02:48]}
+28. Rxb7+ {[%clk 0:06:50]}  Kc5 {[%clk 0:02:51]} 29. Rb3 {[%clk 0:06:52]}  Rb4 {[%clk 0:02:46]} 30. Rc3+ {[%clk 0:06:46]}  Kd5 {[%clk 0:02:37]}
+31. b3 {[%clk 0:06:24]}  f6 {[%clk 0:02:39]} 32. Re3 {[%clk 0:05:30]}  fxe5 {[%clk 0:01:11]} 33. Rd7+ {[%clk 0:05:28]}  Kc5 {[%clk 0:01:13]}
+34. Rxe5+ {[%clk 0:05:29]}  Kb6 {[%clk 0:01:16]} 35. Rg5 {[%clk 0:05:05]}  Rxg5 {[%clk 0:00:47]} 36. fxg5 {[%clk 0:05:07]}  Rg4 {[%clk 0:00:49]}
+37. Rxg7 {[%clk 0:05:09]}  Rxg3 {[%clk 0:00:51]} 38. Rh7 {[%clk 0:05:11]}  Kc5 {[%clk 0:00:49]} 39. Rxh5 {[%clk 0:05:12]}  e5 {[%clk 0:00:46]}
+40. Ke2 {[%clk 0:04:45]}  Kd4 {[%clk 0:00:34]} 41. Kf2 {[%clk 0:04:47]}  Rg4 {[%clk 0:00:35]} 42. Kf3 {[%clk 0:03:05]}  Rg1 {[%clk 0:00:27]}
+43. Rh8 {[%clk 0:02:56]}  e4+ {[%clk 0:00:26]} 44. Kf4 {[%clk 0:02:54]}  Rf1+ {[%clk 0:00:27]} 45. Kg4 {[%clk 0:02:55]}  e3 {[%clk 0:00:09]}
+46. Re8 {[%clk 0:02:54]}  Kd3 {[%clk 0:00:08]} 47. g6 {[%clk 0:02:50]}  e2 {[%clk 0:00:08]} 48. h5 {[%clk 0:02:50]}  e1=Q {[%clk 0:00:06]}
+49. Rxe1 {[%clk 0:02:50]}  Rxe1 {[%clk 0:00:09]} 50. Kg5 {[%clk 0:02:18]}  Ke4 {[%clk 0:00:06]} 51. g7 {[%clk 0:02:16]}  Ke5 {[%clk 0:00:03]}
+52. Kg6 {[%clk 0:02:18]}  Rg1+ {[%clk 0:00:04]} 53. Kh7 {[%clk 0:02:06]}  Kf6 {[%clk 0:00:04]} 54. g8=Q {[%clk 0:02:09]}  Rxg8 {[%clk 0:00:06]}
+55. Kxg8 {[%clk 0:02:12]}  Kg5 {[%clk 0:00:06]} 56. Kf7 {[%clk 0:02:14]}  Kxh5 {[%clk 0:00:08]} 57. Ke6 {[%clk 0:02:16]}  Kg5 {[%clk 0:00:08]}
+58. Kd6 {[%clk 0:02:18]} 1-0
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "2.1"]
+[White "Lazavik, Denis"]
+[Black "Yu, Yangyi"]
+[Result "0-1"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "13515110"]
+[BlackFideId "8603820"]
+[WhiteElo "2866"]
+[BlackElo "1500"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:02:42"]
+[BlackClock "0:00:54"]
+[Variant "Chess960"]
+[FEN "nbrkqnbr/pppppppp/8/8/8/8/PPPPPPPP/NBRKQNBR w HChc - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.01.07"]
+[EndTime "19:42:20"]
+
+1. e4 {[%clk 0:15:00]}  e5 {[%clk 0:14:56]} 2. Nb3 {[%clk 0:14:58]}  O-O-O {[%clk 0:14:56]} 3. Ne3 {[%clk 0:14:52]}  Ne6 {[%clk 0:14:53]}
+4. O-O-O {[%clk 0:14:46]}  f6 {[%clk 0:14:50]} 5. c3 {[%clk 0:14:44]}  Nb6 {[%clk 0:14:42]} 6. f3 {[%clk 0:14:25]}  c6 {[%clk 0:14:21]}
+7. Bc2 {[%clk 0:14:09]}  Bc7 {[%clk 0:14:20]} 8. Kb1 {[%clk 0:13:54]}  d5 {[%clk 0:14:20]} 9. exd5 {[%clk 0:13:55]}  cxd5 {[%clk 0:14:22]}
+10. d4 {[%clk 0:13:56]}  Kb8 {[%clk 0:14:23]} 11. Bf2 {[%clk 0:13:55]}  Bf7 {[%clk 0:14:20]} 12. Bg3 {[%clk 0:13:56]}  Bg6 {[%clk 0:14:17]}
+13. Qf2 {[%clk 0:13:50]}  Qb5 {[%clk 0:13:59]} 14. Rhe1 {[%clk 0:13:44]}  Rhe8 {[%clk 0:13:58]} 15. Bxg6 {[%clk 0:13:38]}  hxg6 {[%clk 0:14:00]}
+16. dxe5 {[%clk 0:13:39]}  fxe5 {[%clk 0:13:42]} 17. Ng4 {[%clk 0:13:41]}  e4 {[%clk 0:12:33]} 18. Bxc7+ {[%clk 0:13:21]}  Nxc7 {[%clk 0:12:35]}
+19. Nd4 {[%clk 0:13:19]}  Qa4 {[%clk 0:12:26]} 20. Qc2 {[%clk 0:13:12]}  Qxc2+ {[%clk 0:10:49]} 21. Kxc2 {[%clk 0:13:15]}  Nc4 {[%clk 0:10:51]}
+22. fxe4 {[%clk 0:12:50]}  dxe4 {[%clk 0:10:48]} 23. b3 {[%clk 0:12:52]}  Nd6 {[%clk 0:10:46]} 24. Ne3 {[%clk 0:12:52]}  Kc8 {[%clk 0:10:30]}
+25. Rf1 {[%clk 0:12:28]}  Rf8 {[%clk 0:10:11]} 26. Rxf8 {[%clk 0:12:04]}  Rxf8 {[%clk 0:10:12]} 27. c4 {[%clk 0:12:06]}  Nf5 {[%clk 0:09:58]}
+28. Ng4 {[%clk 0:11:00]}  Re8 {[%clk 0:09:13]} 29. Kc3 {[%clk 0:10:01]}  Rd8 {[%clk 0:08:01]} 30. Nf2 {[%clk 0:07:37]}  e3 {[%clk 0:07:55]}
+31. Nxf5 {[%clk 0:07:37]}  Rxd1 {[%clk 0:07:51]} 32. Nxe3 {[%clk 0:07:38]}  Rc1+ {[%clk 0:05:43]} 33. Nc2 {[%clk 0:07:14]}  Rf1 {[%clk 0:05:16]}
+34. Nd3 {[%clk 0:07:05]}  Ne6 {[%clk 0:05:05]} 35. Ne3 {[%clk 0:07:06]}  Rh1 {[%clk 0:04:39]} 36. h3 {[%clk 0:07:03]}  g5 {[%clk 0:04:40]}
+37. Ne5 {[%clk 0:06:47]}  Re1 {[%clk 0:04:33]} 38. Kd2 {[%clk 0:06:47]}  Ra1 {[%clk 0:04:32]} 39. a4 {[%clk 0:06:47]}  Ra2+ {[%clk 0:04:30]}
+40. Kc3 {[%clk 0:06:44]}  Re2 {[%clk 0:03:52]} 41. N5g4 {[%clk 0:06:42]}  Nf4 {[%clk 0:03:48]} 42. g3 {[%clk 0:06:19]}  Nxh3 {[%clk 0:03:28]}
+43. Kd3 {[%clk 0:06:21]}  Ra2 {[%clk 0:03:02]} 44. Nc2 {[%clk 0:05:03]}  Rb2 {[%clk 0:03:02]} 45. Kc3 {[%clk 0:05:01]}  Rb1 {[%clk 0:03:04]}
+46. Ne5 {[%clk 0:04:52]}  Nf2 {[%clk 0:02:47]} 47. g4 {[%clk 0:04:47]}  Rg1 {[%clk 0:02:36]} 48. Ne3 {[%clk 0:04:48]}  Nd1+ {[%clk 0:02:31]}
+49. Nxd1 {[%clk 0:04:46]}  Rxd1 {[%clk 0:02:34]} 50. c5 {[%clk 0:04:48]}  Kc7 {[%clk 0:01:06]} 51. b4 {[%clk 0:04:38]}  a5 {[%clk 0:01:04]}
+52. bxa5 {[%clk 0:04:23]}  Ra1 {[%clk 0:01:03]} 53. c6 {[%clk 0:03:39]}  bxc6 {[%clk 0:00:58]} 54. Kb4 {[%clk 0:03:41]}  Re1 {[%clk 0:00:57]}
+55. Nc4 {[%clk 0:02:42]}  Re4 {[%clk 0:00:58]} 56. Kc5 {[%clk 0:02:44]}  Rxg4 {[%clk 0:00:59]} 57. Ne5 {[%clk 0:02:42]}  Rxa4 {[%clk 0:00:55]}
+58. Nxc6 {[%clk 0:02:42]}  g4 {[%clk 0:00:54]} 0-1
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "2.1"]
+[White "Niemann, Hans Moke"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "2093596"]
+[BlackFideId "4168119"]
+[WhiteElo "2917"]
+[BlackElo "2935"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:03:14"]
+[BlackClock "0:03:55"]
+[Variant "Chess960"]
+[FEN "nbrkqnbr/pppppppp/8/8/8/8/PPPPPPPP/NBRKQNBR w HChc - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.01.07"]
+[EndTime "19:34:28"]
+
+1. d4 {[%clk 0:15:02]}  d5 {[%clk 0:14:39]} 2. c3 {[%clk 0:14:40]}  Nb6 {[%clk 0:13:45]} 3. Nb3 {[%clk 0:14:22]}  c6 {[%clk 0:12:06]}
+4. O-O-O {[%clk 0:13:40]}  e6 {[%clk 0:11:47]} 5. e4 {[%clk 0:13:29]}  h6 {[%clk 0:11:42]} 6. f3 {[%clk 0:12:35]}  Bh7 {[%clk 0:11:26]}
+7. Bf2 {[%clk 0:12:27]}  Nfd7 {[%clk 0:11:12]} 8. Nfd2 {[%clk 0:11:56]}  Qe7 {[%clk 0:10:49]} 9. Bh4 {[%clk 0:10:00]}  f6 {[%clk 0:10:49]}
+10. Qe2 {[%clk 0:09:39]}  Na4 {[%clk 0:10:01]} 11. Rde1 {[%clk 0:07:52]}  Ndb6 {[%clk 0:09:50]} 12. e5 {[%clk 0:04:46]}  Nxb2 {[%clk 0:05:30]}
+13. exf6 {[%clk 0:03:48]}  gxf6 {[%clk 0:05:09]} 14. Qxe6 {[%clk 0:03:34]}  Qxe6 {[%clk 0:04:43]} 15. Rxe6 {[%clk 0:03:37]}  N6a4 {[%clk 0:04:07]}
+16. Bxf6+ {[%clk 0:03:29]}  Kc7 {[%clk 0:04:02]} 17. Re7+ {[%clk 0:03:16]}  Kb6 {[%clk 0:03:55]} 18. Bxh7 {[%clk 0:03:14]} 1-0
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "2.1"]
+[White "Sindarov, Javokhir"]
+[Black "Praggnanandhaa R"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "14205483"]
+[BlackFideId "25059530"]
+[WhiteElo "1845"]
+[BlackElo "2090"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:02:47"]
+[BlackClock "0:00:00"]
+[Variant "Chess960"]
+[FEN "nbrkqnbr/pppppppp/8/8/8/8/PPPPPPPP/NBRKQNBR w HChc - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.01.07"]
+[EndTime "19:40:54"]
+
+1. d4 {[%clk 0:15:01]}  d5 {[%clk 0:12:54]} 2. e4 {[%clk 0:14:11]}  dxe4 {[%clk 0:12:44]} 3. Qxe4 {[%clk 0:14:11]}  O-O-O {[%clk 0:12:45]}
+4. O-O-O {[%clk 0:14:13]}  h5 {[%clk 0:12:18]} 5. Nb3 {[%clk 0:13:50]}  e6 {[%clk 0:11:34]} 6. h4 {[%clk 0:13:27]}  c6 {[%clk 0:11:07]}
+7. Bh2 {[%clk 0:13:22]}  Bxh2 {[%clk 0:11:08]} 8. Nxh2 {[%clk 0:13:25]}  Nd7 {[%clk 0:10:59]} 9. Qe2 {[%clk 0:13:00]}  Bh7 {[%clk 0:10:49]}
+10. Nf3 {[%clk 0:12:58]}  Bf5 {[%clk 0:10:39]} 11. Ng5 {[%clk 0:11:39]}  Nc7 {[%clk 0:10:07]} 12. c3 {[%clk 0:11:22]}  Bxb1 {[%clk 0:09:53]}
+13. Kxb1 {[%clk 0:11:23]}  Kb8 {[%clk 0:08:52]} 14. Rhe1 {[%clk 0:11:21]}  Qe7 {[%clk 0:08:40]} 15. g3 {[%clk 0:11:01]}  Qf6 {[%clk 0:08:00]}
+16. Ka1 {[%clk 0:10:43]}  e5 {[%clk 0:07:14]} 17. dxe5 {[%clk 0:08:58]}  Nxe5 {[%clk 0:07:15]} 18. Nc5 {[%clk 0:09:00]}  b6 {[%clk 0:06:10]}
+19. f4 {[%clk 0:09:01]}  bxc5 {[%clk 0:05:53]} 20. fxe5 {[%clk 0:09:01]}  Qe7 {[%clk 0:05:52]} 21. Rxd8+ {[%clk 0:07:44]}  Rxd8 {[%clk 0:05:39]}
+22. Qxh5 {[%clk 0:07:46]}  f6 {[%clk 0:05:27]} 23. Nf3 {[%clk 0:07:35]}  Qd7 {[%clk 0:04:34]} 24. a3 {[%clk 0:07:29]}  Qd5 {[%clk 0:04:36]}
+25. Qg4 {[%clk 0:07:21]}  Qb3 {[%clk 0:04:22]} 26. exf6 {[%clk 0:06:39]}  gxf6 {[%clk 0:04:22]} 27. Qe4 {[%clk 0:06:11]}  Nb5 {[%clk 0:03:06]}
+28. Qf4+ {[%clk 0:04:06]}  Kb7 {[%clk 0:02:58]} 29. Nd2 {[%clk 0:03:56]}  Qc2 {[%clk 0:02:35]} 30. Nb1 {[%clk 0:03:58]}  f5 {[%clk 0:01:27]}
+31. h5 {[%clk 0:03:52]}  Rd7 {[%clk 0:01:13]} 32. h6 {[%clk 0:03:51]}  Ka6 {[%clk 0:01:04]} 33. Rh1 {[%clk 0:02:59]}  Rb7 {[%clk 0:00:33]}
+34. Qc4 {[%clk 0:02:59]}  Qg2 {[%clk 0:00:34]} 35. Rh4 {[%clk 0:02:47]}  Qxg3 {[%clk 0:00:00]} 36. h7 {[%clk 0:02:47]} 1-0
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "2.2"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Fedoseev, Vladimir"]
+[Result "0-1"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "1170546"]
+[BlackFideId "24130737"]
+[WhiteElo "2936"]
+[BlackElo "2892"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:00:00"]
+[BlackClock "0:00:46"]
+[Variant "Chess960"]
+[FEN "rbbkqnrn/pppppppp/8/8/8/8/PPPPPPPP/RBBKQNRN w GAga - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.01.07"]
+[EndTime "20:27:15"]
+
+1. d4 {[%clk 0:14:23]}  Nhg6 {[%clk 0:14:11]} 2. e4 {[%clk 0:13:47]}  e5 {[%clk 0:13:41]} 3. d5 {[%clk 0:13:42]}  d6 {[%clk 0:13:40]}
+4. c4 {[%clk 0:13:36]}  a5 {[%clk 0:13:15]} 5. Bc2 {[%clk 0:12:46]}  Nf4 {[%clk 0:12:35]} 6. Be3 {[%clk 0:11:29]}  N8g6 {[%clk 0:10:32]}
+7. f3 {[%clk 0:10:55]}  b5 {[%clk 0:10:16]} 8. c5 {[%clk 0:10:29]}  dxc5 {[%clk 0:10:14]} 9. Bxc5 {[%clk 0:10:13]}  b4 {[%clk 0:10:12]}
+10. Nd2 {[%clk 0:07:17]}  Qb5 {[%clk 0:09:39]} 11. Qe3 {[%clk 0:05:49]}  a4 {[%clk 0:08:35]} 12. g3 {[%clk 0:05:17]}  Ra5 {[%clk 0:07:40]}
+13. gxf4 {[%clk 0:04:34]}  exf4 {[%clk 0:07:33]} 14. Qd4 {[%clk 0:04:08]}  Qxc5 {[%clk 0:07:35]} 15. Qxc5 {[%clk 0:04:10]}  Rxc5 {[%clk 0:07:38]}
+16. Nf2 {[%clk 0:04:02]}  Ba7 {[%clk 0:07:38]} 17. Nd3 {[%clk 0:03:56]}  Rxd5 {[%clk 0:06:49]} 18. exd5 {[%clk 0:03:42]}  Bxg1 {[%clk 0:06:49]}
+19. Bxa4 {[%clk 0:03:44]}  Bd7 {[%clk 0:05:14]} 20. Bxd7 {[%clk 0:03:24]}  Kxd7 {[%clk 0:05:15]} 21. Kc2 {[%clk 0:03:06]}  Be3 {[%clk 0:05:02]}
+22. Nxb4 {[%clk 0:01:19]}  Rb8 {[%clk 0:03:53]} 23. a3 {[%clk 0:01:12]}  Ne5 {[%clk 0:03:51]} 24. Rf1 {[%clk 0:01:02]}  f5 {[%clk 0:03:43]}
+25. h4 {[%clk 0:00:40]}  Rb6 {[%clk 0:03:42]} 26. h5 {[%clk 0:00:13]}  Rh6 {[%clk 0:03:19]} 27. Nd3 {[%clk 0:00:15]}  Kd6 {[%clk 0:03:03]}
+28. Rd1 {[%clk 0:00:11]}  Nxd3 {[%clk 0:02:21]} 29. Nc4+ {[%clk 0:00:12]}  Kxd5 {[%clk 0:02:03]} 30. Kxd3 {[%clk 0:00:13]}  Bd4 {[%clk 0:01:44]}
+31. Re1 {[%clk 0:00:09]}  Rxh5 {[%clk 0:01:12]} 32. Re7 {[%clk 0:00:10]}  c5 {[%clk 0:00:58]} 33. Rd7+ {[%clk 0:00:05]}  Ke6 {[%clk 0:00:53]}
+34. Rd6+ {[%clk 0:00:07]}  Ke7 {[%clk 0:00:55]} 35. a4 {[%clk 0:00:05]}  Rh3 {[%clk 0:00:56]} 36. a5 {[%clk 0:00:04]}  Rxf3+ {[%clk 0:00:58]}
+37. Ke2 {[%clk 0:00:05]}  Rf2+ {[%clk 0:01:00]} 38. Kd3 {[%clk 0:00:07]}  Rf1 {[%clk 0:00:54]} 39. a6 {[%clk 0:00:05]}  f3 {[%clk 0:00:42]}
+40. a7 {[%clk 0:00:06]}  Ra1 {[%clk 0:00:44]} 41. Na3 {[%clk 0:00:00]}  f2 {[%clk 0:00:46]} 0-1
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "2.2"]
+[White "Nepomniachtchi, Ian"]
+[Black "Niemann, Hans Moke"]
+[Result "1-0"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "4168119"]
+[BlackFideId "2093596"]
+[WhiteElo "2935"]
+[BlackElo "2917"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:01:24"]
+[BlackClock "0:03:29"]
+[Variant "Chess960"]
+[FEN "rbbkqnrn/pppppppp/8/8/8/8/PPPPPPPP/RBBKQNRN w GAga - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.01.07"]
+[EndTime "20:22:16"]
+
+1. d4 {[%clk 0:14:53]}  e5 {[%clk 0:14:55]} 2. c3 {[%clk 0:14:19]}  d5 {[%clk 0:14:33]} 3. dxe5 {[%clk 0:13:49]}  Qxe5 {[%clk 0:14:34]}
+4. Nhg3 {[%clk 0:13:49]}  Nfg6 {[%clk 0:14:03]} 5. Nd2 {[%clk 0:13:49]}  O-O {[%clk 0:13:52]} 6. Nf3 {[%clk 0:13:51]}  Qe7 {[%clk 0:13:43]}
+7. Qd2 {[%clk 0:13:16]}  c6 {[%clk 0:13:35]} 8. O-O {[%clk 0:13:08]}  f5 {[%clk 0:13:35]} 9. e3 {[%clk 0:10:48]}  Nf7 {[%clk 0:13:36]}
+10. b3 {[%clk 0:09:01]}  Nfe5 {[%clk 0:13:25]} 11. Nd4 {[%clk 0:08:44]}  Nh4 {[%clk 0:13:04]} 12. f4 {[%clk 0:08:10]}  Ng4 {[%clk 0:13:03]}
+13. c4 {[%clk 0:08:12]}  dxc4 {[%clk 0:12:30]} 14. bxc4 {[%clk 0:08:04]}  Bd6 {[%clk 0:11:40]} 15. h3 {[%clk 0:07:52]}  Nh6 {[%clk 0:11:36]}
+16. Bb2 {[%clk 0:07:19]}  Bd7 {[%clk 0:11:03]} 17. Bc2 {[%clk 0:07:10]}  Rae8 {[%clk 0:10:50]} 18. e4 {[%clk 0:07:10]}  Bb4 {[%clk 0:10:25]}
+19. Qd3 {[%clk 0:07:09]}  Rd8 {[%clk 0:10:08]} 20. Qb3 {[%clk 0:06:50]}  Bc5 {[%clk 0:09:42]} 21. Rad1 {[%clk 0:06:32]}  Kh8 {[%clk 0:08:56]}
+22. Kh1 {[%clk 0:05:45]}  Qf7 {[%clk 0:07:28]} 23. Nf3 {[%clk 0:05:35]}  Nxf3 {[%clk 0:07:27]} 24. Qxf3 {[%clk 0:05:38]}  Rfe8 {[%clk 0:06:57]}
+25. Rfe1 {[%clk 0:04:50]}  Bf8 {[%clk 0:06:52]} 26. exf5 {[%clk 0:03:02]}  Bxf5 {[%clk 0:05:43]} 27. Nxf5 {[%clk 0:02:26]}  Nxf5 {[%clk 0:05:40]}
+28. Rxd8 {[%clk 0:02:18]}  Rxd8 {[%clk 0:05:11]} 29. Re5 {[%clk 0:01:35]}  Nd4 {[%clk 0:04:26]} 30. Qd3 {[%clk 0:01:35]}  Qg6 {[%clk 0:03:59]}
+31. Qxg6 {[%clk 0:01:29]}  hxg6 {[%clk 0:04:01]} 32. Bxg6 {[%clk 0:01:32]}  c5 {[%clk 0:03:57]} 33. Bf7 {[%clk 0:01:29]}  Rd6 {[%clk 0:03:29]}
+34. Rxc5 {[%clk 0:01:24]} 1-0
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "2.2"]
+[White "Praggnanandhaa R"]
+[Black "Sindarov, Javokhir"]
+[Result "0-1"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "25059530"]
+[BlackFideId "14205483"]
+[WhiteElo "2090"]
+[BlackElo "1845"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:00:00"]
+[BlackClock "0:00:15"]
+[Variant "Chess960"]
+[FEN "rbbkqnrn/pppppppp/8/8/8/8/PPPPPPPP/RBBKQNRN w GAga - 0 1"]
+[Termination "timeout"]
+[EndDate "2025.01.07"]
+[EndTime "20:27:48"]
+
+1. e4 {[%clk 0:14:59]}  d6 {[%clk 0:14:43]} 2. c3 {[%clk 0:14:31]}  e5 {[%clk 0:14:29]} 3. Bc2 {[%clk 0:14:18]}  Ne6 {[%clk 0:13:51]}
+4. Nhg3 {[%clk 0:14:18]}  a5 {[%clk 0:13:35]} 5. d3 {[%clk 0:14:01]}  Ng6 {[%clk 0:12:21]} 6. Be3 {[%clk 0:13:58]}  a4 {[%clk 0:12:18]}
+7. Nf5 {[%clk 0:12:01]}  Qb5 {[%clk 0:11:26]} 8. O-O-O {[%clk 0:11:53]}  O-O {[%clk 0:11:21]} 9. h4 {[%clk 0:11:37]}  Re8 {[%clk 0:11:18]}
+10. h5 {[%clk 0:11:01]}  Ngf4 {[%clk 0:10:31]} 11. g3 {[%clk 0:08:53]}  Nxh5 {[%clk 0:10:04]} 12. Qe2 {[%clk 0:08:53]}  Nf6 {[%clk 0:09:20]}
+13. Qf3 {[%clk 0:08:52]}  d5 {[%clk 0:09:14]} 14. Nxg7 {[%clk 0:08:10]}  Nxg7 {[%clk 0:09:06]} 15. Qxf6 {[%clk 0:07:38]}  Ra6 {[%clk 0:09:03]}
+16. Qh4 {[%clk 0:07:40]}  d4 {[%clk 0:07:39]} 17. c4 {[%clk 0:05:54]}  Qd7 {[%clk 0:07:25]} 18. Bd2 {[%clk 0:05:27]}  Qg4 {[%clk 0:07:01]}
+19. Qh1 {[%clk 0:04:54]}  b5 {[%clk 0:04:36]} 20. cxb5 {[%clk 0:04:17]}  Rb6 {[%clk 0:04:39]} 21. Bxa4 {[%clk 0:03:38]}  Bd7 {[%clk 0:04:41]}
+22. Ba5 {[%clk 0:03:26]}  Bxb5 {[%clk 0:04:24]} 23. Bc2 {[%clk 0:02:13]}  Rc6 {[%clk 0:04:08]} 24. Rd2 {[%clk 0:01:35]}  Qe6 {[%clk 0:03:30]}
+25. Kb1 {[%clk 0:01:15]}  Rxc2 {[%clk 0:03:27]} 26. Rxc2 {[%clk 0:01:15]}  Bxd3 {[%clk 0:03:29]} 27. Nd2 {[%clk 0:01:17]}  Qa6 {[%clk 0:03:11]}
+28. b4 {[%clk 0:01:04]}  Bxc2+ {[%clk 0:02:39]} 29. Kxc2 {[%clk 0:01:06]}  c5 {[%clk 0:02:42]} 30. a3 {[%clk 0:00:44]}  Rc8 {[%clk 0:01:51]}
+31. Kd1 {[%clk 0:00:42]}  c4 {[%clk 0:01:42]} 32. Qf3 {[%clk 0:00:44]}  c3 {[%clk 0:01:31]} 33. Nb3 {[%clk 0:00:46]}  d3 {[%clk 0:01:34]}
+34. Nc5 {[%clk 0:00:20]}  Rxc5 {[%clk 0:00:54]} 35. bxc5 {[%clk 0:00:23]}  Qc4 {[%clk 0:00:56]} 36. Ke1 {[%clk 0:00:08]}  d2+ {[%clk 0:00:26]}
+37. Kd1 {[%clk 0:00:09]}  Qa4+ {[%clk 0:00:27]} 38. Ke2 {[%clk 0:00:12]}  Qxa5 {[%clk 0:00:29]} 39. Rb1 {[%clk 0:00:13]}  Bc7 {[%clk 0:00:20]}
+40. Rb4 {[%clk 0:00:00]}  Qa6+ {[%clk 0:00:15]} 0-1
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.07"]
+[Round "2.2"]
+[White "Yu, Yangyi"]
+[Black "Lazavik, Denis"]
+[Result "1-0"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "8603820"]
+[BlackFideId "13515110"]
+[WhiteElo "1500"]
+[BlackElo "2866"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:05:30"]
+[BlackClock "0:03:27"]
+[Variant "Chess960"]
+[FEN "rbbkqnrn/pppppppp/8/8/8/8/PPPPPPPP/RBBKQNRN w GAga - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.01.07"]
+[EndTime "20:18:24"]
+
+1. e4 {[%clk 0:15:02]}  Nhg6 {[%clk 0:14:55]} 2. d4 {[%clk 0:14:46]}  e5 {[%clk 0:14:50]} 3. d5 {[%clk 0:14:47]}  a5 {[%clk 0:14:40]}
+4. Nhg3 {[%clk 0:14:43]}  d6 {[%clk 0:14:39]} 5. c4 {[%clk 0:14:06]}  Nd7 {[%clk 0:14:35]} 6. Be3 {[%clk 0:13:57]}  f6 {[%clk 0:14:27]}
+7. Bc2 {[%clk 0:13:46]}  Qf7 {[%clk 0:14:28]} 8. f3 {[%clk 0:13:43]}  Ba7 {[%clk 0:14:26]} 9. Bxa7 {[%clk 0:13:42]}  Rxa7 {[%clk 0:14:29]}
+10. Ne3 {[%clk 0:13:40]}  O-O {[%clk 0:14:27]} 11. Qf2 {[%clk 0:13:32]}  Nc5 {[%clk 0:14:24]} 12. O-O {[%clk 0:13:28]}  Nf4 {[%clk 0:14:25]}
+13. b3 {[%clk 0:13:21]}  Bd7 {[%clk 0:14:11]} 14. Kh1 {[%clk 0:13:01]}  Kh8 {[%clk 0:14:06]} 15. Ne2 {[%clk 0:12:51]}  Ng6 {[%clk 0:13:30]}
+16. Nc3 {[%clk 0:12:39]}  Ne7 {[%clk 0:13:18]} 17. a3 {[%clk 0:12:34]}  Rfa8 {[%clk 0:13:18]} 18. Rad1 {[%clk 0:12:16]}  b6 {[%clk 0:13:11]}
+19. Nf5 {[%clk 0:11:30]}  Ng8 {[%clk 0:13:02]} 20. Ne3 {[%clk 0:11:22]}  Na6 {[%clk 0:12:49]} 21. g3 {[%clk 0:10:06]}  Qe8 {[%clk 0:12:44]}
+22. a4 {[%clk 0:09:36]}  Nc5 {[%clk 0:12:41]} 23. f4 {[%clk 0:09:10]}  exf4 {[%clk 0:12:35]} 24. gxf4 {[%clk 0:09:12]}  Qh5 {[%clk 0:12:38]}
+25. Rg1 {[%clk 0:09:03]}  Re8 {[%clk 0:12:37]} 26. Rg3 {[%clk 0:08:43]}  Raa8 {[%clk 0:12:34]} 27. Rdg1 {[%clk 0:08:45]}  Re7 {[%clk 0:12:34]}
+28. Qg2 {[%clk 0:08:36]}  Qh6 {[%clk 0:09:20]} 29. f5 {[%clk 0:08:35]}  Rf8 {[%clk 0:08:16]} 30. Ne2 {[%clk 0:07:14]}  Be8 {[%clk 0:03:47]}
+31. Nd4 {[%clk 0:06:11]}  Bh5 {[%clk 0:03:35]} 32. Ne6 {[%clk 0:06:01]}  Nxe6 {[%clk 0:03:26]} 33. fxe6 {[%clk 0:05:53]}  Bg6 {[%clk 0:03:29]}
+34. Rh3 {[%clk 0:05:39]}  Qg5 {[%clk 0:03:27]} 35. Qf3 {[%clk 0:05:30]} 1-0
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.08"]
+[Round "3.1"]
+[White "Fedoseev, Vladimir"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "24130737"]
+[BlackFideId "4168119"]
+[WhiteElo "2892"]
+[BlackElo "2935"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:00:39"]
+[BlackClock "0:02:49"]
+[Variant "Chess960"]
+[FEN "rkrnqbbn/pppppppp/8/8/8/8/PPPPPPPP/RKRNQBBN w CAca - 0 1"]
+[Termination "agreed"]
+[EndDate "2025.01.08"]
+[EndTime "16:35:40"]
+
+1. f4 {[%clk 0:15:02]}  f5 {[%clk 0:15:00]} 2. e4 {[%clk 0:14:59]}  fxe4 {[%clk 0:14:33]} 3. Qxe4 {[%clk 0:15:01]}  Nhf7 {[%clk 0:14:25]}
+4. Nc3 {[%clk 0:14:32]}  Nd6 {[%clk 0:14:26]} 5. Qf3 {[%clk 0:14:17]}  g6 {[%clk 0:14:25]} 6. Ng3 {[%clk 0:13:44]}  Bg7 {[%clk 0:14:23]}
+7. Re1 {[%clk 0:13:46]}  Qf7 {[%clk 0:13:42]} 8. Nge4 {[%clk 0:13:41]}  Nc6 {[%clk 0:13:31]} 9. g3 {[%clk 0:12:53]}  Nxe4 {[%clk 0:11:45]}
+10. Qxe4 {[%clk 0:12:39]}  Qf5 {[%clk 0:08:56]} 11. Bg2 {[%clk 0:12:07]}  Qxe4 {[%clk 0:08:51]} 12. Nxe4 {[%clk 0:12:06]}  d6 {[%clk 0:08:36]}
+13. O-O-O {[%clk 0:10:30]}  a5 {[%clk 0:07:53]} 14. a3 {[%clk 0:10:23]}  e5 {[%clk 0:07:30]} 15. Rf1 {[%clk 0:09:54]}  a4 {[%clk 0:05:47]}
+16. fxe5 {[%clk 0:09:21]}  Nxe5 {[%clk 0:05:43]} 17. Nf6 {[%clk 0:09:22]}  Bxf6 {[%clk 0:04:57]} 18. Rxf6 {[%clk 0:09:22]}  Ra5 {[%clk 0:04:59]}
+19. Bh3 {[%clk 0:08:20]}  Re8 {[%clk 0:05:00]} 20. Bd4 {[%clk 0:08:15]}  Nc6 {[%clk 0:04:41]} 21. Be3 {[%clk 0:06:49]}  Rh5 {[%clk 0:04:41]}
+22. Bd7 {[%clk 0:06:17]}  Rd8 {[%clk 0:04:41]} 23. Bxc6 {[%clk 0:04:48]}  bxc6 {[%clk 0:04:44]} 24. h4 {[%clk 0:04:50]}  Ra5 {[%clk 0:04:45]}
+25. Rdf1 {[%clk 0:04:51]}  Kb7 {[%clk 0:04:44]} 26. d3 {[%clk 0:04:27]}  Re8 {[%clk 0:04:44]} 27. Kd2 {[%clk 0:04:14]}  Rae5 {[%clk 0:04:44]}
+28. Re1 {[%clk 0:04:15]}  c5 {[%clk 0:04:32]} 29. Rf4 {[%clk 0:04:17]}  Ra8 {[%clk 0:04:27]} 30. g4 {[%clk 0:03:40]}  Be6 {[%clk 0:04:09]}
+31. Rg1 {[%clk 0:03:38]}  Kc6 {[%clk 0:04:06]} 32. Rg3 {[%clk 0:03:30]}  Bd5 {[%clk 0:03:56]} 33. Bf2 {[%clk 0:03:21]}  Ree8 {[%clk 0:03:54]}
+34. h5 {[%clk 0:02:56]}  Rf8 {[%clk 0:03:55]} 35. Rxf8 {[%clk 0:02:52]}  Rxf8 {[%clk 0:03:58]} 36. Be3 {[%clk 0:02:54]}  Rf1 {[%clk 0:03:53]}
+37. Rg1 {[%clk 0:02:47]}  Rf3 {[%clk 0:03:53]} 38. h6 {[%clk 0:02:44]}  c4 {[%clk 0:03:53]} 39. g5 {[%clk 0:02:30]}  cxd3 {[%clk 0:03:54]}
+40. cxd3 {[%clk 0:02:29]}  Kd7 {[%clk 0:03:51]} 41. Rg4 {[%clk 0:02:31]}  Bb3 {[%clk 0:03:48]} 42. Rb4 {[%clk 0:02:30]}  Kc8 {[%clk 0:03:44]}
+43. Re4 {[%clk 0:02:24]}  Kd7 {[%clk 0:03:45]} 44. Bd4 {[%clk 0:02:17]}  Bd5 {[%clk 0:03:45]} 45. Re1 {[%clk 0:02:17]}  c5 {[%clk 0:03:43]}
+46. Bf6 {[%clk 0:02:19]}  Rf2+ {[%clk 0:03:40]} 47. Kc3 {[%clk 0:01:29]}  Be6 {[%clk 0:03:41]} 48. d4 {[%clk 0:01:28]}  Rf3+ {[%clk 0:03:40]}
+49. Kd2 {[%clk 0:01:27]}  Rf2+ {[%clk 0:03:37]} 50. Ke3 {[%clk 0:01:20]}  Rf5 {[%clk 0:02:55]} 51. dxc5 {[%clk 0:01:18]}  Rxc5 {[%clk 0:02:54]}
+52. Rf1 {[%clk 0:01:17]}  Rf5 {[%clk 0:02:56]} 53. Rh1 {[%clk 0:01:18]}  Rc5 {[%clk 0:02:56]} 54. Rh4 {[%clk 0:01:17]}  Rc4 {[%clk 0:02:58]}
+55. Bd4 {[%clk 0:01:19]}  Bf5 {[%clk 0:02:57]} 56. Rh2 {[%clk 0:00:58]}  Ke6 {[%clk 0:02:59]} 57. Re2 {[%clk 0:00:53]}  Kd5 {[%clk 0:02:48]}
+58. Rd2 {[%clk 0:00:39]}  Rc2 {[%clk 0:02:49]} 1/2-1/2
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.08"]
+[Round "3.1"]
+[White "Sindarov, Javokhir"]
+[Black "Yu, Yangyi"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "14205483"]
+[BlackFideId "8603820"]
+[WhiteElo "1845"]
+[BlackElo "1500"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:01:16"]
+[BlackClock "0:00:15"]
+[Variant "Chess960"]
+[FEN "rkrnqbbn/pppppppp/8/8/8/8/PPPPPPPP/RKRNQBBN w CAca - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.01.08"]
+[EndTime "16:37:31"]
+
+1. e4 {[%clk 0:15:02]}  e5 {[%clk 0:14:59]} 2. Ng3 {[%clk 0:14:44]}  Bc5 {[%clk 0:14:48]} 3. Bc4 {[%clk 0:14:05]}  f6 {[%clk 0:14:43]}
+4. Bxg8 {[%clk 0:13:32]}  Qxg8 {[%clk 0:14:46]} 5. f3 {[%clk 0:13:34]}  d6 {[%clk 0:14:07]} 6. Nf5 {[%clk 0:12:14]}  Nc6 {[%clk 0:14:07]}
+7. Bxc5 {[%clk 0:11:39]}  dxc5 {[%clk 0:14:04]} 8. Nc3 {[%clk 0:11:38]}  Re8 {[%clk 0:13:47]} 9. d3 {[%clk 0:11:08]}  O-O-O {[%clk 0:13:44]}
+10. Nd5 {[%clk 0:10:18]}  Ng6 {[%clk 0:12:51]} 11. g3 {[%clk 0:09:18]}  Kb8 {[%clk 0:12:45]} 12. Qc3 {[%clk 0:08:12]}  Qf8 {[%clk 0:12:24]}
+13. O-O {[%clk 0:07:47]}  Rd7 {[%clk 0:10:40]} 14. Rf2 {[%clk 0:07:37]}  Nd4 {[%clk 0:10:30]} 15. Nde3 {[%clk 0:07:37]}  Nh8 {[%clk 0:09:52]}
+16. Qa3 {[%clk 0:07:10]}  Nf7 {[%clk 0:09:09]} 17. Nxd4 {[%clk 0:06:44]}  cxd4 {[%clk 0:09:11]} 18. Qxf8 {[%clk 0:06:46]}  Rxf8 {[%clk 0:09:14]}
+19. Nc4 {[%clk 0:06:46]}  Nd6 {[%clk 0:09:11]} 20. Nd2 {[%clk 0:06:45]}  c5 {[%clk 0:06:53]} 21. f4 {[%clk 0:06:45]}  Re8 {[%clk 0:06:54]}
+22. b3 {[%clk 0:06:39]}  Kc7 {[%clk 0:06:54]} 23. a4 {[%clk 0:06:36]}  Kc6 {[%clk 0:06:47]} 24. Raf1 {[%clk 0:06:30]}  b6 {[%clk 0:06:29]}
+25. h4 {[%clk 0:06:17]}  Nf7 {[%clk 0:05:19]} 26. Kg2 {[%clk 0:06:01]}  a6 {[%clk 0:05:18]} 27. Kh3 {[%clk 0:05:12]}  b5 {[%clk 0:05:11]}
+28. Ra1 {[%clk 0:05:14]}  Kb6 {[%clk 0:05:09]} 29. Rff1 {[%clk 0:04:55]}  Nd6 {[%clk 0:04:53]} 30. Ra2 {[%clk 0:04:23]}  Ra7 {[%clk 0:03:55]}
+31. Rfa1 {[%clk 0:04:15]}  b4 {[%clk 0:03:03]} 32. Rf1 {[%clk 0:04:14]}  Kc6 {[%clk 0:02:59]} 33. Nf3 {[%clk 0:03:44]}  Nf7 {[%clk 0:02:53]}
+34. Raa1 {[%clk 0:03:43]}  Rae7 {[%clk 0:02:51]} 35. Rae1 {[%clk 0:03:01]}  Kd7 {[%clk 0:02:52]} 36. Nd2 {[%clk 0:02:52]}  Nd6 {[%clk 0:02:52]}
+37. h5 {[%clk 0:02:04]}  f5 {[%clk 0:02:09]} 38. Nf3 {[%clk 0:02:02]}  fxe4 {[%clk 0:01:43]} 39. Nxe5+ {[%clk 0:02:04]}  Rxe5 {[%clk 0:01:44]}
+40. fxe5 {[%clk 0:02:04]}  Rxe5 {[%clk 0:01:47]} 41. dxe4 {[%clk 0:02:04]}  Rxh5+ {[%clk 0:01:34]} 42. Kg2 {[%clk 0:02:06]}  Re5 {[%clk 0:01:31]}
+43. Rf8 {[%clk 0:02:09]}  c4 {[%clk 0:01:21]} 44. Kf3 {[%clk 0:01:32]}  a5 {[%clk 0:00:34]} 45. Rg8 {[%clk 0:01:26]}  g5 {[%clk 0:00:30]}
+46. Rg7+ {[%clk 0:01:23]}  Kc6 {[%clk 0:00:32]} 47. Rxh7 {[%clk 0:01:24]}  Re6 {[%clk 0:00:20]} 48. e5 {[%clk 0:01:06]}  Nf5 {[%clk 0:00:16]}
+49. Ra7 {[%clk 0:01:08]}  Kb6 {[%clk 0:00:15]} 50. Rf7 {[%clk 0:01:10]}  Ne3 {[%clk 0:00:17]} 51. Rxe3 {[%clk 0:01:06]}  dxe3 {[%clk 0:00:19]}
+52. Rf6 {[%clk 0:01:09]}  Rc6 {[%clk 0:00:15]} 53. Kxe3 {[%clk 0:01:10]}  cxb3 {[%clk 0:00:14]} 54. cxb3 {[%clk 0:01:13]}  Kc5 {[%clk 0:00:14]}
+55. Rxc6+ {[%clk 0:01:16]}  Kxc6 {[%clk 0:00:15]} 56. Kd4 {[%clk 0:01:16]} 1-0
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.08"]
+[Round "3.2"]
+[White "Nepomniachtchi, Ian"]
+[Black "Fedoseev, Vladimir"]
+[Result "1/2-1/2"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "4168119"]
+[BlackFideId "24130737"]
+[WhiteElo "2935"]
+[BlackElo "2892"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:02:44"]
+[BlackClock "0:01:07"]
+[Variant "Chess960"]
+[FEN "rbnkrnbq/pppppppp/8/8/8/8/PPPPPPPP/RBNKRNBQ w EAea - 0 1"]
+[Termination "stalemate"]
+[EndDate "2025.01.08"]
+[EndTime "17:17:41"]
+
+1. e4 {[%clk 0:15:03]}  c5 {[%clk 0:13:47]} 2. g3 {[%clk 0:14:02]}  g5 {[%clk 0:13:09]} 3. e5 {[%clk 0:13:49]}  Bxe5 {[%clk 0:12:59]}
+4. c3 {[%clk 0:13:44]}  Ne6 {[%clk 0:12:09]} 5. Qxb7 {[%clk 0:12:46]}  Rb8 {[%clk 0:12:09]} 6. Qa6 {[%clk 0:11:59]}  Rxb2 {[%clk 0:11:33]}
+7. Nb3 {[%clk 0:11:40]}  c4 {[%clk 0:08:58]} 8. Qxc4 {[%clk 0:10:52]}  f5 {[%clk 0:09:00]} 9. Qd5 {[%clk 0:09:22]}  Bc7 {[%clk 0:07:51]}
+10. Bxf5 {[%clk 0:09:07]}  Nb6 {[%clk 0:07:30]} 11. Qd3 {[%clk 0:09:07]}  Qf6 {[%clk 0:07:21]} 12. f4 {[%clk 0:06:59]}  Rf8 {[%clk 0:05:46]}
+13. Bxb6 {[%clk 0:06:28]}  Bxb6 {[%clk 0:05:41]} 14. Kc1 {[%clk 0:04:53]}  Rxa2 {[%clk 0:05:11]} 15. Rxa2 {[%clk 0:04:41]}  Qxf5 {[%clk 0:05:13]}
+16. Qxf5 {[%clk 0:04:03]}  Rxf5 {[%clk 0:05:13]} 17. Ra4 {[%clk 0:03:07]}  gxf4 {[%clk 0:04:59]} 18. gxf4 {[%clk 0:02:48]}  Nxf4 {[%clk 0:04:44]}
+19. Kc2 {[%clk 0:02:36]}  Bxb3+ {[%clk 0:04:45]} 20. Kxb3 {[%clk 0:02:39]}  Nd3 {[%clk 0:04:48]} 21. Ng3 {[%clk 0:02:31]}  Rf7 {[%clk 0:02:36]}
+22. Rea1 {[%clk 0:02:27]}  Nc5+ {[%clk 0:02:37]} 23. Kc2 {[%clk 0:02:30]}  Nxa4 {[%clk 0:02:39]} 24. Rxa4 {[%clk 0:02:33]}  d5 {[%clk 0:02:36]}
+25. Rh4 {[%clk 0:02:34]}  Kd7 {[%clk 0:02:34]} 26. Ne2 {[%clk 0:02:23]}  e5 {[%clk 0:02:17]} 27. Rh6 {[%clk 0:02:20]}  e4 {[%clk 0:02:05]}
+28. Ng3 {[%clk 0:02:09]}  Bc7 {[%clk 0:02:02]} 29. c4 {[%clk 0:02:08]}  Bf4 {[%clk 0:01:30]} 30. Ra6 {[%clk 0:02:06]}  dxc4 {[%clk 0:00:41]}
+31. Rxa7+ {[%clk 0:02:06]}  Ke6 {[%clk 0:00:41]} 32. Rxf7 {[%clk 0:02:09]}  Kxf7 {[%clk 0:00:43]} 33. Nxe4 {[%clk 0:02:11]}  Bxh2 {[%clk 0:00:34]}
+34. d3 {[%clk 0:02:09]}  cxd3+ {[%clk 0:00:28]} 35. Kxd3 {[%clk 0:02:12]}  h5 {[%clk 0:00:31]} 36. Ke3 {[%clk 0:02:15]}  Kg6 {[%clk 0:00:33]}
+37. Kf3 {[%clk 0:02:17]}  Be5 {[%clk 0:00:36]} 38. Ng3 {[%clk 0:02:19]}  Bxg3 {[%clk 0:00:38]} 39. Kxg3 {[%clk 0:02:21]}  Kg5 {[%clk 0:00:41]}
+40. Kh3 {[%clk 0:02:24]}  h4 {[%clk 0:00:44]} 41. Kh2 {[%clk 0:02:26]}  Kh5 {[%clk 0:00:47]} 42. Kh3 {[%clk 0:02:29]}  Kg5 {[%clk 0:00:49]}
+43. Kh2 {[%clk 0:02:31]}  Kg4 {[%clk 0:00:52]} 44. Kg2 {[%clk 0:02:34]}  h3+ {[%clk 0:00:55]} 45. Kh2 {[%clk 0:02:36]}  Kh4 {[%clk 0:00:58]}
+46. Kh1 {[%clk 0:02:39]}  Kg3 {[%clk 0:01:01]} 47. Kg1 {[%clk 0:02:41]}  h2+ {[%clk 0:01:04]} 48. Kh1 {[%clk 0:02:44]}  Kh3 {[%clk 0:01:07]} 1/2-1/2
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.08"]
+[Round "3.2"]
+[White "Yu, Yangyi"]
+[Black "Sindarov, Javokhir"]
+[Result "1/2-1/2"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "8603820"]
+[BlackFideId "14205483"]
+[WhiteElo "1500"]
+[BlackElo "1845"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:00:06"]
+[BlackClock "0:00:47"]
+[Variant "Chess960"]
+[FEN "rbnkrnbq/pppppppp/8/8/8/8/PPPPPPPP/RBNKRNBQ w EAea - 0 1"]
+[Termination "repetition"]
+[EndDate "2025.01.08"]
+[EndTime "17:19:07"]
+
+1. c3 {[%clk 0:15:00]}  e5 {[%clk 0:14:31]} 2. g3 {[%clk 0:14:43]}  c6 {[%clk 0:14:28]} 3. e4 {[%clk 0:14:42]}  Nb6 {[%clk 0:14:14]}
+4. Ne3 {[%clk 0:14:43]}  Bc7 {[%clk 0:13:59]} 5. a4 {[%clk 0:14:31]}  a5 {[%clk 0:13:38]} 6. Bc2 {[%clk 0:12:20]}  Ne6 {[%clk 0:12:54]}
+7. Nb3 {[%clk 0:11:17]}  g6 {[%clk 0:12:24]} 8. f3 {[%clk 0:09:54]}  Qg7 {[%clk 0:11:47]} 9. Bf2 {[%clk 0:09:22]}  f6 {[%clk 0:10:51]}
+10. d4 {[%clk 0:09:14]}  exd4 {[%clk 0:07:28]} 11. cxd4 {[%clk 0:08:32]}  f5 {[%clk 0:07:01]} 12. d5 {[%clk 0:07:38]}  Nd4 {[%clk 0:05:45]}
+13. O-O-O {[%clk 0:07:17]}  Nxc2 {[%clk 0:04:55]} 14. Nxc2 {[%clk 0:07:16]}  fxe4 {[%clk 0:04:57]} 15. fxe4 {[%clk 0:06:25]}  cxd5 {[%clk 0:04:22]}
+16. exd5 {[%clk 0:05:12]}  Rxe1 {[%clk 0:04:22]} 17. Qxe1 {[%clk 0:05:15]}  Nxd5 {[%clk 0:04:22]} 18. Bd4 {[%clk 0:05:12]}  Qe7 {[%clk 0:04:23]}
+19. Qd2 {[%clk 0:04:55]}  b6 {[%clk 0:03:47]} 20. Re1 {[%clk 0:04:09]}  Qf8 {[%clk 0:03:49]} 21. Qe2 {[%clk 0:03:08]}  Kc8 {[%clk 0:01:57]}
+22. Qb5 {[%clk 0:02:15]}  Nb4 {[%clk 0:01:20]} 23. Nxb4 {[%clk 0:01:37]}  axb4 {[%clk 0:01:20]} 24. Re3 {[%clk 0:01:40]}  Bxb3 {[%clk 0:00:54]}
+25. Rxb3 {[%clk 0:01:42]}  Ra5 {[%clk 0:00:55]} 26. Qxb4 {[%clk 0:01:33]}  Qf1+ {[%clk 0:00:36]} 27. Kc2 {[%clk 0:01:32]}  Qe2+ {[%clk 0:00:37]}
+28. Qd2 {[%clk 0:00:57]}  Qe4+ {[%clk 0:00:36]} 29. Qd3 {[%clk 0:00:56]}  Qg2+ {[%clk 0:00:38]} 30. Qd2 {[%clk 0:00:39]}  Qe4+ {[%clk 0:00:40]}
+31. Qd3 {[%clk 0:00:29]}  Qg2+ {[%clk 0:00:43]} 32. Kb1 {[%clk 0:00:13]}  Qh1+ {[%clk 0:00:45]} 33. Kc2 {[%clk 0:00:06]}  Qg2+ {[%clk 0:00:47]} 1/2-1/2
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.08"]
+[Round "4.1"]
+[White "Sindarov, Javokhir"]
+[Black "Fedoseev, Vladimir"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "14205483"]
+[BlackFideId "24130737"]
+[WhiteElo "1845"]
+[BlackElo "2892"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:06:17"]
+[BlackClock "0:03:18"]
+[Variant "Chess960"]
+[FEN "bnrnkrqb/pppppppp/8/8/8/8/PPPPPPPP/BNRNKRQB w FCfc - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.01.08"]
+[EndTime "18:32:55"]
+
+1. g3 {[%clk 0:14:52]}  f5 {[%clk 0:14:47]} 2. c4 {[%clk 0:14:41]}  c5 {[%clk 0:14:40]} 3. b3 {[%clk 0:13:50]}  Nbc6 {[%clk 0:14:34]}
+4. f4 {[%clk 0:13:30]}  b6 {[%clk 0:14:34]} 5. Nf2 {[%clk 0:12:27]}  g6 {[%clk 0:14:30]} 6. Nc3 {[%clk 0:12:04]}  Bf6 {[%clk 0:14:17]}
+7. Bf3 {[%clk 0:11:42]}  Ne6 {[%clk 0:13:55]} 8. e3 {[%clk 0:11:12]}  Nc7 {[%clk 0:13:45]} 9. Qg2 {[%clk 0:10:55]}  g5 {[%clk 0:12:43]}
+10. fxg5 {[%clk 0:10:05]}  Qxg5 {[%clk 0:12:43]} 11. O-O {[%clk 0:09:57]}  Qh6 {[%clk 0:12:04]} 12. a3 {[%clk 0:09:26]}  e6 {[%clk 0:11:27]}
+13. b4 {[%clk 0:08:59]}  O-O {[%clk 0:11:02]} 14. bxc5 {[%clk 0:08:38]}  bxc5 {[%clk 0:10:42]} 15. g4 {[%clk 0:08:09]}  Kh8 {[%clk 0:10:20]}
+16. g5 {[%clk 0:07:48]}  Bxg5 {[%clk 0:08:42]} 17. Nce4+ {[%clk 0:07:49]}  Bf6 {[%clk 0:08:28]} 18. Nxf6 {[%clk 0:07:50]}  e5 {[%clk 0:07:17]}
+19. Nxd7 {[%clk 0:06:28]}  Rg8 {[%clk 0:07:12]} 20. Ng4 {[%clk 0:06:28]}  Rxg4 {[%clk 0:05:30]} 21. Bxg4 {[%clk 0:06:29]}  Nd4 {[%clk 0:04:07]}
+22. Qg3 {[%clk 0:06:30]}  Rg8 {[%clk 0:03:54]} 23. Qxe5+ {[%clk 0:06:23]}  Rg7 {[%clk 0:03:54]} 24. Bxd4 {[%clk 0:06:14]}  cxd4 {[%clk 0:03:46]}
+25. Rxf5 {[%clk 0:06:17]}  Ne6 {[%clk 0:03:18]} 26. Rcf1 {[%clk 0:06:17]} 1-0
+
+[Event "2025 Freestyle Chess Grand Slam Weissenhaus Play In Ko"]
+[Site "Chess.com"]
+[Date "2025.01.08"]
+[Round "4.2"]
+[White "Fedoseev, Vladimir"]
+[Black "Sindarov, Javokhir"]
+[Result "1-0"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "24130737"]
+[BlackFideId "14205483"]
+[WhiteElo "2892"]
+[BlackElo "1845"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteClock "0:07:37"]
+[BlackClock "0:00:08"]
+[Variant "Chess960"]
+[FEN "rkbqnrnb/pppppppp/8/8/8/8/PPPPPPPP/RKBQNRNB w FAfa - 0 1"]
+[Termination "resigned"]
+[EndDate "2025.01.08"]
+[EndTime "19:06:33"]
+
+1. e4 {[%clk 0:14:56]}  e5 {[%clk 0:13:54]} 2. g3 {[%clk 0:14:54]}  d6 {[%clk 0:13:43]} 3. d4 {[%clk 0:14:38]}  exd4 {[%clk 0:11:23]}
+4. Qxd4 {[%clk 0:14:38]}  Ne7 {[%clk 0:11:23]} 5. f4 {[%clk 0:14:04]}  g6 {[%clk 0:10:36]} 6. Qd3 {[%clk 0:13:00]}  f5 {[%clk 0:08:58]}
+7. Bd2 {[%clk 0:12:14]}  Nf6 {[%clk 0:08:29]} 8. exf5 {[%clk 0:12:14]}  Bxf5 {[%clk 0:08:24]} 9. Qb3 {[%clk 0:12:15]}  Be4 {[%clk 0:08:03]}
+10. Ngf3 {[%clk 0:12:10]}  Qd7 {[%clk 0:06:58]} 11. Nd3 {[%clk 0:11:59]}  O-O-O {[%clk 0:06:23]} 12. O-O-O {[%clk 0:11:57]}  Rde8 {[%clk 0:05:49]}
+13. Bc3 {[%clk 0:11:11]}  Bd5 {[%clk 0:02:31]} 14. Qa3 {[%clk 0:11:11]}  Nc6 {[%clk 0:02:31]} 15. Bxf6 {[%clk 0:09:23]}  Bxf6 {[%clk 0:02:29]}
+16. Nfe5 {[%clk 0:09:15]}  Bxe5 {[%clk 0:01:24]} 17. Nxe5 {[%clk 0:08:04]}  dxe5 {[%clk 0:01:25]} 18. Rxd5 {[%clk 0:08:04]}  Qe7 {[%clk 0:01:17]}
+19. Rc5 {[%clk 0:07:57]}  exf4 {[%clk 0:01:16]} 20. Bxc6 {[%clk 0:07:57]}  bxc6 {[%clk 0:01:18]} 21. Qa6+ {[%clk 0:07:59]}  Kb8 {[%clk 0:01:16]}
+22. Rc3 {[%clk 0:08:01]}  Rf5 {[%clk 0:00:40]} 23. a4 {[%clk 0:07:42]}  fxg3 {[%clk 0:00:07]} 24. Rb3+ {[%clk 0:07:37]}  Rb5 {[%clk 0:00:08]}
+25. axb5 {[%clk 0:07:37]} 1-0
+

@@ -1,0 +1,7 @@
+run,format,coding,n_chess960,n_standard,interaction_coefficient,ci_lower,ci_upper,p_value,note
+classical,classical,fractional_score,1274,3933,-0.0005049657235902759,-0.0011082226293938574,9.829118221330556e-05,0.1008765662587312,no significant difference in predictability between formats
+classical,classical,white_win,1274,3933,0.0005413501351744076,-0.00039380041881831567,0.0014765006891671309,0.2565407345863746,no significant difference in predictability between formats
+classical,classical,decisive_only,941,1955,0.0014912842954252444,0.0002631450082650104,0.0027194235825854784,0.017316769738492166,Chess960 is significantly less predictable by rating gap (classical)
+rapid,rapid,fractional_score,2153,6772,0.0006885402683517932,0.000138466683547967,0.0012386138531556195,0.01415389217005969,Chess960 is significantly less predictable by rating gap (rapid)
+rapid,rapid,white_win,2153,6772,0.0010741302193475555,0.0004511595043076203,0.0016971009343874906,0.0007264876446027024,Chess960 is significantly less predictable by rating gap (rapid)
+rapid,rapid,decisive_only,1745,4777,0.001719024297441751,0.0010055093059649362,0.0024325392889185653,2.335239312589721e-06,Chess960 is significantly less predictable by rating gap (rapid)

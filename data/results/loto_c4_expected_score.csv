@@ -1,0 +1,3 @@
+run,format,baseline_coef,baseline_p,min_coef,min_coef_excluding,max_coef,max_coef_excluding,min_p,min_p_excluding,max_p,max_p_excluding,n_exclusions,significance_ever_flips
+classical,classical,-0.0005049657235902759,0.1008765662587312,-0.0007126371083968788,25th ch-EUR Indiv 2025,-0.0003833926104785315,lichess_Grenke-chess-festival-2026-freestyle-open_2026.04.06.pgn,0.03615562729801658,25th ch-EUR Indiv 2025,0.32232362772075396,lichess_Grenke-chess-festival-2026-freestyle-open_2026.04.06.pgn,30,True
+rapid,rapid,0.0006885402683517932,0.01415389217005969,0.0004464084069174877,LasVegasPlayinSwiss_10+2.pgn,0.000854420277748644,WeissenhausPlayinSwiss_10+2.pgn,0.004288705863817688,World Rapid 2025 - Open 31,0.16671718362188082,LasVegasPlayinSwiss_10+2.pgn,80,True

@@ -1,0 +1,5 @@
+format,corpus,largest_event,largest_event_n,corpus_n,share_pct
+classical,freestyle,lichess_Grenke-chess-festival-2026-freestyle-open_2026.04.06.pgn,46,134,34.32835820895522
+classical,standard,FIDE Grand Swiss 2025,466,2103,22.15882073228721
+rapid,freestyle,WeissenhausPlayinSwiss_10+2.pgn,171,924,18.506493506493506
+rapid,standard,FIDE World Rapid Team - Matches 1-10,221,1881,11.749069643806486

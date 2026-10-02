@@ -1,0 +1,37 @@
+cell,baseline,min,min_excluding,max,max_excluding,n_exclusions
+H1a freestyle/classical/2000 to 2099,29.376027676027675,27.685567765567765,lichess_Grenke-chess-festival-2025-freestyle-chess_2025.pgn,31.440317460317456,lichess_Grenke-chess-festival-2026-freestyle-open_2026.04.06.pgn,3
+H1a freestyle/classical/2100 to 2199,30.136088741190783,30.096480854445456,Biel960Swiss.pgn,30.2026931164074,lichess_Grenke-chess-festival-2026-freestyle-open_2026.04.06.pgn,3
+H1a freestyle/classical/2200 to 2299,24.44044310031705,23.48013136288998,lichess_Grenke-chess-festival-2026-freestyle-open_2026.04.06.pgn,25.24952185219361,lichess_Grenke-chess-festival-2025-freestyle-chess_2025.pgn,3
+H1a freestyle/classical/2300 to 2399,23.691709905081996,22.9441192680776,lichess_Grenke-chess-festival-2025-freestyle-chess_2025.pgn,24.641587784643338,lichess_Grenke-chess-festival-2026-freestyle-open_2026.04.06.pgn,3
+H1a freestyle/classical/2400 to 2499,20.994209017142087,20.670620059764797,lichess_Grenke-chess-festival-2025-freestyle-chess_2025.pgn,21.476420012449424,lichess_Grenke-chess-festival-2026-freestyle-open_2026.04.06.pgn,2
+H1a freestyle/classical/2500 to 2599,16.73493359747597,16.50736857039674,lichess_Grenke-chess-festival-2025-freestyle-chess_2025.pgn,16.94613774025539,lichess_Grenke-chess-festival-2026-freestyle-open_2026.04.06.pgn,2
+H1a freestyle/classical/2600 to 2699,16.153447215177987,16.08061070582079,lichess_Grenke-chess-festival-2026-freestyle-open_2026.04.06.pgn,16.267493854829382,lichess_Grenke-chess-festival-2025-freestyle-chess_2025.pgn,2
+H1a freestyle/classical/2700 to 2799,13.256485917537747,12.910426789763525,weissenhausKO.pgn,13.628091852854885,lichess_Grenke-chess-festival-2026-freestyle-open_2026.04.06.pgn,4
+H1a freestyle/classical/2800+,11.133928571428571,10.975555555555555,weissenhausKO.pgn,11.286446886446889,lichess_Grenke-chess-festival-2025-freestyle-chess_2025.pgn,4
+H1a freestyle/rapid/2000 to 2099,44.0831670299021,42.70107728348469,lichess_broadcast_6-internationales-schach960-festival_meLZLdUf_2025.03.30.pgn,45.335040861563705,ParisPlayinSwiss_10+2.pgn,5
+H1a freestyle/rapid/2100 to 2199,39.21074542741209,38.09259405681207,WeissenhausPlayinSwiss_10+2.pgn,40.10280452715397,LasVegasPlayinSwiss_10+2.pgn,5
+H1a freestyle/rapid/2200 to 2299,34.30242358216496,32.73101227912549,WeissenhausPlayinSwiss_10+2.pgn,35.39064768988433,LasVegasPlayinSwiss_10+2.pgn,5
+H1a freestyle/rapid/2300 to 2399,33.49905358958223,32.04588744588744,WeissenhausPlayinSwiss_10+2.pgn,34.29576151918257,LasVegasPlayinSwiss_10+2.pgn,5
+H1a freestyle/rapid/2400 to 2499,29.51441816897699,28.174840227112952,WeissenhausPlayinSwiss_10+2.pgn,30.183098500212235,lichess_broadcast_6-internationales-schach960-festival_meLZLdUf_2025.03.30.pgn,9
+H1a freestyle/rapid/2500 to 2599,24.969115973799813,24.16818478132037,2026-fide-freestyle-chess-world-championship-play-in-swiss.pgn,25.265856677838926,ParisPlayinSwiss_10+2.pgn,12
+H1a freestyle/rapid/2600 to 2699,23.23891316846696,22.37994534938576,2026-fide-freestyle-chess-world-championship-play-in-swiss.pgn,23.490635747873423,WeissenhausRR.pgn,34
+H1a freestyle/rapid/2700 to 2799,20.34033813282447,19.8636896354587,ParisFreestyleRR_10+05.pgn,20.616432486973284,CapeTownKO_30+15.pgn,35
+H1a freestyle/rapid/2800+,17.830845771144276,17.34126984126984,FideFreestyleWC2026RR_10+5.pgn,18.45857898715041,FideFreestyleWC2026SF_25+10.pgn,13
+H1a standard/classical/2000 to 2099,13.970499419279907,12.570000000000002,36th Cracovia Open A,14.225353925353925,FIDE World Cup 2025 - Classical,4
+H1a standard/classical/2100 to 2199,12.45989670153893,12.248717948717948,36th Cracovia Open A,12.560487102952855,25th ch-EUR Indiv 2025,4
+H1a standard/classical/2200 to 2299,10.464309958588956,10.324039251551214,FIDE Grand Swiss 2025,10.81582712963466,36th Cracovia Open A,5
+H1a standard/classical/2300 to 2399,9.706552344669348,9.409844095298642,36th Cracovia Open A,10.101271390875352,25th ch-EUR Indiv 2025,5
+H1a standard/classical/2400 to 2499,8.457324310531035,8.121237513471556,Serbia Open 2025 Masters,8.720446117029969,25th ch-EUR Indiv 2025,9
+H1a standard/classical/2500 to 2599,6.972277309501168,6.71647793830535,25th ch-EUR Indiv 2025,7.083473325728645,FIDE Grand Swiss 2025,15
+H1a standard/classical/2600 to 2699,6.015445303666016,5.921571339654344,25th ch-EUR Indiv 2025,6.071603770747896,FIDE World Cup 2025 - Classical,24
+H1a standard/classical/2700 to 2799,5.677658946110189,5.600787502313443,2nd UzChess Cup Masters,5.763381393447473,FIDE World Cup 2025 - Classical,16
+H1a standard/classical/2800+,4.965527950310559,4.2664285714285715,87th Tata Steel Masters,5.503296703296704,13th Norway Chess 2025,2
+H1a standard/rapid/2000 to 2099,15.836408516198237,15.531388280001226,European Rapid 2025,16.114755893416984,World Rapid Women 2025,21
+H1a standard/rapid/2100 to 2199,14.508750706123319,14.21517344541647,European Rapid 2025,15.069697118921525,World Rapid Women 2025,24
+H1a standard/rapid/2200 to 2299,12.862957191247956,12.72602258372818,European Rapid 2025,12.988742303224116,FIDE World Rapid Team - Matches 1-10,25
+H1a standard/rapid/2300 to 2399,11.329060412691366,11.155826032097218,European Rapid 2025,11.452961492876867,FIDE World Rapid Team - Matches 1-10,35
+H1a standard/rapid/2400 to 2499,10.377775830825067,10.24173280629169,FIDE World Rapid Team - Matches 11,10.497377792990576,FIDE World Rapid Team - Matches 1-10,33
+H1a standard/rapid/2500 to 2599,9.029040219595537,8.894602293208811,European Rapid 2025,9.167574474369776,World Rapid 2025 - Open 1-30,34
+H1a standard/rapid/2600 to 2699,8.073405574642777,8.004244735021802,FIDE World Rapid Team - Matches 11,8.18979351401382,FIDE World Rapid Team - Matches 1-10,29
+H1a standard/rapid/2700 to 2799,7.002239414625778,6.908512972149336,FIDE World Cup 2025 - Rapid (Tiebreak 1),7.106735516335517,TechM GCL 2025,19
+H1a standard/rapid/2800+,6.867757936507936,6.592619047619047,FIDE World Rapid Team - Matches 1-10,7.131501831501832,SuperUnited CRO Rapid 2025,4

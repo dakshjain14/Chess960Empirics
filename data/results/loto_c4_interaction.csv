@@ -1,0 +1,5 @@
+cell,baseline,min,min_excluding,max,max_excluding,n_exclusions
+C4-interaction classical coefficient,0.0005467472738206032,0.0002524183713001993,25th ch-EUR Indiv 2025,0.0009702679179442832,36th Cracovia Open A,30
+C4-interaction classical p-value,0.23693341121760414,0.048432557311528596,36th Cracovia Open A,0.6301506038645716,25th ch-EUR Indiv 2025,30
+C4-interaction rapid coefficient,0.0010714604899335284,0.0007424940485059068,LasVegasPlayinSwiss_10+2.pgn,0.0012456427805488236,World Rapid 2025 - Open 31,80
+C4-interaction rapid p-value,0.0003022023496778212,4.6726487606113573e-05,World Rapid 2025 - Open 31,0.023375284780184073,LasVegasPlayinSwiss_10+2.pgn,80

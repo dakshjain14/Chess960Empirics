@@ -1,0 +1,5 @@
+format,corpus,mean_avg_rating,median_avg_rating
+classical,freestyle,2671.1641791044776,2692.25
+classical,standard,2584.7567760342367,2633.5
+rapid,freestyle,2543.0849567099567,2594.25
+rapid,standard,2493.1653375863903,2502.0

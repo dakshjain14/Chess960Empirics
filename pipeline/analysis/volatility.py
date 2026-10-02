@@ -108,6 +108,62 @@ def game_eval_trace(game: chess.pgn.Game) -> list[float] | None:
     return evals if len(evals) == N_PLIES else None
 
 
+def cpl100_opening_counts(per_move_path: "str | None" = None) -> pd.DataFrame:
+    """Chess960-vs-standard ratio of moves with CPL>=100 in the opening
+    window (moves 1-15), computed from the tracked per_move_data.parquet
+    alone -- a --from-tracked-compatible companion to build_game_table()'s
+    full in-game-swings analysis above, which re-parses the raw
+    engine-eval'd PGNs directly and so can't run without
+    Updated_engine_eval/ on disk.
+
+    Counts are per game (summed over both sides' first 15 moves), averaged
+    per (corpus, format). cpl is already capped and null only where no
+    [%eval] pair exists for that move, so no extra coverage filter is
+    applied here (a game with partial eval coverage still contributes over
+    whatever moves have one) -- unlike build_game_table()'s N_PLIES-exact
+    restriction, so this function's point estimates are close to but not
+    identical to ingame_swings.csv's CPL>=100 figures.
+
+    Writes cpl100_opening_tracked.csv: one row per format, with each
+    corpus's mean count per game and the Chess960/standard ratio.
+    """
+    from pipeline.config import OPENING_WINDOW_MOVES, PROCESSED_DIR, RESULTS_DIR
+
+    path = per_move_path or (PROCESSED_DIR / "per_move_data.parquet")
+    pm = pd.read_parquet(path, columns=["game_id", "corpus", "format", "move_number", "cpl"])
+    opening = pm[pm["move_number"] <= OPENING_WINDOW_MOVES].copy()
+    opening["cpl100"] = opening["cpl"] >= SWING_THRESHOLD_CP
+    per_game = opening.groupby(["game_id", "corpus", "format"])["cpl100"].sum().reset_index()
+    summary = (
+        per_game.groupby(["corpus", "format"])["cpl100"]
+        .agg(mean_cpl100_per_game="mean", n_games="count")
+        .reset_index()
+    )
+
+    rows = []
+    for fmt in FORMATS:
+        fs = summary[(summary.corpus == "freestyle") & (summary.format == fmt)]
+        std = summary[(summary.corpus == "standard") & (summary.format == fmt)]
+        fs_val = float(fs["mean_cpl100_per_game"].iloc[0]) if len(fs) else float("nan")
+        std_val = float(std["mean_cpl100_per_game"].iloc[0]) if len(std) else float("nan")
+        rows.append({
+            "format": fmt,
+            "chess960_mean_cpl100_per_game": fs_val,
+            "standard_mean_cpl100_per_game": std_val,
+            "chess960_n_games": int(fs["n_games"].iloc[0]) if len(fs) else 0,
+            "standard_n_games": int(std["n_games"].iloc[0]) if len(std) else 0,
+            "ratio_chess960_over_standard": fs_val / std_val if std_val else float("nan"),
+        })
+    out = pd.DataFrame(rows)
+
+    RESULTS_DIR.mkdir(parents=True, exist_ok=True)
+    out_path = RESULTS_DIR / "cpl100_opening_tracked.csv"
+    out.to_csv(out_path, index=False)
+    print(out.round(4).to_string(index=False))
+    print(f"\n[volatility] wrote {out_path.name} ({len(out)} rows)")
+    return out
+
+
 def build_game_table() -> pd.DataFrame:
     manifest_df = load_manifest(FREESTYLE_MANIFEST_PATH, STANDARD_MANIFEST_PATH, observations_log=None)
     rows = []
@@ -345,4 +401,17 @@ def outcome_volatility(n_iterations: int = N_BOOT, seed: int = DEFAULT_SEED) -> 
 
 
 if __name__ == "__main__":
-    main()
+    import argparse
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--from-tracked", action="store_true",
+        help="Only run cpl100_opening_counts() (reads per_move_data.parquet); skips the "
+             "in-game-swings/outcome-volatility analysis above, which needs "
+             "Updated_engine_eval/ on disk.",
+    )
+    args = parser.parse_args()
+    if args.from_tracked:
+        cpl100_opening_counts()
+    else:
+        main()

@@ -62,7 +62,8 @@ else
 fi
 PYTHONPATH=. $PY pipeline/analysis/c3_close_game_drawrate.py   # -> c3 close-game draw-rate results CSVs
 if [ "$FROM_TRACKED" = "1" ]; then
-    skip "volatility.py" "data/processed/Updated_engine_eval/ (in-game swings re-parse the raw engine-annotated PGNs directly; this also skips outcome_volatility.csv, since main() builds the swing table first)"
+    skip "volatility.py's in-game swings / outcome volatility" "data/processed/Updated_engine_eval/ (re-parses the raw engine-annotated PGNs directly); running volatility.py --from-tracked instead for the CPL>=100 opening-error ratio"
+    PYTHONPATH=. $PY pipeline/analysis/volatility.py --from-tracked # -> cpl100_opening_tracked.csv (reads per_move_data.parquet only)
 else
     PYTHONPATH=. $PY pipeline/analysis/volatility.py                # [needs Updated_engine_eval/ and the freestyle/standard
                                                                       # scalars parquet just written above] -> ingame_swings.csv, outcome_volatility.csv
@@ -81,12 +82,9 @@ PYTHONPATH=. $PY pipeline/analysis/loto_c4_expected_score.py    # -> loto_c4_exp
 PYTHONPATH=. $PY pipeline/analysis/matching.py                  # -> matching_{covariate_balance,ipw_h1a_shift,ipw_gradient}.csv
 PYTHONPATH=. $PY pipeline/analysis/ply_by_ply.py                # -> ply_by_ply_{curve,summary}.csv
 PYTHONPATH=. $PY pipeline/analysis/coverage_sensitivity.py      # -> h1b_coverage_by_corpus_format.csv, h1b_complete_case_sensitivity.csv
-if [ "$FROM_TRACKED" = "1" ]; then
-    skip "player_overlap.py" "data/processed/Updated_engine_eval/ (FIDE IDs are read from the engine-eval'd PGNs, not from any tracked Parquet)"
-else
-    PYTHONPATH=. $PY pipeline/analysis/player_overlap.py            # [needs Updated_engine_eval/] (FIDE IDs read from engine-eval'd
-                                                                      # PGNs) -> player_overlap_counts.csv, player_paired_comparison_{classical,rapid,stats}.csv
-fi
+PYTHONPATH=. $PY pipeline/analysis/player_overlap.py            # FIDE IDs read from Updated_engine_eval/ if present, else falls
+                                                                  # back to the tracked raw PGNs in data/games/ -> player_overlap_counts.csv,
+                                                                  # player_paired_comparison_{classical,rapid,stats}.csv
 
 # --- Paper figures (22-23) ---
 PYTHONPATH=. $PY figure_scripts/fig1_gradient.py                 # -> fig1_gradient.png

@@ -106,5 +106,9 @@ Freestyle PGNs carry inconsistent ratings (chess.com, organizer "Freestyle" rati
 
 Both scripts patch rating tags as plain text rather than re-exporting the PGN (a strict parser can damage some Chess960 movetext), and write to `data/processed/Updated_Ratings/`; `data/games/` is never modified.
 
+### Within-player identity (`pipeline/analysis/player_overlap.py`)
+
+The within-player paired comparison (same player, both corpora) identifies players by FIDE ID. It reads `WhiteFideId`/`BlackFideId` tags from `data/processed/Updated_engine_eval/` when that tree is present; if it isn't (e.g. a fresh clone with no Stockfish run), it falls back to the same tags in the tracked raw PGNs under `data/games/`, since rating/time/engine annotation never reorders, adds, or drops games — the two sources give the same per-game FIDE-ID map except for the handful of Standard games whose FideId comes only from `standard_rating_backfill.py`'s manual-candidates step above (those are absent from the raw PGN itself). This has no effect on the published within-player result: both sources give the same 76 classical / 130 rapid overlapping players and identical mean differences.
+
 
 

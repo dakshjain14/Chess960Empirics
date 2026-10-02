@@ -33,15 +33,12 @@ python3.12 -m venv .venv-pipeline
 
 This reruns every analysis that works from the files in this repository:
 
-- **Claims 1–2:** opening accuracy (H1a), opening time (H1b), within-band variance (C2), the rating–accuracy gradient, band-level tests, and the ply-by-ply, clock-coverage, matching and IPW checks
+- **Claims 1–2:** opening accuracy (H1a), opening time (H1b), within-band variance (C2), the rating–accuracy gradient, band-level tests, the CPL≥100 opening-error ratio, the within-player comparison (`player_overlap.py`, falling back to FideId tags in the tracked raw PGNs), and the ply-by-ply, clock-coverage, matching and IPW checks
 - **Claim 3:** close-game draw rates and leave-one-tournament-out
 - **Claim 4:** close-game outcome models, outcome shares by rating gap, and leave-one-tournament-out
 - **Both figures**
 
-Two analyses need `data/processed/Updated_engine_eval/`, which is not in this repository, and are skipped with a message:
-
-- in-game swings and outcome volatility (`volatility.py`)
-- the within-player comparison (`player_overlap.py`)
+One analysis needs `data/processed/Updated_engine_eval/` (not in this repository) and is skipped with a message: the in-game swings, lead changes and outcome-volatility ratio in `volatility.py`. Its opening-error counts (CPL ≥ 100) still run, from `data/processed/per_move_data.parquet`.
 
 ### Full run
 
@@ -49,7 +46,7 @@ Two analyses need `data/processed/Updated_engine_eval/`, which is not in this re
 ./run_all.sh
 ```
 
-Reruns everything, including the two analyses above, once `Updated_engine_eval/` is available. `run_all.sh` defines every step in order and stops at the first failure; its comments say what each step produces and which steps need files not in this repository.
+Reruns everything, including the in-game swings and outcome-volatility analysis, once `Updated_engine_eval/` is available. `run_all.sh` defines every step in order and stops at the first failure; its comments say what each step produces and which steps need files not in this repository.
 
 Rebuilding the intermediate files from the raw PGNs also needs:
 

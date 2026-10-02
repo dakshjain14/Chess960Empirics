@@ -9,6 +9,12 @@ opening-ACPL/OTR finding.
 FIDE IDs are read from Updated_engine_eval/ — the same tree Stage 1 reads to
 build game_features.parquet — so the join on (corpus, format, game_id, side)
 holds by construction, not just by both trees happening to stay in lock-step.
+When that tree isn't on disk (e.g. a fresh clone with no Stockfish run),
+main() falls back to build_fide_id_map_from_raw_pgns(), which reads the same
+FideId tags from the tracked raw PGNs in data/games/ instead — safe because
+rating/time/engine annotation never reorders or drops games, so the same
+per-event positional game_id lines up with game_features.parquet's either
+way (see that function's docstring for the one caveat).
 
 For every FIDE ID with >= min_games rows in both corpora, runs a Wilcoxon
 signed-rank test on that player's paired per-player mean opening_acpl/otr
@@ -17,11 +23,22 @@ signed-rank test on that player's paired per-player mean opening_acpl/otr
 
 from __future__ import annotations
 
+from pathlib import Path
+
+import chess.pgn
 import numpy as np
 import pandas as pd
 from scipy import stats
 
-from pipeline.config import CORPORA, FORMATS, FREESTYLE_MANIFEST_PATH, PROCESSED_DIR, RESULTS_DIR, STANDARD_MANIFEST_PATH
+from pipeline.config import (
+    CORPORA,
+    FORMATS,
+    FREESTYLE_MANIFEST_PATH,
+    PROCESSED_DIR,
+    RESULTS_DIR,
+    STANDARD_MANIFEST_PATH,
+    UPDATED_ENGINE_EVAL_DIR,
+)
 from pipeline.ingest import manifest_loader
 
 GAME_FEATURES_PATH = PROCESSED_DIR / "game_features.parquet"
@@ -53,6 +70,49 @@ def build_fide_id_map() -> pd.DataFrame:
                         rows.append(
                             {"corpus": corpus, "format": fmt, "game_id": gid, "side": side, "fide_id": fid}
                         )
+    return pd.DataFrame(rows, columns=["corpus", "format", "game_id", "side", "fide_id"])
+
+
+def build_fide_id_map_from_raw_pgns() -> pd.DataFrame:
+    """Same output as build_fide_id_map(), but reads FideId tags directly
+    from the tracked raw PGNs in data/games/ instead of Updated_engine_eval/
+    (excluded from this repo, needs a Stockfish run to build).
+
+    Game IDs still line up with game_features.parquet's: load_corpus
+    assigns game_id positionally (f"{slug}_{idx:05d}") from iterating each
+    event's file in order, and rating/time/engine annotation only patches
+    header tags in place -- it never reorders, adds, or drops games -- so a
+    raw file and its corrected copy share the same game order and count.
+
+    Caveat: standard_rating_backfill.py's manual-candidates step (see
+    Data_Selection.md) patches a handful of Standard games' FideId tags
+    that the raw PGN doesn't carry. A player identifiable only through that
+    patch won't appear in this fallback's map.
+    """
+    manifest = manifest_loader.load_manifest(FREESTYLE_MANIFEST_PATH, STANDARD_MANIFEST_PATH)
+    rows = []
+    for corpus in CORPORA:
+        for fmt in FORMATS:
+            mask = (manifest["corpus"] == corpus) & (manifest["format"] == fmt)
+            for _, row in manifest.loc[mask].iterrows():
+                path = row["filepath"]
+                if not path or not Path(path).is_file():
+                    continue
+                slug = str(row["event_slug"])
+                with open(path, encoding="utf-8", errors="replace") as fh:
+                    idx = 0
+                    while True:
+                        game = chess.pgn.read_game(fh)
+                        if game is None:
+                            break
+                        gid = f"{slug}_{idx:05d}"
+                        for side, prefix in (("white", "White"), ("black", "Black")):
+                            fid = game.headers.get(f"{prefix}FideId", "").strip()
+                            if fid and fid != "0":
+                                rows.append(
+                                    {"corpus": corpus, "format": fmt, "game_id": gid, "side": side, "fide_id": fid}
+                                )
+                        idx += 1
     return pd.DataFrame(rows, columns=["corpus", "format", "game_id", "side", "fide_id"])
 
 
@@ -123,7 +183,12 @@ def wilcoxon_on_paired(paired: pd.DataFrame, metric: str) -> dict:
 
 
 def main(min_games: int = 5) -> dict[str, pd.DataFrame]:
-    fide_df = build_fide_id_map()
+    if UPDATED_ENGINE_EVAL_DIR.exists() and any(UPDATED_ENGINE_EVAL_DIR.rglob("*.pgn")):
+        fide_df = build_fide_id_map()
+    else:
+        print("[player_overlap] Updated_engine_eval/ not found -- falling back to FideId "
+              "tags read from the tracked raw PGNs in data/games/")
+        fide_df = build_fide_id_map_from_raw_pgns()
     game_features = pd.read_parquet(GAME_FEATURES_PATH)
 
     counts = overlap_counts(fide_df, min_games)

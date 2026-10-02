@@ -77,8 +77,7 @@ repo:**
   event pages, one Lichess broadcast, one tournament's own site
   (`freestyle-chess.com`) — compiled by hand from those pages.
 - **FIDE ID, `Month_for_rating`, `Rating_Type`, `Fide_Rating`, `Base Rating
-  Type`.** All five columns are filled in by `Backup/tests/q18_fide_id_lookup.py`
-  (gitignored, not part of the public repo): FIDE ID via each player's
+  Type`.** All five columns are filled in from FIDE ID via each player's
   chess.com profile page's linked `ratings.fide.com/profile/<id>` link (for
   rosters that don't already carry it), `Fide_Rating` via a lookup against
   that row's `(Rating_Type, Month_for_rating)` FIDE monthly list

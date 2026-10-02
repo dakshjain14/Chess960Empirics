@@ -1,5 +1,5 @@
 """twic_event_stats.py — recomputes twic_event_classification.xlsx's
-per-event stats directly from TWIC's PGN archive (Backup/TWIC/*.pgn, not
+per-event stats directly from TWIC's PGN archive (path/to/twic/*.pgn, not
 tracked in this repo). See Data_Selection.md's "Source" and "Median-max
 rating rule" sections.
 
@@ -13,7 +13,7 @@ from the PGN alone.
 
 Run:
     PYTHONPATH=. .venv-pipeline/bin/python pipeline/ingest/twic_event_stats.py \\
-        --twic-dir Backup/TWIC --out data/games/twic_event_classification.xlsx
+        --twic-dir path/to/twic/ --out data/games/twic_event_classification.xlsx
 """
 from __future__ import annotations
 

@@ -69,25 +69,25 @@ project's manifests (`Classical`/`Rapid`), not FIDE's own filename prefix
 ## Provenance of `Playing_lists_with_Fide_id/` and `Playing_lists_with_Rating/`
 
 **The roster itself is manually compiled; the FIDE ID and rating columns
-on top of it are scripted, by an archived script not part of the public
-repo:**
+on top of it are scripted:**
 
 - **Roster (player names).** Each CSV's header cites a specific source URL
   — mostly tournament pages on **chess-results.com**, some on chess.com
   event pages, one Lichess broadcast, one tournament's own site
   (`freestyle-chess.com`) — compiled by hand from those pages.
 - **FIDE ID, `Month_for_rating`, `Rating_Type`, `Fide_Rating`, `Base Rating
-  Type`.** All five columns are filled in from FIDE ID via each player's
-  chess.com profile page's linked `ratings.fide.com/profile/<id>` link (for
-  rosters that don't already carry it), `Fide_Rating` via a lookup against
-  that row's `(Rating_Type, Month_for_rating)` FIDE monthly list
-  (`FIDE_Rating_by_id_month/` above), with a same-month other-type fallback.
+  Type`.** Play-in players were matched to FIDE IDs through the
+  ratings.fide.com links on their chess.com player pages (lookup script
+  not included); the matches are in `Playing_lists_with_Fide_id/`.
+  `Fide_Rating` comes from a lookup against that row's `(Rating_Type,
+  Month_for_rating)` FIDE monthly list (`FIDE_Rating_by_id_month/` above),
+  with a same-month other-type fallback.
 
 **Practical implication:** even with the FIDE monthly lists obtained per
 the instructions above, `rating_update.py` cannot be run end-to-end from
 raw source alone — it depends on these pre-compiled roster CSVs as input.
 Reproducing the CSVs themselves needs both the manual roster-scrape step
-and a rerun of the archived lookup script above; a newly-added Freestyle
+and the FIDE ID lookup above (its script is not included); a newly-added Freestyle
 event needs the same treatment before `rating_update.py` can write ratings
 into its PGN. That's exactly why these files are included in the repo
 rather than treated as regeneratable on demand.

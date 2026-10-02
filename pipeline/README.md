@@ -44,6 +44,8 @@ Both manifests are loaded and combined at startup (`manifest_loader.load_manifes
 
 **Everything, from `Updated_engine_eval/`:** `./run_all.sh`. It defines and runs every step in order and stops at the first failure; its comments say what each step produces and which steps need files not in the repository.
 
+**Reproducing from tracked files only.** `./run_all.sh --from-tracked` skips every step that needs `Updated_Time/` or `Updated_engine_eval/` (printing one line per skipped step) and runs everything else against the tracked Parquet/CSV files already in the repo — no FIDE rating lists, no Stockfish, no local rebuild. It reproduces H1a, H1b, C2 (the rating/accuracy gradient), the band-level difference/interaction tests, C3, C4/C5, and every LOTO/matching/IPW/ply-by-ply/coverage-sensitivity check and figure. It does not reproduce `volatility.py`'s in-game swings or outcome-volatility ratio, or `player_overlap.py`'s within-player paired comparison — both re-read the engine-annotated PGNs directly rather than a tracked Parquet, so they need `Updated_engine_eval/` on disk. See root `README.md`'s "Reproducing the results" section.
+
 
 **Adding or replacing one PGN.** Each stage re-derives only missing or stale files, so this is fast:
 

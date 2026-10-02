@@ -32,16 +32,18 @@ The hypothesis tests read the included Parquet files, so the headline results ca
 
 ## Data availability
 
-Included 
-`data/games/`: source PGNs, manifests for both Standard and Freestyle chess game sources, `twic_event_classification.xlsx` 
-`data/processed/`: analysis-ready Parquet files 
-`data/results/`: all result CSVs, figures and exclusion logs 
-`data/Rating_lists/`: FIDE ID matches (`Playing_lists_with_Fide_id/`, `Playing_lists_with_Rating/`,`Standard_missing_fideid_candidates.xlsx`) 
+**Included**
 
-Not included 
-Intermediate PGN trees in `data/processed/` (see `data/processed/README.md`), including `Updated_engine_eval/` 
-FIDE monthly rating lists in `data/Rating_lists/FIDE_Rating_by_id_month/Classical/` and `data/Rating_lists/FIDE_Rating_by_id_month/Rapid`
-TWIC weekly PGNs (used only for event selection; see `Data_Selection.md`) in 
+- `data/games/`: source PGNs, manifests for both Standard and Freestyle chess game sources, `twic_event_classification.xlsx`
+- `data/processed/`: analysis-ready Parquet files
+- `data/results/`: all result CSVs, figures and exclusion logs
+- `data/Rating_lists/`: FIDE ID matches (`Playing_lists_with_Fide_id/`, `Playing_lists_with_Rating/`, `Standard_missing_fideid_candidates.xlsx`)
+
+**Not included**
+
+- Intermediate PGN trees in `data/processed/` (see `data/processed/README.md`), including `Updated_engine_eval/`
+- FIDE monthly rating lists in `data/Rating_lists/FIDE_Rating_by_id_month/Classical/` and `data/Rating_lists/FIDE_Rating_by_id_month/Rapid`
+- TWIC weekly PGNs (used only for event selection; see `data/games/Data_Selection.md`)
 
 
 ## License and attribution

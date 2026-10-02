@@ -26,7 +26,7 @@ def test_cli_requires_corpus_format_even_with_only_one_given(capsys):
 # two independently-built pipelines over the same underlying corpus, and
 # should cover exactly the same games. A mismatch in either direction means
 # the two paths disagree about which raw games exist in the corpus -- the
-# class of bug this test catches (see A1).
+# class of bug this test catches.
 
 
 _SCALARS_PATHS = [PROCESSED_DIR / f"{corpus}_{fmt}_scalars.parquet" for corpus in CORPORA for fmt in FORMATS]

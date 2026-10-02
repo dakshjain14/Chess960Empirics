@@ -1,7 +1,7 @@
 # data/processed/
 
 Pipeline output. Two different kinds of content, with different tracking
-status — see the root `README.md`'s "Data included in this repository"
+status — see the root `README.md`'s "Data availability"
 section for the full explanation.
 
 ## Tracked (included in this repository)
@@ -35,7 +35,7 @@ Three intermediate PGN-tree stages of the correction/annotation pipeline,
   as input and a Stockfish install.
 
 These are excluded because they're large, and each needs more than
-`data/games/` alone to regenerate — see root `README.md`'s "External
-Dependencies for Full Reproduction" section for what's needed to rebuild
+`data/games/` alone to regenerate — see root `README.md`'s "Reproducing
+the results" section for what's needed to rebuild
 them (FIDE rating-list data, a Stockfish 19 install, ~20 hours of
 engine-eval runtime).

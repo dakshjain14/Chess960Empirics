@@ -4,7 +4,7 @@ How tournaments and games were selected for the Chess960-vs-standard-chess study
 
 ## 1. Scope
 
-
+| Item | Value |
 |---|---|
 | **Period** | January 2025 – June 2026 |
 | **Time controls** | Classical and Rapid only (definitions below). Blitz and Armageddon are excluded. |
@@ -34,7 +34,7 @@ Selection uses TWIC's PGNs; while the game pgn which are analyzed for a selected
 | `Included` | Passed all rules below and ranked within the shortlist | 61 |
 | `ADDED FOR 2100-2400 REPRESENTATION` | More than 550 games with `max(WhiteElo, BlackElo)` in 2100–2399, added so that rating range is covered: 25th ch-EUR Indiv 2025 (648), Serbia Open 2025 (589), 36th Cracovia Open A (577) | 3 |
 | `Lower rank on shortlist` | Shortlist was ranked by `Median_max`, and top 22 for Classical and top 39 for Rapid | 1,087 |
-| `Excluded_low_game_count` | Fewer than 30 games (Classical) or 25 (Rapid), counted per event across its stage files | 146 |
+| `Excluded_low_game_count` | Fewer than 30 games (Classical) or 25 (Rapid), counted per event across its stage files | 146 (plus TechM GCL 3rd-4th 2025, kept as an exception; 147 below the floor in total) |
 | `Games not available with clock data` | No move-level clock data (`%clk`) available from PGN sources like lichess and chess.com| 10 |
 | `online_series` | Online event other than a Freestyle Play-in | 136 |
 | `blitz_excluded` | Blitz time control | 79 |
@@ -65,7 +65,7 @@ Freestyle Chess Grand Slam (Weissenhaus, Paris, Las Vegas, Cape Town) and its Pl
 
 ## 3. Event files
 
-- **Clock data.** Every file must carry move-level clock data (`%clk`); events without it are excluded.
+
 - **Mixed-format files** are split by tier and only the Classical and Rapid parts are kept; files that cannot be split reliably are excluded.
   - *FIDE World Cup 2025.* Each round's broadcast file mixes the classical mini-match with rapid tiebreaks. Files were split on the `BroadcastURL` tier slug: `game-1`/`game-2` → `FIDE_World_Cup_2025_Classical.pgn` (412 games); `tiebreak-1` (15+10) → `FIDE_World_Cup_2025_Rapid_tiebreak1.pgn` (158 games); `tiebreak-2` (10+10) → `FIDE_World_Cup_2025_Rapid_tiebreak2.pgn` (54 games). Each is its own manifest row.
 - **Sources.** Each manifest row's `Source` column records the platform the PGN came from. `FIDE_World_Cup_2025_Classical.pgn` and `PragueChallengers2025-Classical.pgn` are Lichess broadcasts despite their filenames.
@@ -81,6 +81,7 @@ Source files are not modified; these games are dropped during analysis.
   - `Termination = "Unplayed"` with fewer than 10 real plies. Games labelled unplayed but with ≥10 real plies are kept, since some broadcasts mislabel played games.
   - Fewer than 2 real plies, whatever the label. No legal game can end after one ply, so these are forfeits or defaults; all 29 such games are decisive or forfeit results, none drawn.
   - Games with 2–9 real plies are kept (see `_exclude_unplayed_forfeits` for the reasoning).
+  - **Clock data.** Games without clock data are excluded from Claim 1 OTR related Analysis.
 
 ## 5. Ratings
 

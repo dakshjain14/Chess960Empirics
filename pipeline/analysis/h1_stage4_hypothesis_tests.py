@@ -146,8 +146,9 @@ def test_h1b_opening_time_ratio(
     CI (resamples whole players, not rows). Reads otr straight off
     banded_h1 (Stage 2's column, null on zero full-game denominator or
     zero opening-window coverage; see METHODOLOGY.md's "Clock data
-    coverage" section) — independent of extract_scalars.py's own OTR
-    reliability gate."""
+    coverage" section). OTR is computed only in this H1 per-move path
+    (h1_stage1/h1_stage2) and is null unless the game has full clock
+    coverage."""
     cols = ["corpus", "format", "band", "gap_bin", "mean_otr", "ci_lower", "ci_upper", "n", "status"]
     rows = []
     for (corpus, fmt, band, gap_bin), sub in banded_h1.groupby(

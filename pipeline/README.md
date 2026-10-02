@@ -54,7 +54,7 @@ Both manifests are loaded and combined at startup (`manifest_loader.load_manifes
 5. If the filename changed, delete the old file's copies from the three derived folders.
 6. `./run_all.sh`.
 
-**Over-the-board-only variant.** `--source-type otb` (on `run_pipeline.py`, `c3_close_game_drawrate.py` and `c5_upset_tests.py`) excludes the online Play-ins and writes `_otb`-suffixed outputs, which are not tracked. It reproduces the numbers in METHODOLOGY.md's Corpus note and is not part of `run_all.sh`.
+**Over-the-board-only variant.** `--source-type otb` excludes the online Play-ins. On `run_pipeline.py` it writes `_otb`-suffixed output files, which are not tracked; on `c3_close_game_drawrate.py` and `c5_upset_tests.py` it prints its results without writing any file. It reproduces the numbers in METHODOLOGY.md's Corpus note and is not part of `run_all.sh`.
 
 ## Modules
 
